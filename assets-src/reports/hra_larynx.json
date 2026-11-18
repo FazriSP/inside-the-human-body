@@ -1,0 +1,241 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\hubmap-hra\\glb\\3d-vh-m-larynx.glb",
+ "import_seconds": 0.91,
+ "mesh_count": 7,
+ "total_tris": 13238,
+ "total_verts": 6772,
+ "non_mesh_objects": {
+  "EMPTY": 4
+ },
+ "scene_bbox_min": [
+  -0.0284,
+  -0.0603,
+  0.6276
+ ],
+ "scene_bbox_max": [
+  0.0253,
+  -0.0217,
+  0.7002
+ ],
+ "naming": {
+  "dup_suffix_count": 0,
+  "side_tag_count": 4,
+  "non_ascii_count": 0,
+  "unique_names": 7
+ },
+ "top_level_groups": {
+  "VH_M_larynx": 7
+ },
+ "second_level_groups": {
+  "VH_M_larynx/VH_M_laryngeal_cartilage": 5,
+  "VH_M_larynx/VH_M_corniculate_cartilage": 2
+ },
+ "heaviest_meshes": [
+  {
+   "name": "VH_M_thyroid_cartilage",
+   "tris": 7176
+  },
+  {
+   "name": "VH_M_cricoid_cartilage",
+   "tris": 2130
+  },
+  {
+   "name": "VH_M_arytenoid_cartilage_L",
+   "tris": 1320
+  },
+  {
+   "name": "VH_M_arytenoid_cartilage_R",
+   "tris": 1206
+  },
+  {
+   "name": "VH_M_epiglottic_cartilage",
+   "tris": 814
+  },
+  {
+   "name": "VH_M_corniculate_cartilage_R",
+   "tris": 338
+  },
+  {
+   "name": "VH_M_corniculate_cartilage_L",
+   "tris": 254
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "VH_M_arytenoid_cartilage_R",
+   "path": "VH_M_larynx/VH_M_laryngeal_cartilage/VH_M_arytenoid_cartilage/VH_M_arytenoid_cartilage_R",
+   "parent": "VH_M_arytenoid_cartilage",
+   "verts": 655,
+   "tris": 1206,
+   "materials": [
+    "Cartilage_Mat"
+   ],
+   "bbox_min": [
+    -0.0132,
+    -0.0436,
+    0.6504
+   ],
+   "bbox_max": [
+    -0.0026,
+    -0.0287,
+    0.6651
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_arytenoid_cartilage_L",
+   "path": "VH_M_larynx/VH_M_laryngeal_cartilage/VH_M_arytenoid_cartilage/VH_M_arytenoid_cartilage_L",
+   "parent": "VH_M_arytenoid_cartilage",
+   "verts": 718,
+   "tris": 1320,
+   "materials": [
+    "Cartilage_Mat"
+   ],
+   "bbox_min": [
+    0.0021,
+    -0.0434,
+    0.6501
+   ],
+   "bbox_max": [
+    0.011,
+    -0.0275,
+    0.6649
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_epiglottic_cartilage",
+   "path": "VH_M_larynx/VH_M_laryngeal_cartilage/VH_M_epiglottic_cartilage",
+   "parent": "VH_M_laryngeal_cartilage",
+   "verts": 429,
+   "tris": 814,
+   "materials": [
+    "Cartilage_Mat"
+   ],
+   "bbox_min": [
+    -0.0167,
+    -0.047,
+    0.6649
+   ],
+   "bbox_max": [
+    0.0096,
+    -0.0276,
+    0.7002
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_cricoid_cartilage",
+   "path": "VH_M_larynx/VH_M_laryngeal_cartilage/VH_M_cricoid_cartilage",
+   "parent": "VH_M_laryngeal_cartilage",
+   "verts": 1065,
+   "tris": 2130,
+   "materials": [
+    "Cartilage_Mat.001"
+   ],
+   "bbox_min": [
+    -0.0163,
+    -0.051,
+    0.6276
+   ],
+   "bbox_max": [
+    0.013,
+    -0.0239,
+    0.6549
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_thyroid_cartilage",
+   "path": "VH_M_larynx/VH_M_laryngeal_cartilage/VH_M_thyroid_cartilage",
+   "parent": "VH_M_laryngeal_cartilage",
+   "verts": 3590,
+   "tris": 7176,
+   "materials": [
+    "Cartilage_Mat.001"
+   ],
+   "bbox_min": [
+    -0.0284,
+    -0.0603,
+    0.6374
+   ],
+   "bbox_max": [
+    0.0253,
+    -0.0217,
+    0.6818
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_corniculate_cartilage_L",
+   "path": "VH_M_larynx/VH_M_corniculate_cartilage/VH_M_corniculate_cartilage_L",
+   "parent": "VH_M_corniculate_cartilage",
+   "verts": 136,
+   "tris": 254,
+   "materials": [
+    "Cartilage_Mat"
+   ],
+   "bbox_min": [
+    0.0007,
+    -0.0318,
+    0.6648
+   ],
+   "bbox_max": [
+    0.0058,
+    -0.0274,
+    0.6682
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_corniculate_cartilage_R",
+   "path": "VH_M_larynx/VH_M_corniculate_cartilage/VH_M_corniculate_cartilage_R",
+   "parent": "VH_M_corniculate_cartilage",
+   "verts": 179,
+   "tris": 338,
+   "materials": [
+    "Cartilage_Mat"
+   ],
+   "bbox_min": [
+    -0.0087,
+    -0.0331,
+    0.6651
+   ],
+   "bbox_max": [
+    -0.0034,
+    -0.0276,
+    0.6682
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

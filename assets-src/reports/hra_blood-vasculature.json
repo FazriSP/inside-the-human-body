@@ -1,0 +1,2793 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\hubmap-hra\\glb\\3d-vh-m-blood-vasculature.glb",
+ "import_seconds": 2.05,
+ "mesh_count": 106,
+ "total_tris": 416532,
+ "total_verts": 442064,
+ "non_mesh_objects": {
+  "EMPTY": 49
+ },
+ "scene_bbox_min": [
+  -0.1119,
+  -0.0969,
+  -0.0431
+ ],
+ "scene_bbox_max": [
+  0.1243,
+  0.0905,
+  0.8288
+ ],
+ "naming": {
+  "dup_suffix_count": 0,
+  "side_tag_count": 32,
+  "non_ascii_count": 0,
+  "unique_names": 106
+ },
+ "top_level_groups": {
+  "VH_M_blood_vasculature": 106
+ },
+ "second_level_groups": {
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart": 37,
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine": 32,
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver": 15,
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye": 14,
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_kidney": 4,
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_spleen": 2,
+  "VH_M_blood_vasculature/VH_M_blood_vasculature_of_gall_bladder": 2
+ },
+ "heaviest_meshes": [
+  {
+   "name": "VH_M_long_posterior_ciliary_artery_L",
+   "tris": 28546
+  },
+  {
+   "name": "VH_M_long_posterior_ciliary_artery_R",
+   "tris": 28546
+  },
+  {
+   "name": "VH_M_opthalmic_artery_L",
+   "tris": 18432
+  },
+  {
+   "name": "VH_M_opthalmic_artery_R",
+   "tris": 18432
+  },
+  {
+   "name": "VH_M_brachiocephalic_vein_L",
+   "tris": 15662
+  },
+  {
+   "name": "VH_M_superior_ophthalmic_vein_L",
+   "tris": 13080
+  },
+  {
+   "name": "VH_M_superior_ophthalmic_vein_R",
+   "tris": 13080
+  },
+  {
+   "name": "VH_M_left_coronary_artery",
+   "tris": 12235
+  },
+  {
+   "name": "VH_M_right_coronary_artery",
+   "tris": 11570
+  },
+  {
+   "name": "VH_M_superior_vena_cava",
+   "tris": 11221
+  },
+  {
+   "name": "VH_M_inferior_vena_cava_b",
+   "tris": 11122
+  },
+  {
+   "name": "VH_M_splenic_vein",
+   "tris": 10593
+  },
+  {
+   "name": "VH_M_marginal_artery_of_Drummond",
+   "tris": 9590
+  },
+  {
+   "name": "VH_M_left_anterior_descending_artery",
+   "tris": 8940
+  },
+  {
+   "name": "VH_M_inferior_ophthalmic_vein_L",
+   "tris": 8384
+  },
+  {
+   "name": "VH_M_inferior_ophthalmic_vein_R",
+   "tris": 8384
+  },
+  {
+   "name": "VH_M_descending_aorta_b",
+   "tris": 7666
+  },
+  {
+   "name": "VH_M_brachiocephalic_vein_R",
+   "tris": 7466
+  },
+  {
+   "name": "VH_M_superior_mesenteric_vein",
+   "tris": 6877
+  },
+  {
+   "name": "VH_M_pulmonary_artery_L",
+   "tris": 6132
+  },
+  {
+   "name": "VH_M_inferior_vena_cava_a",
+   "tris": 5880
+  },
+  {
+   "name": "VH_M_superior_rectal_vein",
+   "tris": 5793
+  },
+  {
+   "name": "VH_M_splenic_artery",
+   "tris": 5487
+  },
+  {
+   "name": "VH_M_sigmoid_vein",
+   "tris": 5390
+  },
+  {
+   "name": "VH_M_ileocolic_vein",
+   "tris": 5209
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "VH_M_ophthalmic_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_L/VH_M_ophthalmic_vein_L",
+   "parent": "VH_M_ocular_veins_L",
+   "verts": 3256,
+   "tris": 1628,
+   "materials": [
+    "eye_edits_012024:pasted__vein_mat"
+   ],
+   "bbox_min": [
+    0.0186,
+    -0.048,
+    0.8043
+   ],
+   "bbox_max": [
+    0.0248,
+    -0.0424,
+    0.8065
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_superior_ophthalmic_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_L/VH_M_superior_ophthalmic_vein_L",
+   "parent": "VH_M_ocular_veins_L",
+   "verts": 26157,
+   "tris": 13080,
+   "materials": [
+    "eye_edits_012024:pasted__vein_mat.001"
+   ],
+   "bbox_min": [
+    0.0154,
+    -0.0969,
+    0.8055
+   ],
+   "bbox_max": [
+    0.0281,
+    -0.0467,
+    0.8282
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_ophthalmic_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_L/VH_M_inferior_ophthalmic_vein_L",
+   "parent": "VH_M_ocular_veins_L",
+   "verts": 16762,
+   "tris": 8384,
+   "materials": [
+    "eye_edits_012024:pasted__vein_mat.001"
+   ],
+   "bbox_min": [
+    0.0233,
+    -0.0913,
+    0.7959
+   ],
+   "bbox_max": [
+    0.0273,
+    -0.0477,
+    0.805
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_central_retinal_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_L/VH_M_central_retinal_vein_L",
+   "parent": "VH_M_ocular_veins_L",
+   "verts": 4156,
+   "tris": 2078,
+   "materials": [
+    "eye_edits_012024:pasted__vein_mat.001"
+   ],
+   "bbox_min": [
+    0.0233,
+    -0.0758,
+    0.8075
+   ],
+   "bbox_max": [
+    0.034,
+    -0.0496,
+    0.8103
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_ophthalmic_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_R/VH_M_ophthalmic_vein_R",
+   "parent": "VH_M_ocular_veins_R",
+   "verts": 3256,
+   "tris": 1628,
+   "materials": [
+    "eye_edits_012022:pasted__vein_mat"
+   ],
+   "bbox_min": [
+    -0.0229,
+    -0.048,
+    0.8049
+   ],
+   "bbox_max": [
+    -0.0168,
+    -0.0424,
+    0.807
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_superior_ophthalmic_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_R/VH_M_superior_ophthalmic_vein_R",
+   "parent": "VH_M_ocular_veins_R",
+   "verts": 26157,
+   "tris": 13080,
+   "materials": [
+    "eye_edits_012022:pasted__vein_mat.001"
+   ],
+   "bbox_min": [
+    -0.0262,
+    -0.0969,
+    0.8061
+   ],
+   "bbox_max": [
+    -0.0135,
+    -0.0467,
+    0.8288
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_ophthalmic_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_R/VH_M_inferior_ophthalmic_vein_R",
+   "parent": "VH_M_ocular_veins_R",
+   "verts": 16762,
+   "tris": 8384,
+   "materials": [
+    "eye_edits_012022:pasted__vein_mat.001"
+   ],
+   "bbox_min": [
+    -0.0254,
+    -0.0913,
+    0.7964
+   ],
+   "bbox_max": [
+    -0.0215,
+    -0.0477,
+    0.8056
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_central_retinal_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_veins_of_eye/VH_M_ocular_veins_R/VH_M_central_retinal_vein_R",
+   "parent": "VH_M_ocular_veins_R",
+   "verts": 4156,
+   "tris": 2078,
+   "materials": [
+    "eye_edits_012022:pasted__vein_mat.001"
+   ],
+   "bbox_min": [
+    -0.0321,
+    -0.0758,
+    0.8081
+   ],
+   "bbox_max": [
+    -0.0214,
+    -0.0496,
+    0.8109
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_central_retinal_artery_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_arteries_of_eye/VH_M_ocular_arteries_L/VH_M_central_retinal_artery_L",
+   "parent": "VH_M_ocular_arteries_L",
+   "verts": 8702,
+   "tris": 4352,
+   "materials": [
+    "eye_edits_012024:pasted__artery_mat"
+   ],
+   "bbox_min": [
+    0.0234,
+    -0.0756,
+    0.8076
+   ],
+   "bbox_max": [
+    0.034,
+    -0.0514,
+    0.8105
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_opthalmic_artery_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_arteries_of_eye/VH_M_ocular_arteries_L/VH_M_opthalmic_artery_L",
+   "parent": "VH_M_ocular_arteries_L",
+   "verts": 36854,
+   "tris": 18432,
+   "materials": [
+    "eye_edits_012024:pasted__artery_mat"
+   ],
+   "bbox_min": [
+    0.0185,
+    -0.092,
+    0.8068
+   ],
+   "bbox_max": [
+    0.0263,
+    -0.0431,
+    0.8177
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_long_posterior_ciliary_artery_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_arteries_of_eye/VH_M_ocular_arteries_L/VH_M_long_posterior_ciliary_artery_L",
+   "parent": "VH_M_ocular_arteries_L",
+   "verts": 58042,
+   "tris": 28546,
+   "materials": [
+    "pasted__pasted__dura_mater_mat"
+   ],
+   "bbox_min": [
+    0.0254,
+    -0.0778,
+    0.8091
+   ],
+   "bbox_max": [
+    0.0427,
+    -0.071,
+    0.8123
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_central_retinal_artery_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_arteries_of_eye/VH_M_ocular_arteries_R/VH_M_central_retinal_artery_R",
+   "parent": "VH_M_ocular_arteries_R",
+   "verts": 8702,
+   "tris": 4352,
+   "materials": [
+    "eye_edits_012022:pasted__artery_mat"
+   ],
+   "bbox_min": [
+    -0.0322,
+    -0.0756,
+    0.8081
+   ],
+   "bbox_max": [
+    -0.0216,
+    -0.0514,
+    0.811
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_opthalmic_artery_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_arteries_of_eye/VH_M_ocular_arteries_R/VH_M_opthalmic_artery_R",
+   "parent": "VH_M_ocular_arteries_R",
+   "verts": 36854,
+   "tris": 18432,
+   "materials": [
+    "eye_edits_012022:pasted__artery_mat"
+   ],
+   "bbox_min": [
+    -0.0245,
+    -0.092,
+    0.8073
+   ],
+   "bbox_max": [
+    -0.0166,
+    -0.0431,
+    0.8182
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_long_posterior_ciliary_artery_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_eye/VH_M_arteries_of_eye/VH_M_ocular_arteries_R/VH_M_long_posterior_ciliary_artery_R",
+   "parent": "VH_M_ocular_arteries_R",
+   "verts": 58042,
+   "tris": 28546,
+   "materials": [
+    "pasted__dura_mater_mat"
+   ],
+   "bbox_min": [
+    -0.0409,
+    -0.0778,
+    0.8096
+   ],
+   "bbox_max": [
+    -0.0236,
+    -0.071,
+    0.8128
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_mesenteric_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_inferior_mesenteric_vein",
+   "parent": "VH_M_veins_of_large_intestine",
+   "verts": 2175,
+   "tris": 4228,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0222,
+    -0.0328,
+    0.1606
+   ],
+   "bbox_max": [
+    0.0457,
+    -0.0137,
+    0.3397
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_median_sacral_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_median_sacral_vein",
+   "parent": "VH_M_veins_of_large_intestine",
+   "verts": 733,
+   "tris": 1450,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0068,
+    -0.0169,
+    0.0953
+   ],
+   "bbox_max": [
+    0.0083,
+    0.0693,
+    0.1608
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_sigmoid_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_sigmoid_vein",
+   "parent": "VH_M_veins_of_large_intestine",
+   "verts": 2717,
+   "tris": 5390,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0176,
+    -0.0304,
+    0.0966
+   ],
+   "bbox_max": [
+    0.0477,
+    0.0044,
+    0.1638
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_superior_mesenteric_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_superior_mesenteric_vein",
+   "parent": "VH_M_veins_of_large_intestine",
+   "verts": 3575,
+   "tris": 6877,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0164,
+    -0.0668,
+    0.1362
+   ],
+   "bbox_max": [
+    0.0183,
+    -0.0279,
+    0.3392
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_superior_rectal_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_superior_rectal_vein",
+   "parent": "VH_M_veins_of_large_intestine",
+   "verts": 2940,
+   "tris": 5793,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0043,
+    -0.0277,
+    0.0241
+   ],
+   "bbox_max": [
+    0.0291,
+    0.0887,
+    0.1695
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_common_iliac_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_common_iliac_vein/VH_M_common_iliac_vein_L",
+   "parent": "VH_M_common_iliac_vein",
+   "verts": 494,
+   "tris": 922,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0002,
+    -0.0229,
+    0.1091
+   ],
+   "bbox_max": [
+    0.0432,
+    0.0062,
+    0.1788
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_common_iliac_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_common_iliac_vein/VH_M_common_iliac_vein_R",
+   "parent": "VH_M_common_iliac_vein",
+   "verts": 403,
+   "tris": 756,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0396,
+    -0.0236,
+    0.1121
+   ],
+   "bbox_max": [
+    -0.0058,
+    -0.0011,
+    0.1753
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_pancreaticoduodenal_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_inferior_pancreaticoduodenal_vein",
+   "parent": "VH_M_veins_of_large_intestine",
+   "verts": 509,
+   "tris": 964,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0328,
+    -0.0579,
+    0.3034
+   ],
+   "bbox_max": [
+    -0.006,
+    -0.046,
+    0.317
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_external_iliac_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_external_iliac_vein/VH_M_external_iliac_vein_L",
+   "parent": "VH_M_external_iliac_vein",
+   "verts": 457,
+   "tris": 894,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0342,
+    -0.0423,
+    0.0589
+   ],
+   "bbox_max": [
+    0.062,
+    -0.0,
+    0.118
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_external_iliac_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_external_iliac_vein/VH_M_external_iliac_vein_R",
+   "parent": "VH_M_external_iliac_vein",
+   "verts": 441,
+   "tris": 862,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0523,
+    -0.0453,
+    0.0583
+   ],
+   "bbox_max": [
+    -0.0297,
+    -0.0088,
+    0.1225
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_rectal_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_inferior_rectal_vein/VH_M_inferior_rectal_vein_L",
+   "parent": "VH_M_inferior_rectal_vein",
+   "verts": 366,
+   "tris": 720,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0051,
+    0.052,
+    -0.0431
+   ],
+   "bbox_max": [
+    0.0534,
+    0.0905,
+    0.0287
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_rectal_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_inferior_rectal_vein/VH_M_inferior_rectal_vein_R",
+   "parent": "VH_M_inferior_rectal_vein",
+   "verts": 456,
+   "tris": 900,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0461,
+    0.0478,
+    -0.0424
+   ],
+   "bbox_max": [
+    -0.0034,
+    0.0905,
+    0.0227
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_internal_pudendal_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_internal_pudendal_vein/VH_M_internal_pudendal_vein_L",
+   "parent": "VH_M_internal_pudendal_vein",
+   "verts": 373,
+   "tris": 722,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0467,
+    0.0295,
+    0.007
+   ],
+   "bbox_max": [
+    0.0571,
+    0.0686,
+    0.0457
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_internal_pudendal_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_internal_pudendal_vein/VH_M_internal_pudendal_vein_R",
+   "parent": "VH_M_internal_pudendal_vein",
+   "verts": 306,
+   "tris": 584,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0512,
+    0.0332,
+    0.0034
+   ],
+   "bbox_max": [
+    -0.0439,
+    0.0656,
+    0.0375
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_internal_iliac_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_internal_iliac_vein/VH_M_internal_iliac_vein_L",
+   "parent": "VH_M_internal_iliac_vein",
+   "verts": 1022,
+   "tris": 1913,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0291,
+    0.0017,
+    0.0447
+   ],
+   "bbox_max": [
+    0.0527,
+    0.0724,
+    0.1238
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_internal_iliac_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_internal_iliac_vein/VH_M_internal_iliac_vein_R",
+   "parent": "VH_M_internal_iliac_vein",
+   "verts": 1332,
+   "tris": 2531,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0533,
+    -0.0113,
+    0.0339
+   ],
+   "bbox_max": [
+    -0.0239,
+    0.0738,
+    0.125
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_colic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_colic_vein/VH_M_left_colic_vein",
+   "parent": "VH_M_colic_vein",
+   "verts": 546,
+   "tris": 1048,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0411,
+    -0.0245,
+    0.2303
+   ],
+   "bbox_max": [
+    0.0672,
+    -0.0206,
+    0.2602
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_ileocolic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_colic_vein/VH_M_ileocolic_vein",
+   "parent": "VH_M_colic_vein",
+   "verts": 2654,
+   "tris": 5209,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0244,
+    -0.0613,
+    0.1325
+   ],
+   "bbox_max": [
+    0.0026,
+    -0.0301,
+    0.2736
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_colic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_colic_vein/VH_M_right_colic_vein",
+   "parent": "VH_M_colic_vein",
+   "verts": 1379,
+   "tris": 2714,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0542,
+    -0.0565,
+    0.2305
+   ],
+   "bbox_max": [
+    -0.0091,
+    -0.0334,
+    0.3061
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_colic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_colic_vein/VH_M_middle_colic_vein",
+   "parent": "VH_M_colic_vein",
+   "verts": 378,
+   "tris": 704,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0171,
+    -0.0677,
+    0.3033
+   ],
+   "bbox_max": [
+    -0.0083,
+    -0.0577,
+    0.3105
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_rectal_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_middle_rectal_vein/VH_M_middle_rectal_vein_L",
+   "parent": "VH_M_middle_rectal_vein",
+   "verts": 229,
+   "tris": 440,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0092,
+    0.0491,
+    0.0181
+   ],
+   "bbox_max": [
+    0.0425,
+    0.0712,
+    0.0504
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_rectal_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_veins_of_large_intestine/VH_M_middle_rectal_vein/VH_M_middle_rectal_vein_R",
+   "parent": "VH_M_middle_rectal_vein",
+   "verts": 162,
+   "tris": 314,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0398,
+    0.0495,
+    0.0182
+   ],
+   "bbox_max": [
+    -0.0061,
+    0.0644,
+    0.0409
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_colic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_colic_artery/VH_M_right_colic_artery",
+   "parent": "VH_M_colic_artery",
+   "verts": 1321,
+   "tris": 2598,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0528,
+    -0.0593,
+    0.2341
+   ],
+   "bbox_max": [
+    0.0028,
+    -0.0318,
+    0.3023
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_colic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_colic_artery/VH_M_middle_colic_artery",
+   "parent": "VH_M_colic_artery",
+   "verts": 1230,
+   "tris": 2401,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0299,
+    -0.0605,
+    0.2995
+   ],
+   "bbox_max": [
+    0.0082,
+    -0.0219,
+    0.3201
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_colic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_colic_artery/VH_M_left_colic_artery",
+   "parent": "VH_M_colic_artery",
+   "verts": 1122,
+   "tris": 2212,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.021,
+    -0.035,
+    0.1904
+   ],
+   "bbox_max": [
+    0.0696,
+    -0.009,
+    0.3058
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_ileocolic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_colic_artery/VH_M_ileocolic_artery",
+   "parent": "VH_M_colic_artery",
+   "verts": 1131,
+   "tris": 2205,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.029,
+    -0.0534,
+    0.1992
+   ],
+   "bbox_max": [
+    0.0017,
+    -0.0342,
+    0.274
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_sigmoid_artery_a",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_sigmoid_artery/VH_M_sigmoid_artery_a",
+   "parent": "VH_M_sigmoid_artery",
+   "verts": 544,
+   "tris": 1069,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0134,
+    -0.0303,
+    0.1237
+   ],
+   "bbox_max": [
+    0.0192,
+    0.003,
+    0.1809
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_sigmoid_artery_b",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_sigmoid_artery/VH_M_sigmoid_artery_b",
+   "parent": "VH_M_sigmoid_artery",
+   "verts": 449,
+   "tris": 843,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0199,
+    -0.0343,
+    0.1272
+   ],
+   "bbox_max": [
+    0.0268,
+    -0.0222,
+    0.1918
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_sigmoid_artery_c",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_sigmoid_artery/VH_M_sigmoid_artery_c",
+   "parent": "VH_M_sigmoid_artery",
+   "verts": 608,
+   "tris": 1164,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0219,
+    -0.0387,
+    0.1337
+   ],
+   "bbox_max": [
+    0.0426,
+    -0.0299,
+    0.1909
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_mesenteric_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_inferior_mesenteric_artery",
+   "parent": "VH_M_arteries_of_large_intestine",
+   "verts": 347,
+   "tris": 600,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0119,
+    -0.0343,
+    0.1721
+   ],
+   "bbox_max": [
+    0.0234,
+    -0.0254,
+    0.2045
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_superior_mesenteric_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_superior_mesenteric_artery",
+   "parent": "VH_M_arteries_of_large_intestine",
+   "verts": 1693,
+   "tris": 3250,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0001,
+    -0.0532,
+    0.273
+   ],
+   "bbox_max": [
+    0.0215,
+    -0.0092,
+    0.3258
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_marginal_artery_of_Drummond",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_large_intestine/VH_M_arteries_of_large_intestine/VH_M_marginal_artery_of_Drummond",
+   "parent": "VH_M_arteries_of_large_intestine",
+   "verts": 4821,
+   "tris": 9590,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0033,
+    -0.0728,
+    0.1062
+   ],
+   "bbox_max": [
+    0.0787,
+    -0.0082,
+    0.3645
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_renal_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_kidney/VH_M_veins_of_kidney/VH_M_renal_vein/VH_M_renal_vein_L",
+   "parent": "VH_M_renal_vein",
+   "verts": 707,
+   "tris": 1338,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.007,
+    -0.0241,
+    0.2929
+   ],
+   "bbox_max": [
+    0.0609,
+    0.0092,
+    0.314
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_renal_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_kidney/VH_M_veins_of_kidney/VH_M_renal_vein/VH_M_renal_vein_R",
+   "parent": "VH_M_renal_vein",
+   "verts": 300,
+   "tris": 536,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0621,
+    -0.0067,
+    0.2947
+   ],
+   "bbox_max": [
+    -0.0326,
+    0.0052,
+    0.314
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_renal_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_kidney/VH_M_arteries_of_kidney/VH_M_renal_artery/VH_M_left_renal_artery",
+   "parent": "VH_M_renal_artery",
+   "verts": 893,
+   "tris": 1734,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0511,
+    -0.0118,
+    0.2996
+   ],
+   "bbox_max": [
+    0.004,
+    0.0102,
+    0.3146
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_renal_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_kidney/VH_M_arteries_of_kidney/VH_M_renal_artery/VH_M_right_renal_artery",
+   "parent": "VH_M_renal_artery",
+   "verts": 725,
+   "tris": 1400,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0203,
+    -0.0095,
+    0.2953
+   ],
+   "bbox_max": [
+    0.0558,
+    0.0204,
+    0.3149
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_aortic_arch",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_aortic_arch",
+   "parent": "VH_M_aorta",
+   "verts": 1600,
+   "tris": 3076,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0147,
+    -0.0377,
+    0.5306
+   ],
+   "bbox_max": [
+    0.0237,
+    0.0255,
+    0.5696
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_ascending_aorta",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_ascending_aorta",
+   "parent": "VH_M_aorta",
+   "verts": 840,
+   "tris": 1600,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0154,
+    -0.0397,
+    0.5
+   ],
+   "bbox_max": [
+    0.0105,
+    -0.0174,
+    0.538
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_brachiocephalic_artery_b",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_brachiocephalic_artery/VH_M_brachiocephalic_artery_b",
+   "parent": "VH_M_brachiocephalic_artery",
+   "verts": 1500,
+   "tris": 2964,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0278,
+    -0.0286,
+    0.5766
+   ],
+   "bbox_max": [
+    -0.0065,
+    -0.0193,
+    0.6071
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_brachiocephalic_artery_a",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_brachiocephalic_artery/VH_M_brachiocephalic_artery_a",
+   "parent": "VH_M_brachiocephalic_artery",
+   "verts": 243,
+   "tris": 446,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.013,
+    -0.0274,
+    0.5608
+   ],
+   "bbox_max": [
+    0.0009,
+    -0.017,
+    0.5791
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_common_carotid_artery_a",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_left_common_carotid_artery/VH_M_left_common_carotid_artery_a",
+   "parent": "VH_M_left_common_carotid_artery",
+   "verts": 336,
+   "tris": 630,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0049,
+    -0.0205,
+    0.5683
+   ],
+   "bbox_max": [
+    0.0136,
+    -0.0125,
+    0.5845
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_common_carotid_artery_b",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_left_common_carotid_artery/VH_M_left_common_carotid_artery_b",
+   "parent": "VH_M_left_common_carotid_artery",
+   "verts": 1545,
+   "tris": 3067,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0098,
+    -0.0318,
+    0.5833
+   ],
+   "bbox_max": [
+    0.0325,
+    -0.0173,
+    0.6831
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_subclavian_artery_a",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_left_subclavian_artery/VH_M_left_subclavian_artery_a",
+   "parent": "VH_M_left_subclavian_artery",
+   "verts": 317,
+   "tris": 589,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.01,
+    -0.0094,
+    0.5664
+   ],
+   "bbox_max": [
+    0.0195,
+    0.0008,
+    0.585
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_subclavian_artery_b",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_left_subclavian_artery/VH_M_left_subclavian_artery_b",
+   "parent": "VH_M_left_subclavian_artery",
+   "verts": 1190,
+   "tris": 2317,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0149,
+    -0.0111,
+    0.5839
+   ],
+   "bbox_max": [
+    0.0277,
+    -0.0025,
+    0.6141
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_descending_aorta_a",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_descending_aorta/VH_M_descending_aorta_a",
+   "parent": "VH_M_descending_aorta",
+   "verts": 2546,
+   "tris": 4984,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0038,
+    0.014,
+    0.4017
+   ],
+   "bbox_max": [
+    0.0221,
+    0.0386,
+    0.5451
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_descending_aorta_b",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_aorta/VH_M_descending_aorta/VH_M_descending_aorta_b",
+   "parent": "VH_M_descending_aorta",
+   "verts": 3917,
+   "tris": 7666,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0021,
+    -0.0303,
+    0.1874
+   ],
+   "bbox_max": [
+    0.0222,
+    0.0301,
+    0.4032
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_anterior_descending_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_left_anterior_descending_artery",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 4491,
+   "tris": 8940,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0247,
+    -0.0872,
+    0.4274
+   ],
+   "bbox_max": [
+    0.0605,
+    -0.0226,
+    0.5055
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_marginal_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_right_marginal_artery",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 1071,
+   "tris": 2120,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0278,
+    -0.0726,
+    0.4349
+   ],
+   "bbox_max": [
+    -0.0033,
+    -0.067,
+    0.4502
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_posterior_descending_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_right_posterior_descending_artery",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 2525,
+   "tris": 5028,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0095,
+    -0.0779,
+    0.4249
+   ],
+   "bbox_max": [
+    0.0603,
+    -0.0292,
+    0.4444
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_diagonal_branch_of_anterior_descending_branch_of_left_coro",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_diagonal_branch_of_anterior_descending_branch_of_left_coro",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 1016,
+   "tris": 2010,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0409,
+    -0.0545,
+    0.4897
+   ],
+   "bbox_max": [
+    0.0562,
+    -0.0329,
+    0.5003
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_coronary_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_left_coronary_artery",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 6306,
+   "tris": 12235,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0117,
+    -0.0266,
+    0.5029
+   ],
+   "bbox_max": [
+    0.025,
+    -0.0215,
+    0.51
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_coronary_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_right_coronary_artery",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 5829,
+   "tris": 11570,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0277,
+    -0.0679,
+    0.4328
+   ],
+   "bbox_max": [
+    0.0274,
+    0.0012,
+    0.5023
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_diagonal_branch_of_left_anterior_descending_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_diagonal_branch_of_left_anterior_descending_artery",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 1676,
+   "tris": 3307,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0213,
+    -0.0234,
+    0.4662
+   ],
+   "bbox_max": [
+    0.0427,
+    0.005,
+    0.5042
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_marginal_branch",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_cardiac_artery/VH_M_left_marginal_branch",
+   "parent": "VH_M_cardiac_artery",
+   "verts": 984,
+   "tris": 1948,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0416,
+    -0.0236,
+    0.4811
+   ],
+   "bbox_max": [
+    0.0645,
+    -0.0065,
+    0.488
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_artery_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_pulmonary_artery/VH_M_pulmonary_artery_L",
+   "parent": "VH_M_pulmonary_artery",
+   "verts": 3056,
+   "tris": 6132,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0138,
+    -0.0183,
+    0.5049
+   ],
+   "bbox_max": [
+    0.0573,
+    0.0277,
+    0.5433
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_artery_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_pulmonary_artery/VH_M_pulmonary_artery_R",
+   "parent": "VH_M_pulmonary_artery",
+   "verts": 1587,
+   "tris": 3178,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0253,
+    -0.0218,
+    0.5124
+   ],
+   "bbox_max": [
+    0.007,
+    0.0048,
+    0.537
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_trunk",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_arteries_of_heart/VH_M_pulmonary_artery/VH_M_pulmonary_trunk",
+   "parent": "VH_M_pulmonary_artery",
+   "verts": 1561,
+   "tris": 3126,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0012,
+    -0.0487,
+    0.5051
+   ],
+   "bbox_max": [
+    0.0297,
+    -0.0019,
+    0.5435
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_great_cardiac_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_great_cardiac_vein",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 282,
+   "tris": 556,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.038,
+    -0.087,
+    0.4272
+   ],
+   "bbox_max": [
+    0.0599,
+    -0.0176,
+    0.5019
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_cardiac_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_middle_cardiac_vein",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 327,
+   "tris": 642,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.007,
+    -0.077,
+    0.4237
+   ],
+   "bbox_max": [
+    0.0621,
+    -0.021,
+    0.4423
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_oblique_vein_of_left_atrium",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_oblique_vein_of_left_atrium",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 51,
+   "tris": 92,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    0.0331,
+    -0.0247,
+    0.5025
+   ],
+   "bbox_max": [
+    0.0364,
+    -0.017,
+    0.5156
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_anterior_cardiac_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_anterior_cardiac_vein",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 201,
+   "tris": 375,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0265,
+    -0.0782,
+    0.4378
+   ],
+   "bbox_max": [
+    -0.0,
+    -0.057,
+    0.4836
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_coronary_sinus",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_coronary_sinus",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 685,
+   "tris": 1334,
+   "materials": [
+    "vein_mat.001"
+   ],
+   "bbox_min": [
+    0.0003,
+    -0.0251,
+    0.4389
+   ],
+   "bbox_max": [
+    0.0455,
+    0.0074,
+    0.5033
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_posterior_vein_of_left_ventricle",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_posterior_vein_of_left_ventricle",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 310,
+   "tris": 608,
+   "materials": [
+    "vein_mat.001"
+   ],
+   "bbox_min": [
+    0.0437,
+    -0.0432,
+    0.4507
+   ],
+   "bbox_max": [
+    0.0792,
+    0.0012,
+    0.4827
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_small_cardiac_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_cardiac_vein/VH_M_small_cardiac_vein",
+   "parent": "VH_M_cardiac_vein",
+   "verts": 903,
+   "tris": 1802,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0238,
+    -0.0696,
+    0.4333
+   ],
+   "bbox_max": [
+    0.0042,
+    -0.0211,
+    0.4453
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_vein_R_inf",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_pulmonary_vein/VH_M_pulmonary_vein_R_inf",
+   "parent": "VH_M_pulmonary_vein",
+   "verts": 2037,
+   "tris": 4078,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0324,
+    0.0064,
+    0.4761
+   ],
+   "bbox_max": [
+    -0.0121,
+    0.0193,
+    0.5013
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_vein_R_sup",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_pulmonary_vein/VH_M_pulmonary_vein_R_sup",
+   "parent": "VH_M_pulmonary_vein",
+   "verts": 932,
+   "tris": 1868,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    -0.0387,
+    -0.0114,
+    0.487
+   ],
+   "bbox_max": [
+    -0.0236,
+    0.0013,
+    0.5079
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_vein_L_inf",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_pulmonary_vein/VH_M_pulmonary_vein_L_inf",
+   "parent": "VH_M_pulmonary_vein",
+   "verts": 1011,
+   "tris": 2026,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.02,
+    0.0063,
+    0.4821
+   ],
+   "bbox_max": [
+    0.0428,
+    0.0244,
+    0.5063
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_vein_L_sup",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_pulmonary_vein/VH_M_pulmonary_vein_L_sup",
+   "parent": "VH_M_pulmonary_vein",
+   "verts": 915,
+   "tris": 1834,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0323,
+    -0.015,
+    0.5146
+   ],
+   "bbox_max": [
+    0.0472,
+    -0.001,
+    0.534
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_brachiocephalic_vein_L",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_brachiocephalic_vein/VH_M_brachiocephalic_vein_L",
+   "parent": "VH_M_brachiocephalic_vein",
+   "verts": 7823,
+   "tris": 15662,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0193,
+    -0.0396,
+    0.5503
+   ],
+   "bbox_max": [
+    0.0486,
+    -0.0185,
+    0.6117
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_brachiocephalic_vein_R",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_brachiocephalic_vein/VH_M_brachiocephalic_vein_R",
+   "parent": "VH_M_brachiocephalic_vein",
+   "verts": 3729,
+   "tris": 7466,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.051,
+    -0.0349,
+    0.5569
+   ],
+   "bbox_max": [
+    -0.0224,
+    -0.0138,
+    0.6081
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_superior_vena_cava",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_vena_cava/VH_M_superior_vena_cava",
+   "parent": "VH_M_vena_cava",
+   "verts": 5636,
+   "tris": 11221,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0394,
+    -0.0352,
+    0.4993
+   ],
+   "bbox_max": [
+    -0.0115,
+    -0.0047,
+    0.5661
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_vena_cava_b",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_vena_cava/VH_M_inferior_vena_cava/VH_M_inferior_vena_cava_b",
+   "parent": "VH_M_inferior_vena_cava",
+   "verts": 5613,
+   "tris": 11122,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0406,
+    -0.0274,
+    0.1689
+   ],
+   "bbox_max": [
+    0.0099,
+    0.0214,
+    0.4043
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_inferior_vena_cava_a",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_heart/VH_M_veins_of_heart/VH_M_vena_cava/VH_M_inferior_vena_cava/VH_M_inferior_vena_cava_a",
+   "parent": "VH_M_inferior_vena_cava",
+   "verts": 2960,
+   "tris": 5880,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0369,
+    -0.0278,
+    0.4001
+   ],
+   "bbox_max": [
+    -0.0037,
+    0.0204,
+    0.4573
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_splenic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_spleen/VH_M_veins_of_spleen/VH_M_splenic_vein",
+   "parent": "VH_M_veins_of_spleen",
+   "verts": 5352,
+   "tris": 10593,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0001,
+    -0.0396,
+    0.3316
+   ],
+   "bbox_max": [
+    0.1243,
+    0.0528,
+    0.4224
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_splenic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_spleen/VH_M_arteries_of_spleen/VH_M_splenic_artery",
+   "parent": "VH_M_arteries_of_spleen",
+   "verts": 2768,
+   "tris": 5487,
+   "materials": [
+    "artery_mat"
+   ],
+   "bbox_min": [
+    0.0137,
+    -0.019,
+    0.3401
+   ],
+   "bbox_max": [
+    0.1039,
+    0.0555,
+    0.3879
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_cystic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_gall_bladder/VH_M_veins_of_gallbladder/VH_M_cystic_vein",
+   "parent": "VH_M_veins_of_gallbladder",
+   "verts": 408,
+   "tris": 792,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.066,
+    -0.0545,
+    0.358
+   ],
+   "bbox_max": [
+    -0.0425,
+    -0.016,
+    0.3654
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_cystic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_gall_bladder/VH_M_arteries_of_gallbladder/VH_M_cystic_artery",
+   "parent": "VH_M_arteries_of_gallbladder",
+   "verts": 126,
+   "tris": 240,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0636,
+    -0.0532,
+    0.3643
+   ],
+   "bbox_max": [
+    -0.0489,
+    -0.0219,
+    0.3682
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_celiac_trunk",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_celiac_trunk",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 341,
+   "tris": 617,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    0.0065,
+    -0.0206,
+    0.3282
+   ],
+   "bbox_max": [
+    0.0231,
+    -0.0018,
+    0.3552
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_left_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 350,
+   "tris": 634,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.03,
+    -0.0438,
+    0.3661
+   ],
+   "bbox_max": [
+    -0.0143,
+    -0.0244,
+    0.3813
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_proper_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_proper_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 335,
+   "tris": 598,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0309,
+    -0.0285,
+    0.3554
+   ],
+   "bbox_max": [
+    -0.0102,
+    -0.0208,
+    0.3683
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_posterior_segmental_right_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_posterior_segmental_right_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 454,
+   "tris": 856,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0672,
+    -0.0169,
+    0.3531
+   ],
+   "bbox_max": [
+    -0.0492,
+    0.0194,
+    0.3686
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_right_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 324,
+   "tris": 590,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0534,
+    -0.0256,
+    0.364
+   ],
+   "bbox_max": [
+    -0.0293,
+    -0.0146,
+    0.3717
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_anterior_segmental_right_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_anterior_segmental_right_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 221,
+   "tris": 388,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0616,
+    -0.0181,
+    0.3676
+   ],
+   "bbox_max": [
+    -0.0509,
+    -0.0108,
+    0.3791
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_common_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_common_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 302,
+   "tris": 546,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0137,
+    -0.0289,
+    0.3425
+   ],
+   "bbox_max": [
+    0.0089,
+    -0.0163,
+    0.3601
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_hepatic_artery_branch_of_left_hepatic_artery",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_arteries_of_liver/VH_M_middle_hepatic_artery_branch_of_left_hepatic_artery",
+   "parent": "VH_M_arteries_of_liver",
+   "verts": 182,
+   "tris": 336,
+   "materials": [
+    "phong4"
+   ],
+   "bbox_min": [
+    -0.0212,
+    -0.0326,
+    0.3728
+   ],
+   "bbox_max": [
+    -0.0122,
+    -0.0174,
+    0.384
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_hepatic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_right_hepatic_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 1283,
+   "tris": 2486,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.1119,
+    0.0068,
+    0.3245
+   ],
+   "bbox_max": [
+    -0.0296,
+    0.0169,
+    0.4274
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_hepatic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_left_hepatic_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 1106,
+   "tris": 2144,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0261,
+    -0.0913,
+    0.3663
+   ],
+   "bbox_max": [
+    -0.0023,
+    -0.0059,
+    0.422
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_middle_hepatic_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_middle_hepatic_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 995,
+   "tris": 1928,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0893,
+    -0.066,
+    0.3689
+   ],
+   "bbox_max": [
+    -0.0201,
+    0.0037,
+    0.4185
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_branch_of_portal_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_left_branch_of_portal_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 304,
+   "tris": 576,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0326,
+    -0.0422,
+    0.3673
+   ],
+   "bbox_max": [
+    -0.0122,
+    -0.0154,
+    0.3878
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_branch_of_portal_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_right_branch_of_portal_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 580,
+   "tris": 1120,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0762,
+    -0.0162,
+    0.36
+   ],
+   "bbox_max": [
+    -0.0413,
+    0.0144,
+    0.3799
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_portal_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_portal_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 928,
+   "tris": 1780,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0448,
+    -0.0351,
+    0.3294
+   ],
+   "bbox_max": [
+    0.0071,
+    -0.0077,
+    0.3712
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_hepatic_portal_vein",
+   "path": "VH_M_blood_vasculature/VH_M_blood_vasculature_of_liver/VH_M_veins_of_liver/VH_M_hepatic_portal_vein",
+   "parent": "VH_M_veins_of_liver",
+   "verts": 758,
+   "tris": 1447,
+   "materials": [
+    "vein_mat"
+   ],
+   "bbox_min": [
+    -0.0384,
+    -0.0395,
+    0.3345
+   ],
+   "bbox_max": [
+    0.0043,
+    -0.0104,
+    0.3773
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

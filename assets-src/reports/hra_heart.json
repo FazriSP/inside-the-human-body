@@ -1,0 +1,445 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\hubmap-hra\\glb\\3d-vh-m-heart.glb",
+ "import_seconds": 1.35,
+ "mesh_count": 14,
+ "total_tris": 164107,
+ "total_verts": 82066,
+ "non_mesh_objects": {
+  "EMPTY": 4
+ },
+ "scene_bbox_min": [
+  -0.0434,
+  -0.0902,
+  0.4234
+ ],
+ "scene_bbox_max": [
+  0.0809,
+  0.015,
+  0.5288
+ ],
+ "naming": {
+  "dup_suffix_count": 0,
+  "side_tag_count": 0,
+  "non_ascii_count": 0,
+  "unique_names": 14
+ },
+ "top_level_groups": {
+  "VH_M_heart": 14
+ },
+ "second_level_groups": {
+  "VH_M_heart/VH_M_papillary_muscle_of_heart": 5,
+  "VH_M_heart/VH_M_cardiac_chamber": 5,
+  "VH_M_heart/VH_M_heart_valve": 4
+ },
+ "heaviest_meshes": [
+  {
+   "name": "VH_M_right_cardiac_atrium",
+   "tris": 48174
+  },
+  {
+   "name": "VH_M_left_cardiac_atrium",
+   "tris": 33946
+  },
+  {
+   "name": "VH_M_heart_right_ventricle",
+   "tris": 27622
+  },
+  {
+   "name": "VH_M_pulmonary_valve",
+   "tris": 13288
+  },
+  {
+   "name": "VH_M_tricuspid_valve",
+   "tris": 12490
+  },
+  {
+   "name": "VH_M_heart_left_ventricle",
+   "tris": 9350
+  },
+  {
+   "name": "VH_M_interventricular_septum",
+   "tris": 8074
+  },
+  {
+   "name": "VH_M_mitral_valve",
+   "tris": 6468
+  },
+  {
+   "name": "VH_M_aortic_valve",
+   "tris": 2680
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_anterior",
+   "tris": 638
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_posteromedial",
+   "tris": 576
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_anterolateral",
+   "tris": 518
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_medial",
+   "tris": 152
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_posterior",
+   "tris": 131
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "VH_M_mitral_valve",
+   "path": "VH_M_heart/VH_M_heart_valve/VH_M_mitral_valve",
+   "parent": "VH_M_heart_valve",
+   "verts": 3234,
+   "tris": 6468,
+   "materials": [
+    "heart_mat"
+   ],
+   "bbox_min": [
+    0.0044,
+    -0.0269,
+    0.4565
+   ],
+   "bbox_max": [
+    0.041,
+    0.0035,
+    0.4976
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_tricuspid_valve",
+   "path": "VH_M_heart/VH_M_heart_valve/VH_M_tricuspid_valve",
+   "parent": "VH_M_heart_valve",
+   "verts": 6245,
+   "tris": 12490,
+   "materials": [
+    "heart_mat"
+   ],
+   "bbox_min": [
+    -0.0244,
+    -0.0645,
+    0.4368
+   ],
+   "bbox_max": [
+    0.0134,
+    -0.0269,
+    0.483
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_aortic_valve",
+   "path": "VH_M_heart/VH_M_heart_valve/VH_M_aortic_valve",
+   "parent": "VH_M_heart_valve",
+   "verts": 1372,
+   "tris": 2680,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    -0.0055,
+    -0.0394,
+    0.4865
+   ],
+   "bbox_max": [
+    0.0192,
+    -0.0179,
+    0.5119
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_pulmonary_valve",
+   "path": "VH_M_heart/VH_M_heart_valve/VH_M_pulmonary_valve",
+   "parent": "VH_M_heart_valve",
+   "verts": 6644,
+   "tris": 13288,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0044,
+    -0.0538,
+    0.4964
+   ],
+   "bbox_max": [
+    0.0301,
+    -0.0308,
+    0.5206
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_anterior",
+   "path": "VH_M_heart/VH_M_papillary_muscle_of_heart/VH_M_papillary_muscle_of_heart_anterior",
+   "parent": "VH_M_papillary_muscle_of_heart",
+   "verts": 341,
+   "tris": 638,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0073,
+    -0.0853,
+    0.4458
+   ],
+   "bbox_max": [
+    0.0306,
+    -0.0689,
+    0.4602
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_anterolateral",
+   "path": "VH_M_heart/VH_M_papillary_muscle_of_heart/VH_M_papillary_muscle_of_heart_anterolateral",
+   "parent": "VH_M_papillary_muscle_of_heart",
+   "verts": 261,
+   "tris": 518,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0308,
+    -0.0604,
+    0.455
+   ],
+   "bbox_max": [
+    0.0601,
+    -0.0234,
+    0.4836
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_medial",
+   "path": "VH_M_heart/VH_M_papillary_muscle_of_heart/VH_M_papillary_muscle_of_heart_medial",
+   "parent": "VH_M_papillary_muscle_of_heart",
+   "verts": 90,
+   "tris": 152,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0212,
+    -0.0588,
+    0.4409
+   ],
+   "bbox_max": [
+    0.0276,
+    -0.0503,
+    0.447
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_posterior",
+   "path": "VH_M_heart/VH_M_papillary_muscle_of_heart/VH_M_papillary_muscle_of_heart_posterior",
+   "parent": "VH_M_papillary_muscle_of_heart",
+   "verts": 77,
+   "tris": 131,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0084,
+    -0.0622,
+    0.4314
+   ],
+   "bbox_max": [
+    0.0168,
+    -0.0553,
+    0.4369
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_papillary_muscle_of_heart_posteromedial",
+   "path": "VH_M_heart/VH_M_papillary_muscle_of_heart/VH_M_papillary_muscle_of_heart_posteromedial",
+   "parent": "VH_M_papillary_muscle_of_heart",
+   "verts": 290,
+   "tris": 576,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0318,
+    -0.0587,
+    0.452
+   ],
+   "bbox_max": [
+    0.0591,
+    -0.0251,
+    0.4645
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_left_cardiac_atrium",
+   "path": "VH_M_heart/VH_M_cardiac_chamber/VH_M_left_cardiac_atrium",
+   "parent": "VH_M_cardiac_chamber",
+   "verts": 16967,
+   "tris": 33946,
+   "materials": [
+    "heart_mat"
+   ],
+   "bbox_min": [
+    -0.0321,
+    -0.0319,
+    0.4566
+   ],
+   "bbox_max": [
+    0.0408,
+    0.015,
+    0.5287
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_right_cardiac_atrium",
+   "path": "VH_M_heart/VH_M_cardiac_chamber/VH_M_right_cardiac_atrium",
+   "parent": "VH_M_cardiac_chamber",
+   "verts": 24068,
+   "tris": 48174,
+   "materials": [
+    "heart_mat"
+   ],
+   "bbox_min": [
+    -0.0434,
+    -0.0658,
+    0.433
+   ],
+   "bbox_max": [
+    0.0087,
+    -0.003,
+    0.5288
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_heart_right_ventricle",
+   "path": "VH_M_heart/VH_M_cardiac_chamber/VH_M_heart_right_ventricle",
+   "parent": "VH_M_cardiac_chamber",
+   "verts": 13761,
+   "tris": 27622,
+   "materials": [
+    "heart_mat"
+   ],
+   "bbox_min": [
+    -0.0239,
+    -0.0902,
+    0.4234
+   ],
+   "bbox_max": [
+    0.0592,
+    -0.0248,
+    0.521
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_interventricular_septum",
+   "path": "VH_M_heart/VH_M_cardiac_chamber/VH_M_interventricular_septum",
+   "parent": "VH_M_cardiac_chamber",
+   "verts": 4039,
+   "tris": 8074,
+   "materials": [
+    "heart_mat.001"
+   ],
+   "bbox_min": [
+    0.0066,
+    -0.0835,
+    0.427
+   ],
+   "bbox_max": [
+    0.0585,
+    -0.0168,
+    0.4995
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_heart_left_ventricle",
+   "path": "VH_M_heart/VH_M_cardiac_chamber/VH_M_heart_left_ventricle",
+   "parent": "VH_M_cardiac_chamber",
+   "verts": 4677,
+   "tris": 9350,
+   "materials": [
+    "heart_mat"
+   ],
+   "bbox_min": [
+    0.0045,
+    -0.0878,
+    0.4259
+   ],
+   "bbox_max": [
+    0.0809,
+    0.0048,
+    0.5027
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

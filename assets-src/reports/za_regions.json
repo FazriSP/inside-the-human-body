@@ -1,0 +1,8139 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\z-anatomy\\fbx\\Regions of human body100.fbx",
+ "import_seconds": 0.68,
+ "mesh_count": 301,
+ "total_tris": 136132,
+ "total_verts": 69517,
+ "non_mesh_objects": {
+  "EMPTY": 44
+ },
+ "scene_bbox_min": [
+  -0.4147,
+  -0.2392,
+  -0.0894
+ ],
+ "scene_bbox_max": [
+  0.4007,
+  0.22,
+  1.79
+ ],
+ "naming": {
+  "dup_suffix_count": 3,
+  "side_tag_count": 254,
+  "non_ascii_count": 0,
+  "unique_names": 301
+ },
+ "top_level_groups": {
+  "Regions of head.g": 95,
+  "Regions of lower limb.g": 72,
+  "Regions of upper limb.g": 49,
+  "Regions of neck.g": 24,
+  "Regions of thorax.g": 16,
+  "Regions of abdomen.g": 15,
+  "Regions of back.g": 15,
+  "Hairs.g": 7,
+  "Regions of perineum.g": 5,
+  "Cross Section X.004": 1,
+  "Cross Section Z.004": 1,
+  "Cross Section Y.004": 1
+ },
+ "second_level_groups": {
+  "Regions of head.g/Auricular region.g": 43,
+  "Regions of head.g/Regions of face.g": 38,
+  "Regions of lower limb.g/Regions of foot.g": 32,
+  "Regions of upper limb.g/Regions of hand.g": 14,
+  "Regions of head.g/Regions of epicranium.g": 13,
+  "Regions of thorax.g/Anterior region of thorax.g": 13,
+  "Regions of neck.g/Anterior region of neck.g": 11,
+  "Regions of lower limb.g/Talocrural region.g": 11,
+  "Regions of upper limb.g/Brachial region.g": 9,
+  "Regions of upper limb.g/Antebrachial region.g": 9,
+  "Regions of lower limb.g/Femoral region.g": 8,
+  "Regions of lower limb.g/Knee region.g": 8,
+  "Regions of upper limb.g/Cubital region.g": 7,
+  "Regions of upper limb.g/Carpal region.g": 7,
+  "Regions of neck.g/Lateral region of neck.g": 5,
+  "Regions of neck.g/Sternocleidomastoid region.g": 5,
+  "Regions of lower limb.g/Gluteal region.g": 5,
+  "Regions of lower limb.g/Leg region.g": 5,
+  "Regions of abdomen.g/Umbilical region.r": 2,
+  "Regions of abdomen.g/Umbilical region.l": 2,
+  "Regions of head.g/Regions of head.j": 1,
+  "Regions of neck.g/Posterior region of neck.r": 1,
+  "Regions of neck.g/Posterior region of neck.l": 1,
+  "Regions of neck.g/Regions of neck.j": 1,
+  "Regions of abdomen.g/Epigastric region.r": 1,
+  "Regions of abdomen.g/Epigastric region.l": 1,
+  "Regions of abdomen.g/Hypochondriac region.r": 1,
+  "Regions of abdomen.g/Hypogastric region.r": 1,
+  "Regions of abdomen.g/Inguinal region.r": 1,
+  "Regions of abdomen.g/Lateral region of abdomen.r": 1,
+  "Regions of abdomen.g/Hypochondriac region.l": 1,
+  "Regions of abdomen.g/Hypogastric region.l": 1,
+  "Regions of abdomen.g/Inguinal region.l": 1,
+  "Regions of abdomen.g/Lateral region of abdomen.l": 1,
+  "Regions of abdomen.g/Regions of abdomen.j": 1,
+  "Regions of back.g/Lumbar region.r": 1,
+  "Regions of back.g/Lumbar region.l": 1,
+  "Regions of back.g/Sacral region.r": 1,
+  "Regions of back.g/Sacral region.l": 1,
+  "Regions of back.g/Infrascapular region.r": 1,
+  "Regions of back.g/Interscapular region.r": 1,
+  "Regions of back.g/Scapular region.r": 1,
+  "Regions of back.g/Triangle of auscultation.r": 1,
+  "Regions of back.g/Vertebral region.r": 1,
+  "Regions of back.g/Infrascapular region.l": 1,
+  "Regions of back.g/Interscapular region.l": 1,
+  "Regions of back.g/Scapular region.l": 1,
+  "Regions of back.g/Triangle of auscultation.l": 1,
+  "Regions of back.g/Vertebral region.l": 1,
+  "Regions of back.g/Regions of back.j": 1,
+  "Regions of perineum.g/Anal region.r": 1,
+  "Regions of perineum.g/Anal region.l": 1,
+  "Regions of perineum.g/Urogenital region.r": 1,
+  "Regions of perineum.g/Urogenital region.l": 1,
+  "Regions of perineum.g/Regions of perineum.j": 1,
+  "Regions of upper limb.g/Deltoid region.r": 1,
+  "Regions of upper limb.g/Deltoid region.l": 1,
+  "Regions of upper limb.g/Regions of upper limb.j": 1,
+  "Regions of lower limb.g/Hip region.r": 1,
+  "Regions of lower limb.g/Hip region.l": 1,
+  "Regions of lower limb.g/Regions of lower limb.j": 1,
+  "Regions of thorax.g/Lateral region of thorax.r": 1,
+  "Regions of thorax.g/Lateral region of thorax.l": 1,
+  "Regions of thorax.g/Regions of thorax.j": 1,
+  "Hairs.g/Pubic hairs": 1,
+  "Hairs.g/Hairs of eyebrow.r": 1,
+  "Hairs.g/Hairs of eyebrow.l": 1,
+  "Hairs.g/Eyelashes.l": 1,
+  "Hairs.g/Eyelashes.r": 1,
+  "Hairs.g/Hairs.j": 1,
+  "Hairs.g/Hairs of head": 1
+ },
+ "heaviest_meshes": [
+  {
+   "name": "Hairs of head",
+   "tris": 16563
+  },
+  {
+   "name": "Dorsal surfaces of digits of hand.r",
+   "tris": 4260
+  },
+  {
+   "name": "Dorsal surfaces of digits of hand.l",
+   "tris": 4260
+  },
+  {
+   "name": "Palmar surfaces of digits of hand.r",
+   "tris": 3836
+  },
+  {
+   "name": "Palmar surfaces of digits of hand.l",
+   "tris": 3836
+  },
+  {
+   "name": "Nail plate.r",
+   "tris": 2760
+  },
+  {
+   "name": "Nail plate.l",
+   "tris": 2760
+  },
+  {
+   "name": "Plantar surfaces of digits of foot.l",
+   "tris": 2028
+  },
+  {
+   "name": "Plantar surfaces of digits of foot.r",
+   "tris": 2028
+  },
+  {
+   "name": "Nail plate (foot).l",
+   "tris": 1936
+  },
+  {
+   "name": "Nail plate (foot).r",
+   "tris": 1936
+  },
+  {
+   "name": "Anterior region of thigh.r",
+   "tris": 1888
+  },
+  {
+   "name": "Anterior region of thigh.l",
+   "tris": 1888
+  },
+  {
+   "name": "Perionyx (foot).l",
+   "tris": 1840
+  },
+  {
+   "name": "Perionyx (foot).r",
+   "tris": 1840
+  },
+  {
+   "name": "Pubic hairs",
+   "tris": 1491
+  },
+  {
+   "name": "Posterior region of forearm.r",
+   "tris": 1332
+  },
+  {
+   "name": "Posterior region of forearm.l",
+   "tris": 1332
+  },
+  {
+   "name": "Urogenital region.r",
+   "tris": 1284
+  },
+  {
+   "name": "Urogenital region.l",
+   "tris": 1284
+  },
+  {
+   "name": "Anterior region of leg.r",
+   "tris": 1252
+  },
+  {
+   "name": "Anterior region of leg.l",
+   "tris": 1252
+  },
+  {
+   "name": "Posterior region of leg.r",
+   "tris": 1220
+  },
+  {
+   "name": "Posterior region of leg.l",
+   "tris": 1220
+  },
+  {
+   "name": "Anterior region of forearm.r",
+   "tris": 1168
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "Regions of head.j",
+   "path": "Regions of head.g/Regions of head.j",
+   "parent": "Regions of head.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2044,
+    -0.0178,
+    1.6068
+   ],
+   "bbox_max": [
+    -0.0732,
+    -0.0153,
+    1.6096
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of epicranium.j",
+   "path": "Regions of head.g/Regions of epicranium.g/Regions of epicranium.j",
+   "parent": "Regions of epicranium.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0801,
+    0.0147,
+    1.6919
+   ],
+   "bbox_max": [
+    -0.0574,
+    0.0152,
+    1.6924
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Eyebrow.r",
+   "path": "Regions of head.g/Regions of epicranium.g/Frontal region.r/Eyebrow.r",
+   "parent": "Frontal region.r",
+   "verts": 28,
+   "tris": 52,
+   "materials": [
+    "Skin-5",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0487,
+    -0.0945,
+    1.6126
+   ],
+   "bbox_max": [
+    -0.0109,
+    -0.0764,
+    1.6207
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Frontal region.r",
+   "path": "Regions of head.g/Regions of epicranium.g/Frontal region.r",
+   "parent": "Regions of epicranium.g",
+   "verts": 278,
+   "tris": 552,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0694,
+    -0.0945,
+    1.5877
+   ],
+   "bbox_max": [
+    0.0002,
+    -0.0231,
+    1.7037
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Eyebrow.l",
+   "path": "Regions of head.g/Regions of epicranium.g/Frontal region.l/Eyebrow.l",
+   "parent": "Frontal region.l",
+   "verts": 28,
+   "tris": 52,
+   "materials": [
+    "Skin-5",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    0.0109,
+    -0.0945,
+    1.6126
+   ],
+   "bbox_max": [
+    0.0487,
+    -0.0764,
+    1.6207
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Frontal region.l",
+   "path": "Regions of head.g/Regions of epicranium.g/Frontal region.l",
+   "parent": "Regions of epicranium.g",
+   "verts": 278,
+   "tris": 552,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0002,
+    -0.0945,
+    1.5877
+   ],
+   "bbox_max": [
+    0.0694,
+    -0.0231,
+    1.7037
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mastoid region.r",
+   "path": "Regions of head.g/Regions of epicranium.g/Mastoid region.r",
+   "parent": "Regions of epicranium.g",
+   "verts": 60,
+   "tris": 116,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0727,
+    0.0187,
+    1.557
+   ],
+   "bbox_max": [
+    -0.0571,
+    0.056,
+    1.6147
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Occipital region.r",
+   "path": "Regions of head.g/Regions of epicranium.g/Occipital region.r",
+   "parent": "Regions of epicranium.g",
+   "verts": 174,
+   "tris": 344,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.0704,
+    0.0343,
+    1.557
+   ],
+   "bbox_max": [
+    -0.0,
+    0.1074,
+    1.6482
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parietal region.r",
+   "path": "Regions of head.g/Regions of epicranium.g/Parietal region.r",
+   "parent": "Regions of epicranium.g",
+   "verts": 254,
+   "tris": 504,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    -0.0784,
+    -0.0345,
+    1.6039
+   ],
+   "bbox_max": [
+    0.0005,
+    0.1065,
+    1.7092
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Temporal region.r",
+   "path": "Regions of head.g/Regions of epicranium.g/Temporal region.r",
+   "parent": "Regions of epicranium.g",
+   "verts": 220,
+   "tris": 436,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0819,
+    -0.0517,
+    1.5875
+   ],
+   "bbox_max": [
+    -0.0593,
+    0.0502,
+    1.6562
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mastoid region.l",
+   "path": "Regions of head.g/Regions of epicranium.g/Mastoid region.l",
+   "parent": "Regions of epicranium.g",
+   "verts": 60,
+   "tris": 116,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0571,
+    0.0187,
+    1.557
+   ],
+   "bbox_max": [
+    0.0727,
+    0.056,
+    1.6147
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Occipital region.l",
+   "path": "Regions of head.g/Regions of epicranium.g/Occipital region.l",
+   "parent": "Regions of epicranium.g",
+   "verts": 174,
+   "tris": 344,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0,
+    0.0343,
+    1.557
+   ],
+   "bbox_max": [
+    0.0704,
+    0.1074,
+    1.6482
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parietal region.l",
+   "path": "Regions of head.g/Regions of epicranium.g/Parietal region.l",
+   "parent": "Regions of epicranium.g",
+   "verts": 254,
+   "tris": 504,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    -0.0005,
+    -0.0345,
+    1.6039
+   ],
+   "bbox_max": [
+    0.0784,
+    0.1065,
+    1.7092
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Temporal region.l",
+   "path": "Regions of head.g/Regions of epicranium.g/Temporal region.l",
+   "parent": "Regions of epicranium.g",
+   "verts": 220,
+   "tris": 436,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.0593,
+    -0.0517,
+    1.5875
+   ],
+   "bbox_max": [
+    0.0819,
+    0.0502,
+    1.6562
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cavity of concha.l",
+   "path": "Regions of head.g/Auricular region.g/Cavity of concha.l",
+   "parent": "Auricular region.g",
+   "verts": 122,
+   "tris": 215,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0646,
+    -0.0011,
+    1.5673
+   ],
+   "bbox_max": [
+    0.0774,
+    0.0135,
+    1.5791
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Cavity of concha.r",
+   "path": "Regions of head.g/Auricular region.g/Cavity of concha.r",
+   "parent": "Auricular region.g",
+   "verts": 122,
+   "tris": 215,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0774,
+    -0.0011,
+    1.5673
+   ],
+   "bbox_max": [
+    -0.0646,
+    0.0135,
+    1.5791
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Concha of auricle.l",
+   "path": "Regions of head.g/Auricular region.g/Concha of auricle.l",
+   "parent": "Auricular region.g",
+   "verts": 51,
+   "tris": 64,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0674,
+    0.0031,
+    1.5702
+   ],
+   "bbox_max": [
+    0.0795,
+    0.0135,
+    1.5861
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Concha of auricle.r",
+   "path": "Regions of head.g/Auricular region.g/Concha of auricle.r",
+   "parent": "Auricular region.g",
+   "verts": 51,
+   "tris": 64,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0795,
+    0.0031,
+    1.5702
+   ],
+   "bbox_max": [
+    -0.0674,
+    0.0135,
+    1.5861
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Cymba conchae.l",
+   "path": "Regions of head.g/Auricular region.g/Cymba conchae.l",
+   "parent": "Auricular region.g",
+   "verts": 59,
+   "tris": 89,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0698,
+    0.0033,
+    1.577
+   ],
+   "bbox_max": [
+    0.0793,
+    0.0136,
+    1.5889
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Cymba conchae.r",
+   "path": "Regions of head.g/Auricular region.g/Cymba conchae.r",
+   "parent": "Auricular region.g",
+   "verts": 59,
+   "tris": 89,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0793,
+    0.0033,
+    1.577
+   ],
+   "bbox_max": [
+    -0.0698,
+    0.0136,
+    1.5889
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Anterior notch of auricle.r",
+   "path": "Regions of head.g/Auricular region.g/Anterior notch of auricle.r",
+   "parent": "Auricular region.g",
+   "verts": 38,
+   "tris": 49,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0739,
+    -0.0074,
+    1.5768
+   ],
+   "bbox_max": [
+    -0.0674,
+    0.0064,
+    1.5911
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Antihelix.r",
+   "path": "Regions of head.g/Auricular region.g/Antihelix.r",
+   "parent": "Auricular region.g",
+   "verts": 64,
+   "tris": 88,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0851,
+    0.0049,
+    1.5614
+   ],
+   "bbox_max": [
+    -0.0771,
+    0.0134,
+    1.5962
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Antitragus.r",
+   "path": "Regions of head.g/Auricular region.g/Antitragus.r",
+   "parent": "Auricular region.g",
+   "verts": 29,
+   "tris": 39,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0789,
+    -0.0036,
+    1.5597
+   ],
+   "bbox_max": [
+    -0.0681,
+    0.0103,
+    1.5708
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Apex of auricle.r",
+   "path": "Regions of head.g/Auricular region.g/Apex of auricle.r",
+   "parent": "Auricular region.g",
+   "verts": 27,
+   "tris": 36,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0902,
+    0.0046,
+    1.6028
+   ],
+   "bbox_max": [
+    -0.0853,
+    0.0101,
+    1.6066
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Auricular region.r",
+   "path": "Regions of head.g/Auricular region.g/Auricular region.r",
+   "parent": "Auricular region.g",
+   "verts": 148,
+   "tris": 296,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0784,
+    -0.0162,
+    1.5479
+   ],
+   "bbox_max": [
+    -0.0546,
+    0.0272,
+    1.6117
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Auricular tubercle.r",
+   "path": "Regions of head.g/Auricular region.g/Auricular tubercle.r",
+   "parent": "Auricular region.g",
+   "verts": 20,
+   "tris": 26,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0933,
+    0.0161,
+    1.587
+   ],
+   "bbox_max": [
+    -0.0909,
+    0.0184,
+    1.5931
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Crura of antihelix.r",
+   "path": "Regions of head.g/Auricular region.g/Crura of antihelix.r",
+   "parent": "Auricular region.g",
+   "verts": 69,
+   "tris": 92,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0859,
+    -0.0003,
+    1.5856
+   ],
+   "bbox_max": [
+    -0.0717,
+    0.0123,
+    1.6028
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Eminentia conchae.r",
+   "path": "Regions of head.g/Auricular region.g/Eminentia conchae.r",
+   "parent": "Auricular region.g",
+   "verts": 45,
+   "tris": 61,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0795,
+    0.0041,
+    1.5583
+   ],
+   "bbox_max": [
+    -0.0606,
+    0.0188,
+    1.5937
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Eminentia fossae triangularis.r",
+   "path": "Regions of head.g/Auricular region.g/Eminentia fossae triangularis.r",
+   "parent": "Auricular region.g",
+   "verts": 39,
+   "tris": 51,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0838,
+    -0.0049,
+    1.5922
+   ],
+   "bbox_max": [
+    -0.0721,
+    0.0121,
+    1.6064
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Eminentia scaphae.r",
+   "path": "Regions of head.g/Auricular region.g/Eminentia scaphae.r",
+   "parent": "Auricular region.g",
+   "verts": 72,
+   "tris": 103,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0872,
+    0.0073,
+    1.5687
+   ],
+   "bbox_max": [
+    -0.0737,
+    0.0214,
+    1.6064
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Fossa antihelica.r",
+   "path": "Regions of head.g/Auricular region.g/Fossa antihelica.r",
+   "parent": "Auricular region.g",
+   "verts": 42,
+   "tris": 61,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0826,
+    0.0145,
+    1.5638
+   ],
+   "bbox_max": [
+    -0.0737,
+    0.0192,
+    1.5947
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Helix.r",
+   "path": "Regions of head.g/Auricular region.g/Helix.r",
+   "parent": "Auricular region.g",
+   "verts": 289,
+   "tris": 473,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0934,
+    -0.0052,
+    1.5583
+   ],
+   "bbox_max": [
+    -0.0717,
+    0.0216,
+    1.6066
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Intertragic incisure.r",
+   "path": "Regions of head.g/Auricular region.g/Intertragic incisure.r",
+   "parent": "Auricular region.g",
+   "verts": 46,
+   "tris": 71,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0707,
+    -0.0088,
+    1.56
+   ],
+   "bbox_max": [
+    -0.0653,
+    0.0019,
+    1.5731
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Lobule of auricle.r",
+   "path": "Regions of head.g/Auricular region.g/Lobule of auricle.r",
+   "parent": "Auricular region.g",
+   "verts": 128,
+   "tris": 219,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0831,
+    -0.0097,
+    1.5509
+   ],
+   "bbox_max": [
+    -0.0597,
+    0.0114,
+    1.5669
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Scapha.r",
+   "path": "Regions of head.g/Auricular region.g/Scapha.r",
+   "parent": "Auricular region.g",
+   "verts": 47,
+   "tris": 69,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0899,
+    0.0087,
+    1.5739
+   ],
+   "bbox_max": [
+    -0.084,
+    0.0182,
+    1.6028
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Tragus.r",
+   "path": "Regions of head.g/Auricular region.g/Tragus.r",
+   "parent": "Auricular region.g",
+   "verts": 50,
+   "tris": 76,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0723,
+    -0.0099,
+    1.5669
+   ],
+   "bbox_max": [
+    -0.066,
+    0.0013,
+    1.5876
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Triangular fossa.r",
+   "path": "Regions of head.g/Auricular region.g/Triangular fossa.r",
+   "parent": "Auricular region.g",
+   "verts": 41,
+   "tris": 58,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.081,
+    -0.0004,
+    1.5914
+   ],
+   "bbox_max": [
+    -0.0743,
+    0.0079,
+    1.6001
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Posterior auricular groove.r",
+   "path": "Regions of head.g/Auricular region.g/Posterior auricular groove.r",
+   "parent": "Auricular region.g",
+   "verts": 94,
+   "tris": 184,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0762,
+    -0.0015,
+    1.5618
+   ],
+   "bbox_max": [
+    -0.0561,
+    0.0207,
+    1.6044
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior notch of auricle.l",
+   "path": "Regions of head.g/Auricular region.g/Anterior notch of auricle.l",
+   "parent": "Auricular region.g",
+   "verts": 38,
+   "tris": 49,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0674,
+    -0.0074,
+    1.5768
+   ],
+   "bbox_max": [
+    0.0739,
+    0.0064,
+    1.5911
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Antihelix.l",
+   "path": "Regions of head.g/Auricular region.g/Antihelix.l",
+   "parent": "Auricular region.g",
+   "verts": 64,
+   "tris": 88,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0771,
+    0.0049,
+    1.5614
+   ],
+   "bbox_max": [
+    0.0851,
+    0.0134,
+    1.5962
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Antitragus.l",
+   "path": "Regions of head.g/Auricular region.g/Antitragus.l",
+   "parent": "Auricular region.g",
+   "verts": 29,
+   "tris": 39,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0681,
+    -0.0036,
+    1.5597
+   ],
+   "bbox_max": [
+    0.0789,
+    0.0103,
+    1.5708
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Apex of auricle.l",
+   "path": "Regions of head.g/Auricular region.g/Apex of auricle.l",
+   "parent": "Auricular region.g",
+   "verts": 27,
+   "tris": 36,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0853,
+    0.0046,
+    1.6028
+   ],
+   "bbox_max": [
+    0.0902,
+    0.0101,
+    1.6066
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Auricular region.l",
+   "path": "Regions of head.g/Auricular region.g/Auricular region.l",
+   "parent": "Auricular region.g",
+   "verts": 148,
+   "tris": 296,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0546,
+    -0.0162,
+    1.5479
+   ],
+   "bbox_max": [
+    0.0784,
+    0.0272,
+    1.6117
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Auricular tubercle.l",
+   "path": "Regions of head.g/Auricular region.g/Auricular tubercle.l",
+   "parent": "Auricular region.g",
+   "verts": 20,
+   "tris": 26,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0909,
+    0.0161,
+    1.587
+   ],
+   "bbox_max": [
+    0.0933,
+    0.0184,
+    1.5931
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Crura of antihelix.l",
+   "path": "Regions of head.g/Auricular region.g/Crura of antihelix.l",
+   "parent": "Auricular region.g",
+   "verts": 69,
+   "tris": 92,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0717,
+    -0.0003,
+    1.5856
+   ],
+   "bbox_max": [
+    0.0859,
+    0.0123,
+    1.6028
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Eminentia conchae.l",
+   "path": "Regions of head.g/Auricular region.g/Eminentia conchae.l",
+   "parent": "Auricular region.g",
+   "verts": 45,
+   "tris": 61,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0606,
+    0.0041,
+    1.5583
+   ],
+   "bbox_max": [
+    0.0795,
+    0.0188,
+    1.5937
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Eminentia fossae triangularis.l",
+   "path": "Regions of head.g/Auricular region.g/Eminentia fossae triangularis.l",
+   "parent": "Auricular region.g",
+   "verts": 39,
+   "tris": 51,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0721,
+    -0.0049,
+    1.5922
+   ],
+   "bbox_max": [
+    0.0838,
+    0.0121,
+    1.6064
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Eminentia scaphae.l",
+   "path": "Regions of head.g/Auricular region.g/Eminentia scaphae.l",
+   "parent": "Auricular region.g",
+   "verts": 72,
+   "tris": 103,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0737,
+    0.0073,
+    1.5687
+   ],
+   "bbox_max": [
+    0.0872,
+    0.0214,
+    1.6064
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Fossa antihelica.l",
+   "path": "Regions of head.g/Auricular region.g/Fossa antihelica.l",
+   "parent": "Auricular region.g",
+   "verts": 42,
+   "tris": 61,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0737,
+    0.0145,
+    1.5638
+   ],
+   "bbox_max": [
+    0.0826,
+    0.0192,
+    1.5947
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Helix.l",
+   "path": "Regions of head.g/Auricular region.g/Helix.l",
+   "parent": "Auricular region.g",
+   "verts": 289,
+   "tris": 473,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0717,
+    -0.0052,
+    1.5583
+   ],
+   "bbox_max": [
+    0.0934,
+    0.0216,
+    1.6066
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Intertragic incisure.l",
+   "path": "Regions of head.g/Auricular region.g/Intertragic incisure.l",
+   "parent": "Auricular region.g",
+   "verts": 46,
+   "tris": 71,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0653,
+    -0.0088,
+    1.56
+   ],
+   "bbox_max": [
+    0.0707,
+    0.0019,
+    1.5731
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Lobule of auricle.l",
+   "path": "Regions of head.g/Auricular region.g/Lobule of auricle.l",
+   "parent": "Auricular region.g",
+   "verts": 128,
+   "tris": 219,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0597,
+    -0.0097,
+    1.5509
+   ],
+   "bbox_max": [
+    0.0831,
+    0.0114,
+    1.5669
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Scapha.l",
+   "path": "Regions of head.g/Auricular region.g/Scapha.l",
+   "parent": "Auricular region.g",
+   "verts": 47,
+   "tris": 69,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.084,
+    0.0087,
+    1.5739
+   ],
+   "bbox_max": [
+    0.0899,
+    0.0182,
+    1.6028
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Tragus.l",
+   "path": "Regions of head.g/Auricular region.g/Tragus.l",
+   "parent": "Auricular region.g",
+   "verts": 50,
+   "tris": 76,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.066,
+    -0.0099,
+    1.5669
+   ],
+   "bbox_max": [
+    0.0723,
+    0.0013,
+    1.5876
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Triangular fossa.l",
+   "path": "Regions of head.g/Auricular region.g/Triangular fossa.l",
+   "parent": "Auricular region.g",
+   "verts": 41,
+   "tris": 58,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0743,
+    -0.0004,
+    1.5914
+   ],
+   "bbox_max": [
+    0.081,
+    0.0079,
+    1.6001
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Posterior auricular groove.l",
+   "path": "Regions of head.g/Auricular region.g/Posterior auricular groove.l",
+   "parent": "Auricular region.g",
+   "verts": 94,
+   "tris": 184,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0561,
+    -0.0015,
+    1.5618
+   ],
+   "bbox_max": [
+    0.0762,
+    0.0207,
+    1.6044
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Auricular region.j",
+   "path": "Regions of head.g/Auricular region.g/Auricular region.j",
+   "parent": "Auricular region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.18,
+    0.0044,
+    1.581
+   ],
+   "bbox_max": [
+    -0.071,
+    0.0064,
+    1.583
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Upper eyelid.j",
+   "path": "Regions of head.g/Regions of face.g/Orbital region.r/Upper eyelid.t/Upper eyelid.j",
+   "parent": "Upper eyelid.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0466,
+    -0.1074,
+    1.598
+   ],
+   "bbox_max": [
+    -0.0204,
+    -0.0812,
+    1.6006
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lower eyelid.j",
+   "path": "Regions of head.g/Regions of face.g/Orbital region.r/Lower eyelid.t/Lower eyelid.j",
+   "parent": "Lower eyelid.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0426,
+    -0.1068,
+    1.5807
+   ],
+   "bbox_max": [
+    -0.0153,
+    -0.0795,
+    1.5834
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Eyelids.j",
+   "path": "Regions of head.g/Regions of face.g/Orbital region.r/Eyelids.t/Eyelids.j",
+   "parent": "Eyelids.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0576,
+    -0.1074,
+    1.5938
+   ],
+   "bbox_max": [
+    -0.026,
+    -0.0758,
+    1.597
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Orbital region.r",
+   "path": "Regions of head.g/Regions of face.g/Orbital region.r",
+   "parent": "Regions of face.g",
+   "verts": 292,
+   "tris": 584,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0545,
+    -0.0929,
+    1.5713
+   ],
+   "bbox_max": [
+    -0.0054,
+    -0.0616,
+    1.6175
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Orbital region.l",
+   "path": "Regions of head.g/Regions of face.g/Orbital region.l",
+   "parent": "Regions of face.g",
+   "verts": 292,
+   "tris": 584,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    0.0054,
+    -0.0929,
+    1.5713
+   ],
+   "bbox_max": [
+    0.0545,
+    -0.0616,
+    1.6175
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "External nose.j",
+   "path": "Regions of head.g/Regions of face.g/Nasal region.r/External nose.t/External nose.j",
+   "parent": "External nose.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0276,
+    -0.1067,
+    1.5707
+   ],
+   "bbox_max": [
+    -0.0096,
+    -0.0887,
+    1.5724
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Root of nose.j",
+   "path": "Regions of head.g/Regions of face.g/Nasal region.r/Root of nose.t/Root of nose.j",
+   "parent": "Root of nose.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0134,
+    -0.1105,
+    1.5999
+   ],
+   "bbox_max": [
+    0.0081,
+    -0.089,
+    1.6022
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apex of nose.j",
+   "path": "Regions of head.g/Regions of face.g/Nasal region.r/Apex of nose.t/Apex of nose.j",
+   "parent": "Apex of nose.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.012,
+    -0.1358,
+    1.5571
+   ],
+   "bbox_max": [
+    0.0076,
+    -0.1163,
+    1.5592
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nasal region.r",
+   "path": "Regions of head.g/Regions of face.g/Nasal region.r",
+   "parent": "Regions of face.g",
+   "verts": 304,
+   "tris": 608,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0178,
+    -0.1167,
+    1.5473
+   ],
+   "bbox_max": [
+    0.0008,
+    -0.0823,
+    1.61
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nasal region.l",
+   "path": "Regions of head.g/Regions of face.g/Nasal region.l",
+   "parent": "Regions of face.g",
+   "verts": 304,
+   "tris": 608,
+   "materials": [
+    "Skin-5",
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0008,
+    -0.1167,
+    1.5473
+   ],
+   "bbox_max": [
+    0.0178,
+    -0.0823,
+    1.61
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Angle of mouth.r",
+   "path": "Regions of head.g/Regions of face.g/Oral region.r/Angle of mouth.r",
+   "parent": "Oral region.r",
+   "verts": 42,
+   "tris": 80,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0321,
+    -0.0849,
+    1.5262
+   ],
+   "bbox_max": [
+    -0.0227,
+    -0.077,
+    1.5358
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Labial commissure.r",
+   "path": "Regions of head.g/Regions of face.g/Oral region.r/Labial commissure.r",
+   "parent": "Oral region.r",
+   "verts": 72,
+   "tris": 140,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0246,
+    -0.0974,
+    1.5261
+   ],
+   "bbox_max": [
+    0.0005,
+    -0.0774,
+    1.5351
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Philtrum.r",
+   "path": "Regions of head.g/Regions of face.g/Oral region.r/Philtrum.r",
+   "parent": "Oral region.r",
+   "verts": 30,
+   "tris": 56,
+   "materials": [
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0053,
+    -0.1008,
+    1.5361
+   ],
+   "bbox_max": [
+    -0.0,
+    -0.095,
+    1.5494
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Tubercle of upper lip.r",
+   "path": "Regions of head.g/Regions of face.g/Oral region.r/Tubercle of upper lip.r",
+   "parent": "Oral region.r",
+   "verts": 12,
+   "tris": 20,
+   "materials": [
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0022,
+    -0.1004,
+    1.5321
+   ],
+   "bbox_max": [
+    0.0007,
+    -0.0952,
+    1.5376
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Upper lip.j",
+   "path": "Regions of head.g/Regions of face.g/Oral region.r/Upper lip.t/Upper lip.j",
+   "parent": "Upper lip.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0109,
+    -0.1139,
+    1.5325
+   ],
+   "bbox_max": [
+    -0.0075,
+    -0.0956,
+    1.5359
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oral region.r",
+   "path": "Regions of head.g/Regions of face.g/Oral region.r",
+   "parent": "Regions of face.g",
+   "verts": 338,
+   "tris": 672,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0339,
+    -0.1008,
+    1.5095
+   ],
+   "bbox_max": [
+    0.0005,
+    -0.0766,
+    1.5512
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Angle of mouth.l",
+   "path": "Regions of head.g/Regions of face.g/Oral region.l/Angle of mouth.l",
+   "parent": "Oral region.l",
+   "verts": 42,
+   "tris": 80,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.0227,
+    -0.0849,
+    1.5262
+   ],
+   "bbox_max": [
+    0.0321,
+    -0.077,
+    1.5358
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Labial commissure.l",
+   "path": "Regions of head.g/Regions of face.g/Oral region.l/Labial commissure.l",
+   "parent": "Oral region.l",
+   "verts": 72,
+   "tris": 140,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0005,
+    -0.0974,
+    1.5261
+   ],
+   "bbox_max": [
+    0.0246,
+    -0.0774,
+    1.5351
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Philtrum.l",
+   "path": "Regions of head.g/Regions of face.g/Oral region.l/Philtrum.l",
+   "parent": "Oral region.l",
+   "verts": 30,
+   "tris": 56,
+   "materials": [
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    0.0,
+    -0.1008,
+    1.5361
+   ],
+   "bbox_max": [
+    0.0053,
+    -0.095,
+    1.5494
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Tubercle of upper lip.l",
+   "path": "Regions of head.g/Regions of face.g/Oral region.l/Tubercle of upper lip.l",
+   "parent": "Oral region.l",
+   "verts": 12,
+   "tris": 20,
+   "materials": [
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0007,
+    -0.1004,
+    1.5321
+   ],
+   "bbox_max": [
+    0.0022,
+    -0.0952,
+    1.5376
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oral region.l",
+   "path": "Regions of head.g/Regions of face.g/Oral region.l",
+   "parent": "Regions of face.g",
+   "verts": 338,
+   "tris": 672,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0005,
+    -0.1008,
+    1.5095
+   ],
+   "bbox_max": [
+    0.0339,
+    -0.0766,
+    1.5512
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cheek.j",
+   "path": "Regions of head.g/Regions of face.g/Buccal region.r/Cheek.t/Cheek.j",
+   "parent": "Cheek.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.079,
+    -0.0663,
+    1.5323
+   ],
+   "bbox_max": [
+    -0.054,
+    -0.0414,
+    1.5347
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Buccal region.r",
+   "path": "Regions of head.g/Regions of face.g/Buccal region.r",
+   "parent": "Regions of face.g",
+   "verts": 216,
+   "tris": 428,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0638,
+    -0.0879,
+    1.492
+   ],
+   "bbox_max": [
+    -0.0168,
+    -0.0393,
+    1.5655
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infra-orbital region.r",
+   "path": "Regions of head.g/Regions of face.g/Infra-orbital region.r",
+   "parent": "Regions of face.g",
+   "verts": 74,
+   "tris": 136,
+   "materials": [
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.0769,
+    -0.0893,
+    1.5565
+   ],
+   "bbox_max": [
+    -0.0098,
+    0.0354,
+    1.6509
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Chin.j",
+   "path": "Regions of head.g/Regions of face.g/Mental region.r/Chin.t/Chin.j",
+   "parent": "Chin.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0016,
+    -0.1024,
+    1.4951
+   ],
+   "bbox_max": [
+    0.0016,
+    -0.0878,
+    1.4983
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mental region.r",
+   "path": "Regions of head.g/Regions of face.g/Mental region.r",
+   "parent": "Regions of face.g",
+   "verts": 106,
+   "tris": 208,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0251,
+    -0.0892,
+    1.4877
+   ],
+   "bbox_max": [
+    0.0003,
+    -0.0714,
+    1.5166
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mentolabial sulcus.r",
+   "path": "Regions of head.g/Regions of face.g/Mentolabial sulcus.r",
+   "parent": "Regions of face.g",
+   "verts": 56,
+   "tris": 108,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0127,
+    -0.0935,
+    1.5122
+   ],
+   "bbox_max": [
+    0.0002,
+    -0.0838,
+    1.5198
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parotideomasseteric region.r",
+   "path": "Regions of head.g/Regions of face.g/Parotideomasseteric region.r",
+   "parent": "Regions of face.g",
+   "verts": 118,
+   "tris": 232,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.07,
+    -0.0472,
+    1.5089
+   ],
+   "bbox_max": [
+    -0.0433,
+    -0.0031,
+    1.5781
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Zygomatic region.r",
+   "path": "Regions of head.g/Regions of face.g/Zygomatic region.r",
+   "parent": "Regions of face.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.071,
+    -0.0761,
+    1.5571
+   ],
+   "bbox_max": [
+    -0.0444,
+    -0.0112,
+    1.5891
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nasolabial sulcus.r",
+   "path": "Regions of head.g/Regions of face.g/Nasolabial sulcus.r",
+   "parent": "Regions of face.g",
+   "verts": 50,
+   "tris": 96,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0359,
+    -0.0907,
+    1.5262
+   ],
+   "bbox_max": [
+    -0.0152,
+    -0.0774,
+    1.5566
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Buccal region.l",
+   "path": "Regions of head.g/Regions of face.g/Buccal region.l",
+   "parent": "Regions of face.g",
+   "verts": 216,
+   "tris": 428,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.0168,
+    -0.0879,
+    1.492
+   ],
+   "bbox_max": [
+    0.0638,
+    -0.0393,
+    1.5655
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infra-orbital region.l",
+   "path": "Regions of head.g/Regions of face.g/Infra-orbital region.l",
+   "parent": "Regions of face.g",
+   "verts": 74,
+   "tris": 136,
+   "materials": [
+    "Skin-5'",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    0.0098,
+    -0.0893,
+    1.5565
+   ],
+   "bbox_max": [
+    0.0769,
+    0.0354,
+    1.6509
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mental region.l",
+   "path": "Regions of head.g/Regions of face.g/Mental region.l",
+   "parent": "Regions of face.g",
+   "verts": 106,
+   "tris": 208,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0003,
+    -0.0892,
+    1.4877
+   ],
+   "bbox_max": [
+    0.0251,
+    -0.0714,
+    1.5166
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mentolabial sulcus.l",
+   "path": "Regions of head.g/Regions of face.g/Mentolabial sulcus.l",
+   "parent": "Regions of face.g",
+   "verts": 56,
+   "tris": 108,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.0002,
+    -0.0935,
+    1.5122
+   ],
+   "bbox_max": [
+    0.0127,
+    -0.0838,
+    1.5198
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parotideomasseteric region.l",
+   "path": "Regions of head.g/Regions of face.g/Parotideomasseteric region.l",
+   "parent": "Regions of face.g",
+   "verts": 118,
+   "tris": 232,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.0433,
+    -0.0472,
+    1.5089
+   ],
+   "bbox_max": [
+    0.07,
+    -0.0031,
+    1.5781
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Zygomatic region.l",
+   "path": "Regions of head.g/Regions of face.g/Zygomatic region.l",
+   "parent": "Regions of face.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.0444,
+    -0.0761,
+    1.5571
+   ],
+   "bbox_max": [
+    0.071,
+    -0.0112,
+    1.5891
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nasolabial sulcus.l",
+   "path": "Regions of head.g/Regions of face.g/Nasolabial sulcus.l",
+   "parent": "Regions of face.g",
+   "verts": 50,
+   "tris": 96,
+   "materials": [
+    "Skin-5'",
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.0152,
+    -0.0907,
+    1.5262
+   ],
+   "bbox_max": [
+    0.0359,
+    -0.0774,
+    1.5566
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of face.j",
+   "path": "Regions of head.g/Regions of face.g/Regions of face.j",
+   "parent": "Regions of face.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1486,
+    -0.0572,
+    1.5416
+   ],
+   "bbox_max": [
+    -0.0571,
+    -0.0552,
+    1.5437
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of neck.r",
+   "path": "Regions of neck.g/Posterior region of neck.r",
+   "parent": "Regions of neck.g",
+   "verts": 344,
+   "tris": 684,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1457,
+    0.008,
+    1.4269
+   ],
+   "bbox_max": [
+    0.0006,
+    0.1033,
+    1.562
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of neck.l",
+   "path": "Regions of neck.g/Posterior region of neck.l",
+   "parent": "Regions of neck.g",
+   "verts": 344,
+   "tris": 684,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0006,
+    0.008,
+    1.4269
+   ],
+   "bbox_max": [
+    0.1457,
+    0.1033,
+    1.562
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of neck.j",
+   "path": "Regions of neck.g/Regions of neck.j",
+   "parent": "Regions of neck.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1931,
+    0.0121,
+    1.5046
+   ],
+   "bbox_max": [
+    -0.0553,
+    0.0146,
+    1.5072
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of neck.j",
+   "path": "Regions of neck.g/Lateral region of neck.g/Lateral region of neck.j",
+   "parent": "Lateral region of neck.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2138,
+    -0.0003,
+    1.4395
+   ],
+   "bbox_max": [
+    -0.0785,
+    0.0012,
+    1.4411
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of neck.r",
+   "path": "Regions of neck.g/Lateral region of neck.g/Lateral region of neck.r",
+   "parent": "Lateral region of neck.g",
+   "verts": 232,
+   "tris": 460,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1173,
+    -0.0425,
+    1.4122
+   ],
+   "bbox_max": [
+    -0.034,
+    0.0642,
+    1.5587
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Greater supraclavicular fossa.r",
+   "path": "Regions of neck.g/Lateral region of neck.g/Greater supraclavicular fossa.r",
+   "parent": "Lateral region of neck.g",
+   "verts": 102,
+   "tris": 200,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.101,
+    -0.0357,
+    1.4243
+   ],
+   "bbox_max": [
+    -0.0557,
+    0.0234,
+    1.4748
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of neck.l",
+   "path": "Regions of neck.g/Lateral region of neck.g/Lateral region of neck.l",
+   "parent": "Lateral region of neck.g",
+   "verts": 232,
+   "tris": 460,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.034,
+    -0.0425,
+    1.4122
+   ],
+   "bbox_max": [
+    0.1173,
+    0.0642,
+    1.5587
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Greater supraclavicular fossa.l",
+   "path": "Regions of neck.g/Lateral region of neck.g/Greater supraclavicular fossa.l",
+   "parent": "Lateral region of neck.g",
+   "verts": 102,
+   "tris": 200,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.0557,
+    -0.0357,
+    1.4243
+   ],
+   "bbox_max": [
+    0.101,
+    0.0234,
+    1.4748
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of neck.j",
+   "path": "Regions of neck.g/Anterior region of neck.g/Anterior region of neck.j",
+   "parent": "Anterior region of neck.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0008,
+    -0.1223,
+    1.4525
+   ],
+   "bbox_max": [
+    0.0007,
+    -0.0414,
+    1.4541
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Submandibular triangle.r",
+   "path": "Regions of neck.g/Anterior region of neck.g/Suprahyoid region.g/Submandibular triangle.r",
+   "parent": "Suprahyoid region.g",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0542,
+    -0.0694,
+    1.4889
+   ],
+   "bbox_max": [
+    -0.0183,
+    -0.014,
+    1.5289
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Submental triangle.r",
+   "path": "Regions of neck.g/Anterior region of neck.g/Suprahyoid region.g/Submental triangle.r",
+   "parent": "Suprahyoid region.g",
+   "verts": 64,
+   "tris": 124,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0274,
+    -0.0802,
+    1.4843
+   ],
+   "bbox_max": [
+    0.0002,
+    -0.0496,
+    1.4964
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Submandibular triangle.l",
+   "path": "Regions of neck.g/Anterior region of neck.g/Suprahyoid region.g/Submandibular triangle.l",
+   "parent": "Suprahyoid region.g",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0183,
+    -0.0694,
+    1.4889
+   ],
+   "bbox_max": [
+    0.0542,
+    -0.014,
+    1.5289
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Submental triangle.l",
+   "path": "Regions of neck.g/Anterior region of neck.g/Suprahyoid region.g/Submental triangle.l",
+   "parent": "Suprahyoid region.g",
+   "verts": 64,
+   "tris": 124,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0002,
+    -0.0802,
+    1.4843
+   ],
+   "bbox_max": [
+    0.0274,
+    -0.0496,
+    1.4964
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Suprahyoid region.j",
+   "path": "Regions of neck.g/Anterior region of neck.g/Suprahyoid region.g/Suprahyoid region.j",
+   "parent": "Suprahyoid region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0006,
+    -0.1052,
+    1.4672
+   ],
+   "bbox_max": [
+    0.0004,
+    -0.0446,
+    1.4683
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Carotid triangle.r",
+   "path": "Regions of neck.g/Anterior region of neck.g/Infrahyoid region.g/Carotid triangle.r",
+   "parent": "Infrahyoid region.g",
+   "verts": 44,
+   "tris": 84,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0453,
+    -0.0473,
+    1.4747
+   ],
+   "bbox_max": [
+    -0.0195,
+    -0.0192,
+    1.511
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Muscular triangle.r",
+   "path": "Regions of neck.g/Anterior region of neck.g/Infrahyoid region.g/Muscular triangle.r",
+   "parent": "Infrahyoid region.g",
+   "verts": 132,
+   "tris": 260,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0248,
+    -0.0569,
+    1.4011
+   ],
+   "bbox_max": [
+    0.0002,
+    -0.0332,
+    1.4922
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Carotid triangle.l",
+   "path": "Regions of neck.g/Anterior region of neck.g/Infrahyoid region.g/Carotid triangle.l",
+   "parent": "Infrahyoid region.g",
+   "verts": 44,
+   "tris": 84,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0195,
+    -0.0473,
+    1.4747
+   ],
+   "bbox_max": [
+    0.0453,
+    -0.0192,
+    1.511
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Muscular triangle.l",
+   "path": "Regions of neck.g/Anterior region of neck.g/Infrahyoid region.g/Muscular triangle.l",
+   "parent": "Infrahyoid region.g",
+   "verts": 132,
+   "tris": 260,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0002,
+    -0.0569,
+    1.4011
+   ],
+   "bbox_max": [
+    0.0248,
+    -0.0332,
+    1.4922
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infrahyoid region.j",
+   "path": "Regions of neck.g/Anterior region of neck.g/Infrahyoid region.g/Infrahyoid region.j",
+   "parent": "Infrahyoid region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0005,
+    -0.0952,
+    1.4422
+   ],
+   "bbox_max": [
+    0.0005,
+    -0.0402,
+    1.4432
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lesser supraclavicular fossa.r",
+   "path": "Regions of neck.g/Sternocleidomastoid region.g/Sternocleidomastoid region.r/Lesser supraclavicular fossa.r",
+   "parent": "Sternocleidomastoid region.r",
+   "verts": 26,
+   "tris": 48,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0675,
+    -0.0475,
+    1.4224
+   ],
+   "bbox_max": [
+    -0.0321,
+    -0.0241,
+    1.436
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sternocleidomastoid region.r",
+   "path": "Regions of neck.g/Sternocleidomastoid region.g/Sternocleidomastoid region.r",
+   "parent": "Sternocleidomastoid region.g",
+   "verts": 274,
+   "tris": 544,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0741,
+    -0.0595,
+    1.401
+   ],
+   "bbox_max": [
+    -0.0041,
+    0.0372,
+    1.564
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lesser supraclavicular fossa.l",
+   "path": "Regions of neck.g/Sternocleidomastoid region.g/Sternocleidomastoid region.l/Lesser supraclavicular fossa.l",
+   "parent": "Sternocleidomastoid region.l",
+   "verts": 26,
+   "tris": 48,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.0321,
+    -0.0475,
+    1.4224
+   ],
+   "bbox_max": [
+    0.0675,
+    -0.0241,
+    1.436
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sternocleidomastoid region.l",
+   "path": "Regions of neck.g/Sternocleidomastoid region.g/Sternocleidomastoid region.l",
+   "parent": "Sternocleidomastoid region.g",
+   "verts": 274,
+   "tris": 544,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.0041,
+    -0.0595,
+    1.401
+   ],
+   "bbox_max": [
+    0.0741,
+    0.0372,
+    1.564
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sternocleidomastoid region.j",
+   "path": "Regions of neck.g/Sternocleidomastoid region.g/Sternocleidomastoid region.j",
+   "parent": "Sternocleidomastoid region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1807,
+    -0.027,
+    1.4712
+   ],
+   "bbox_max": [
+    -0.0421,
+    -0.0255,
+    1.4728
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Epigastric region.r",
+   "path": "Regions of abdomen.g/Epigastric region.r",
+   "parent": "Regions of abdomen.g",
+   "verts": 94,
+   "tris": 184,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.0813,
+    -0.1323,
+    1.0939
+   ],
+   "bbox_max": [
+    0.0,
+    -0.1046,
+    1.2246
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Epigastric region.l",
+   "path": "Regions of abdomen.g/Epigastric region.l",
+   "parent": "Regions of abdomen.g",
+   "verts": 94,
+   "tris": 184,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0,
+    -0.1323,
+    1.0939
+   ],
+   "bbox_max": [
+    0.0813,
+    -0.1046,
+    1.2246
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Umbilicus.r",
+   "path": "Regions of abdomen.g/Umbilical region.r/Umbilicus.r",
+   "parent": "Umbilical region.r",
+   "verts": 22,
+   "tris": 40,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.016,
+    -0.121,
+    1.0043
+   ],
+   "bbox_max": [
+    0.0,
+    -0.1074,
+    1.0295
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Umbilical region.r",
+   "path": "Regions of abdomen.g/Umbilical region.r",
+   "parent": "Regions of abdomen.g",
+   "verts": 118,
+   "tris": 232,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.075,
+    -0.1244,
+    0.958
+   ],
+   "bbox_max": [
+    -0.0,
+    -0.0987,
+    1.0961
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Umbilicus.l",
+   "path": "Regions of abdomen.g/Umbilical region.l/Umbilicus.l",
+   "parent": "Umbilical region.l",
+   "verts": 22,
+   "tris": 40,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.0,
+    -0.121,
+    1.0043
+   ],
+   "bbox_max": [
+    0.016,
+    -0.1074,
+    1.0295
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Umbilical region.l",
+   "path": "Regions of abdomen.g/Umbilical region.l",
+   "parent": "Regions of abdomen.g",
+   "verts": 118,
+   "tris": 232,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0,
+    -0.1244,
+    0.958
+   ],
+   "bbox_max": [
+    0.075,
+    -0.0987,
+    1.0961
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hypochondriac region.r",
+   "path": "Regions of abdomen.g/Hypochondriac region.r",
+   "parent": "Regions of abdomen.g",
+   "verts": 128,
+   "tris": 252,
+   "materials": [
+    "Skin-in",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    -0.1535,
+    -0.1224,
+    1.0887
+   ],
+   "bbox_max": [
+    -0.0735,
+    0.0537,
+    1.179
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hypogastric region.r",
+   "path": "Regions of abdomen.g/Hypogastric region.r",
+   "parent": "Regions of abdomen.g",
+   "verts": 150,
+   "tris": 296,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0702,
+    -0.1191,
+    0.8287
+   ],
+   "bbox_max": [
+    0.0002,
+    -0.0568,
+    0.9634
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inguinal region.r",
+   "path": "Regions of abdomen.g/Inguinal region.r",
+   "parent": "Regions of abdomen.g",
+   "verts": 88,
+   "tris": 172,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1215,
+    -0.1013,
+    0.8241
+   ],
+   "bbox_max": [
+    -0.0294,
+    -0.0538,
+    0.9742
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of abdomen.r",
+   "path": "Regions of abdomen.g/Lateral region of abdomen.r",
+   "parent": "Regions of abdomen.g",
+   "verts": 182,
+   "tris": 360,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.1529,
+    -0.1073,
+    0.9628
+   ],
+   "bbox_max": [
+    -0.0687,
+    0.0462,
+    1.0943
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hypochondriac region.l",
+   "path": "Regions of abdomen.g/Hypochondriac region.l",
+   "parent": "Regions of abdomen.g",
+   "verts": 128,
+   "tris": 252,
+   "materials": [
+    "Skin-in",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    0.0735,
+    -0.1224,
+    1.0887
+   ],
+   "bbox_max": [
+    0.1535,
+    0.0537,
+    1.179
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hypogastric region.l",
+   "path": "Regions of abdomen.g/Hypogastric region.l",
+   "parent": "Regions of abdomen.g",
+   "verts": 150,
+   "tris": 296,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0002,
+    -0.1191,
+    0.8287
+   ],
+   "bbox_max": [
+    0.0702,
+    -0.0568,
+    0.9634
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inguinal region.l",
+   "path": "Regions of abdomen.g/Inguinal region.l",
+   "parent": "Regions of abdomen.g",
+   "verts": 88,
+   "tris": 172,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0294,
+    -0.1013,
+    0.8241
+   ],
+   "bbox_max": [
+    0.1215,
+    -0.0538,
+    0.9742
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of abdomen.l",
+   "path": "Regions of abdomen.g/Lateral region of abdomen.l",
+   "parent": "Regions of abdomen.g",
+   "verts": 182,
+   "tris": 360,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0687,
+    -0.1073,
+    0.9628
+   ],
+   "bbox_max": [
+    0.1529,
+    0.0462,
+    1.0943
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of abdomen.j",
+   "path": "Regions of abdomen.g/Regions of abdomen.j",
+   "parent": "Regions of abdomen.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0007,
+    -0.2392,
+    1.0361
+   ],
+   "bbox_max": [
+    0.0018,
+    -0.1154,
+    1.0387
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lumbar region.r",
+   "path": "Regions of back.g/Lumbar region.r",
+   "parent": "Regions of back.g",
+   "verts": 194,
+   "tris": 384,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-8",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1405,
+    0.042,
+    0.9703
+   ],
+   "bbox_max": [
+    -0.0277,
+    0.1048,
+    1.1305
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lumbar region.l",
+   "path": "Regions of back.g/Lumbar region.l",
+   "parent": "Regions of back.g",
+   "verts": 194,
+   "tris": 384,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-8",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0277,
+    0.042,
+    0.9703
+   ],
+   "bbox_max": [
+    0.1405,
+    0.1048,
+    1.1305
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sacral region.r",
+   "path": "Regions of back.g/Sacral region.r",
+   "parent": "Regions of back.g",
+   "verts": 88,
+   "tris": 172,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0814,
+    0.096,
+    0.8926
+   ],
+   "bbox_max": [
+    0.0,
+    0.1191,
+    0.9733
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sacral region.l",
+   "path": "Regions of back.g/Sacral region.l",
+   "parent": "Regions of back.g",
+   "verts": 88,
+   "tris": 172,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0,
+    0.096,
+    0.8926
+   ],
+   "bbox_max": [
+    0.0814,
+    0.1191,
+    0.9733
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infrascapular region.r",
+   "path": "Regions of back.g/Infrascapular region.r",
+   "parent": "Regions of back.g",
+   "verts": 242,
+   "tris": 480,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.1392,
+    0.0431,
+    1.09
+   ],
+   "bbox_max": [
+    -0.0279,
+    0.1337,
+    1.2681
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Interscapular region.r",
+   "path": "Regions of back.g/Interscapular region.r",
+   "parent": "Regions of back.g",
+   "verts": 136,
+   "tris": 268,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.0804,
+    0.0997,
+    1.2652
+   ],
+   "bbox_max": [
+    -0.0263,
+    0.1349,
+    1.4369
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Scapular region.r",
+   "path": "Regions of back.g/Scapular region.r",
+   "parent": "Regions of back.g",
+   "verts": 344,
+   "tris": 676,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1933,
+    0.0549,
+    1.0702
+   ],
+   "bbox_max": [
+    -0.0547,
+    0.1359,
+    1.436
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Triangle of auscultation.r",
+   "path": "Regions of back.g/Triangle of auscultation.r",
+   "parent": "Regions of back.g",
+   "verts": 12,
+   "tris": 20,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.072,
+    0.1299,
+    1.2817
+   ],
+   "bbox_max": [
+    -0.0618,
+    0.1343,
+    1.2988
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Vertebral region.r",
+   "path": "Regions of back.g/Vertebral region.r",
+   "parent": "Regions of back.g",
+   "verts": 292,
+   "tris": 580,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0327,
+    0.0843,
+    0.9698
+   ],
+   "bbox_max": [
+    0.0,
+    0.132,
+    1.4358
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infrascapular region.l",
+   "path": "Regions of back.g/Infrascapular region.l",
+   "parent": "Regions of back.g",
+   "verts": 242,
+   "tris": 480,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0279,
+    0.0431,
+    1.09
+   ],
+   "bbox_max": [
+    0.1392,
+    0.1337,
+    1.2681
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Interscapular region.l",
+   "path": "Regions of back.g/Interscapular region.l",
+   "parent": "Regions of back.g",
+   "verts": 136,
+   "tris": 268,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0263,
+    0.0997,
+    1.2652
+   ],
+   "bbox_max": [
+    0.0804,
+    0.1349,
+    1.4369
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Scapular region.l",
+   "path": "Regions of back.g/Scapular region.l",
+   "parent": "Regions of back.g",
+   "verts": 344,
+   "tris": 676,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-8",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.0547,
+    0.0549,
+    1.0702
+   ],
+   "bbox_max": [
+    0.1933,
+    0.1359,
+    1.436
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Triangle of auscultation.l",
+   "path": "Regions of back.g/Triangle of auscultation.l",
+   "parent": "Regions of back.g",
+   "verts": 12,
+   "tris": 20,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0618,
+    0.1299,
+    1.2817
+   ],
+   "bbox_max": [
+    0.072,
+    0.1343,
+    1.2988
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Vertebral region.l",
+   "path": "Regions of back.g/Vertebral region.l",
+   "parent": "Regions of back.g",
+   "verts": 292,
+   "tris": 580,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-7",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0,
+    0.0843,
+    0.9698
+   ],
+   "bbox_max": [
+    0.0327,
+    0.132,
+    1.4358
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of back.j",
+   "path": "Regions of back.g/Regions of back.j",
+   "parent": "Regions of back.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0015,
+    0.1052,
+    1.192
+   ],
+   "bbox_max": [
+    0.001,
+    0.2129,
+    1.1948
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anal region.r",
+   "path": "Regions of perineum.g/Anal region.r",
+   "parent": "Regions of perineum.g",
+   "verts": 26,
+   "tris": 48,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0157,
+    0.0132,
+    0.7391
+   ],
+   "bbox_max": [
+    0.0,
+    0.0723,
+    0.7838
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anal region.l",
+   "path": "Regions of perineum.g/Anal region.l",
+   "parent": "Regions of perineum.g",
+   "verts": 26,
+   "tris": 48,
+   "materials": [
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0,
+    0.0132,
+    0.7391
+   ],
+   "bbox_max": [
+    0.0157,
+    0.0723,
+    0.7838
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Urogenital region.r",
+   "path": "Regions of perineum.g/Urogenital region.r",
+   "parent": "Regions of perineum.g",
+   "verts": 646,
+   "tris": 1284,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0339,
+    -0.1109,
+    0.7236
+   ],
+   "bbox_max": [
+    0.0011,
+    0.0163,
+    0.8383
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Urogenital region.l",
+   "path": "Regions of perineum.g/Urogenital region.l",
+   "parent": "Regions of perineum.g",
+   "verts": 646,
+   "tris": 1284,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0011,
+    -0.1109,
+    0.7236
+   ],
+   "bbox_max": [
+    0.0339,
+    0.0163,
+    0.8383
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of perineum.j",
+   "path": "Regions of perineum.g/Regions of perineum.j",
+   "parent": "Regions of perineum.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0013,
+    -0.0231,
+    0.778
+   ],
+   "bbox_max": [
+    0.0013,
+    0.2165,
+    0.781
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Deltoid region.r",
+   "path": "Regions of upper limb.g/Deltoid region.r",
+   "parent": "Regions of upper limb.g",
+   "verts": 314,
+   "tris": 624,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.2422,
+    -0.0318,
+    1.2733
+   ],
+   "bbox_max": [
+    -0.134,
+    0.102,
+    1.436
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Deltoid region.l",
+   "path": "Regions of upper limb.g/Deltoid region.l",
+   "parent": "Regions of upper limb.g",
+   "verts": 314,
+   "tris": 624,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.134,
+    -0.0318,
+    1.2733
+   ],
+   "bbox_max": [
+    0.2422,
+    0.102,
+    1.436
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of upper limb.j",
+   "path": "Regions of upper limb.g/Regions of upper limb.j",
+   "parent": "Regions of upper limb.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.4092,
+    0.0443,
+    1.1285
+   ],
+   "bbox_max": [
+    -0.2578,
+    0.0468,
+    1.131
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Brachial region.j",
+   "path": "Regions of upper limb.g/Brachial region.g/Brachial region.j",
+   "parent": "Brachial region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.3532,
+    0.0409,
+    1.1979
+   ],
+   "bbox_max": [
+    -0.2478,
+    0.0429,
+    1.2001
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral bicipital groove.r",
+   "path": "Regions of upper limb.g/Brachial region.g/Anterior region of arm.r/Lateral bicipital groove.r",
+   "parent": "Anterior region of arm.r",
+   "verts": 52,
+   "tris": 100,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2435,
+    0.0019,
+    1.1454
+   ],
+   "bbox_max": [
+    -0.2173,
+    0.0194,
+    1.2761
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial bicipital groove.r",
+   "path": "Regions of upper limb.g/Brachial region.g/Anterior region of arm.r/Medial bicipital groove.r",
+   "parent": "Anterior region of arm.r",
+   "verts": 40,
+   "tris": 76,
+   "materials": [
+    "Skin-5",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    -0.1941,
+    0.0052,
+    1.138
+   ],
+   "bbox_max": [
+    -0.1668,
+    0.0178,
+    1.2369
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of arm.r",
+   "path": "Regions of upper limb.g/Brachial region.g/Anterior region of arm.r",
+   "parent": "Brachial region.g",
+   "verts": 514,
+   "tris": 1028,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2569,
+    -0.0228,
+    1.1295
+   ],
+   "bbox_max": [
+    -0.161,
+    0.0434,
+    1.3118
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral bicipital groove.l",
+   "path": "Regions of upper limb.g/Brachial region.g/Anterior region of arm.l/Lateral bicipital groove.l",
+   "parent": "Anterior region of arm.l",
+   "verts": 52,
+   "tris": 100,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.2173,
+    0.0019,
+    1.1454
+   ],
+   "bbox_max": [
+    0.2435,
+    0.0194,
+    1.2761
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial bicipital groove.l",
+   "path": "Regions of upper limb.g/Brachial region.g/Anterior region of arm.l/Medial bicipital groove.l",
+   "parent": "Anterior region of arm.l",
+   "verts": 40,
+   "tris": 76,
+   "materials": [
+    "Skin-5",
+    "Skin-in"
+   ],
+   "bbox_min": [
+    0.1668,
+    0.0052,
+    1.138
+   ],
+   "bbox_max": [
+    0.1941,
+    0.0178,
+    1.2369
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of arm.l",
+   "path": "Regions of upper limb.g/Brachial region.g/Anterior region of arm.l",
+   "parent": "Brachial region.g",
+   "verts": 514,
+   "tris": 1028,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.161,
+    -0.0228,
+    1.1295
+   ],
+   "bbox_max": [
+    0.2569,
+    0.0434,
+    1.3118
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of arm.r",
+   "path": "Regions of upper limb.g/Brachial region.g/Posterior region of arm.r",
+   "parent": "Brachial region.g",
+   "verts": 458,
+   "tris": 912,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2569,
+    0.0347,
+    1.1295
+   ],
+   "bbox_max": [
+    -0.1626,
+    0.1113,
+    1.3565
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of arm.l",
+   "path": "Regions of upper limb.g/Brachial region.g/Posterior region of arm.l",
+   "parent": "Brachial region.g",
+   "verts": 458,
+   "tris": 912,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.1626,
+    0.0347,
+    1.1295
+   ],
+   "bbox_max": [
+    0.2569,
+    0.1113,
+    1.3565
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of hand.j",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of hand.j",
+   "parent": "Regions of hand.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.4147,
+    -0.0445,
+    0.7596
+   ],
+   "bbox_max": [
+    -0.3135,
+    -0.0425,
+    0.7616
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Palm.r",
+   "path": "Regions of upper limb.g/Regions of hand.g/Palm.r",
+   "parent": "Regions of hand.g",
+   "verts": 298,
+   "tris": 592,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.3174,
+    -0.0606,
+    0.7694
+   ],
+   "bbox_max": [
+    -0.225,
+    -0.0276,
+    0.8412
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Palm.l",
+   "path": "Regions of upper limb.g/Regions of hand.g/Palm.l",
+   "parent": "Regions of hand.g",
+   "verts": 298,
+   "tris": 592,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.225,
+    -0.0606,
+    0.7694
+   ],
+   "bbox_max": [
+    0.3174,
+    -0.0276,
+    0.8412
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsum of hand.r",
+   "path": "Regions of upper limb.g/Regions of hand.g/Dorsum of hand.r",
+   "parent": "Regions of hand.g",
+   "verts": 358,
+   "tris": 712,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.3239,
+    -0.0573,
+    0.7631
+   ],
+   "bbox_max": [
+    -0.225,
+    -0.005,
+    0.8381
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsum of hand.l",
+   "path": "Regions of upper limb.g/Regions of hand.g/Dorsum of hand.l",
+   "parent": "Regions of hand.g",
+   "verts": 358,
+   "tris": 712,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.225,
+    -0.0573,
+    0.7631
+   ],
+   "bbox_max": [
+    0.3239,
+    -0.005,
+    0.8381
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of digits of hand.j",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Regions of digits of hand.j",
+   "parent": "Regions of digits of hand.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2815,
+    -0.165,
+    0.7267
+   ],
+   "bbox_max": [
+    -0.28,
+    -0.0738,
+    0.7283
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Palmar surfaces of digits of hand.r",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Palmar surfaces of digits of hand.r",
+   "parent": "Regions of digits of hand.g",
+   "verts": 1922,
+   "tris": 3836,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.336,
+    -0.1,
+    0.7
+   ],
+   "bbox_max": [
+    -0.2244,
+    -0.0391,
+    0.8205
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Perionyx.r",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Dorsal surfaces of digits of hand.r/Nail plate.r/Perionyx.r",
+   "parent": "Nail plate.r",
+   "verts": 128,
+   "tris": 236,
+   "materials": [
+    "Ligament.004"
+   ],
+   "bbox_min": [
+    -0.3376,
+    -0.0856,
+    0.7034
+   ],
+   "bbox_max": [
+    -0.225,
+    -0.0613,
+    0.7799
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nail plate.r",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Dorsal surfaces of digits of hand.r/Nail plate.r",
+   "parent": "Dorsal surfaces of digits of hand.r",
+   "verts": 1392,
+   "tris": 2760,
+   "materials": [
+    "Nail"
+   ],
+   "bbox_min": [
+    -0.3401,
+    -0.0983,
+    0.6985
+   ],
+   "bbox_max": [
+    -0.225,
+    -0.0615,
+    0.7797
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsal surfaces of digits of hand.r",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Dorsal surfaces of digits of hand.r",
+   "parent": "Regions of digits of hand.g",
+   "verts": 2144,
+   "tris": 4260,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.34,
+    -0.1,
+    0.6985
+   ],
+   "bbox_max": [
+    -0.2236,
+    -0.024,
+    0.8205
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Palmar surfaces of digits of hand.l",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Palmar surfaces of digits of hand.l",
+   "parent": "Regions of digits of hand.g",
+   "verts": 1922,
+   "tris": 3836,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.2244,
+    -0.1,
+    0.7
+   ],
+   "bbox_max": [
+    0.336,
+    -0.0391,
+    0.8205
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Perionyx.l",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Dorsal surfaces of digits of hand.l/Nail plate.l/Perionyx.l",
+   "parent": "Nail plate.l",
+   "verts": 128,
+   "tris": 236,
+   "materials": [
+    "Ligament.004"
+   ],
+   "bbox_min": [
+    0.225,
+    -0.0856,
+    0.7034
+   ],
+   "bbox_max": [
+    0.3376,
+    -0.0613,
+    0.7799
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nail plate.l",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Dorsal surfaces of digits of hand.l/Nail plate.l",
+   "parent": "Dorsal surfaces of digits of hand.l",
+   "verts": 1392,
+   "tris": 2760,
+   "materials": [
+    "Nail"
+   ],
+   "bbox_min": [
+    0.225,
+    -0.0983,
+    0.6985
+   ],
+   "bbox_max": [
+    0.3401,
+    -0.0615,
+    0.7797
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsal surfaces of digits of hand.l",
+   "path": "Regions of upper limb.g/Regions of hand.g/Regions of digits of hand.g/Dorsal surfaces of digits of hand.l",
+   "parent": "Regions of digits of hand.g",
+   "verts": 2144,
+   "tris": 4260,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.2236,
+    -0.1,
+    0.6985
+   ],
+   "bbox_max": [
+    0.34,
+    -0.024,
+    0.8205
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cubital fossa.r",
+   "path": "Regions of upper limb.g/Cubital region.g/Anterior region of elbow.r/Cubital fossa.r",
+   "parent": "Anterior region of elbow.r",
+   "verts": 70,
+   "tris": 136,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3"
+   ],
+   "bbox_min": [
+    -0.2416,
+    -0.001,
+    1.1097
+   ],
+   "bbox_max": [
+    -0.1959,
+    0.0132,
+    1.1396
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of elbow.r",
+   "path": "Regions of upper limb.g/Cubital region.g/Anterior region of elbow.r",
+   "parent": "Cubital region.g",
+   "verts": 216,
+   "tris": 428,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-5''",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2745,
+    -0.0036,
+    1.0748
+   ],
+   "bbox_max": [
+    -0.179,
+    0.0397,
+    1.1421
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cubital fossa.l",
+   "path": "Regions of upper limb.g/Cubital region.g/Anterior region of elbow.l/Cubital fossa.l",
+   "parent": "Anterior region of elbow.l",
+   "verts": 70,
+   "tris": 136,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3"
+   ],
+   "bbox_min": [
+    0.1959,
+    -0.001,
+    1.1097
+   ],
+   "bbox_max": [
+    0.2416,
+    0.0132,
+    1.1396
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of elbow.l",
+   "path": "Regions of upper limb.g/Cubital region.g/Anterior region of elbow.l",
+   "parent": "Cubital region.g",
+   "verts": 216,
+   "tris": 428,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-5''",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.179,
+    -0.0036,
+    1.0748
+   ],
+   "bbox_max": [
+    0.2745,
+    0.0397,
+    1.1421
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of elbow.r",
+   "path": "Regions of upper limb.g/Cubital region.g/Posterior region of elbow.r",
+   "parent": "Cubital region.g",
+   "verts": 242,
+   "tris": 480,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-5''",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2745,
+    0.0293,
+    1.0754
+   ],
+   "bbox_max": [
+    -0.1776,
+    0.0821,
+    1.1421
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of elbow.l",
+   "path": "Regions of upper limb.g/Cubital region.g/Posterior region of elbow.l",
+   "parent": "Cubital region.g",
+   "verts": 242,
+   "tris": 480,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-5''",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.1776,
+    0.0293,
+    1.0754
+   ],
+   "bbox_max": [
+    0.2745,
+    0.0821,
+    1.1421
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cubital region.j",
+   "path": "Regions of upper limb.g/Cubital region.g/Cubital region.j",
+   "parent": "Cubital region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.3492,
+    0.0382,
+    1.106
+   ],
+   "bbox_max": [
+    -0.2676,
+    0.0402,
+    1.108
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of forearm.r",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Posterior region of forearm.r",
+   "parent": "Antebrachial region.g",
+   "verts": 668,
+   "tris": 1332,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-5''",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2959,
+    -0.0237,
+    0.8516
+   ],
+   "bbox_max": [
+    -0.1813,
+    0.0747,
+    1.088
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral border of forearm.r",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Lateral border of forearm.r",
+   "parent": "Antebrachial region.g",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.2933,
+    -0.0211,
+    0.8683
+   ],
+   "bbox_max": [
+    -0.2713,
+    0.0306,
+    1.0885
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial border of forearm.r",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Medial border of forearm.r",
+   "parent": "Antebrachial region.g",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    -0.2356,
+    -0.0174,
+    0.86
+   ],
+   "bbox_max": [
+    -0.1803,
+    0.0335,
+    1.0756
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of forearm.r",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Anterior region of forearm.r",
+   "parent": "Antebrachial region.g",
+   "verts": 586,
+   "tris": 1168,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-5''",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.2956,
+    -0.0387,
+    0.8526
+   ],
+   "bbox_max": [
+    -0.1803,
+    0.0261,
+    1.0887
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of forearm.l",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Posterior region of forearm.l",
+   "parent": "Antebrachial region.g",
+   "verts": 668,
+   "tris": 1332,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-5''",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.1813,
+    -0.0237,
+    0.8516
+   ],
+   "bbox_max": [
+    0.2959,
+    0.0747,
+    1.088
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral border of forearm.l",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Lateral border of forearm.l",
+   "parent": "Antebrachial region.g",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.2713,
+    -0.0211,
+    0.8683
+   ],
+   "bbox_max": [
+    0.2933,
+    0.0306,
+    1.0885
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial border of forearm.l",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Medial border of forearm.l",
+   "parent": "Antebrachial region.g",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-5''"
+   ],
+   "bbox_min": [
+    0.1803,
+    -0.0174,
+    0.86
+   ],
+   "bbox_max": [
+    0.2356,
+    0.0335,
+    1.0756
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of forearm.l",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Anterior region of forearm.l",
+   "parent": "Antebrachial region.g",
+   "verts": 586,
+   "tris": 1168,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-5''",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.1803,
+    -0.0387,
+    0.8526
+   ],
+   "bbox_max": [
+    0.2956,
+    0.0261,
+    1.0887
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Antebrachial region.j",
+   "path": "Regions of upper limb.g/Antebrachial region.g/Antebrachial region.j",
+   "parent": "Antebrachial region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.3867,
+    0.0042,
+    0.9626
+   ],
+   "bbox_max": [
+    -0.2793,
+    0.0062,
+    0.9648
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of wrist.r",
+   "path": "Regions of upper limb.g/Carpal region.g/Anterior region of wrist.r",
+   "parent": "Carpal region.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.3114,
+    -0.0533,
+    0.8299
+   ],
+   "bbox_max": [
+    -0.2291,
+    -0.0179,
+    0.8628
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of wrist.r",
+   "path": "Regions of upper limb.g/Carpal region.g/Posterior region of wrist.r",
+   "parent": "Carpal region.g",
+   "verts": 124,
+   "tris": 240,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.3115,
+    -0.0339,
+    0.8276
+   ],
+   "bbox_max": [
+    -0.2292,
+    0.0023,
+    0.86
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Radial foveola.r",
+   "path": "Regions of upper limb.g/Carpal region.g/Radial foveola.r",
+   "parent": "Carpal region.g",
+   "verts": 30,
+   "tris": 56,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.3115,
+    -0.0289,
+    0.8322
+   ],
+   "bbox_max": [
+    -0.284,
+    -0.0042,
+    0.8587
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of wrist.l",
+   "path": "Regions of upper limb.g/Carpal region.g/Anterior region of wrist.l",
+   "parent": "Carpal region.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.2291,
+    -0.0533,
+    0.8299
+   ],
+   "bbox_max": [
+    0.3114,
+    -0.0179,
+    0.8628
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of wrist.l",
+   "path": "Regions of upper limb.g/Carpal region.g/Posterior region of wrist.l",
+   "parent": "Carpal region.g",
+   "verts": 124,
+   "tris": 240,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.2292,
+    -0.0339,
+    0.8276
+   ],
+   "bbox_max": [
+    0.3115,
+    0.0023,
+    0.86
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Radial foveola.l",
+   "path": "Regions of upper limb.g/Carpal region.g/Radial foveola.l",
+   "parent": "Carpal region.g",
+   "verts": 30,
+   "tris": 56,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.284,
+    -0.0289,
+    0.8322
+   ],
+   "bbox_max": [
+    0.3115,
+    -0.0042,
+    0.8587
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Carpal region.j",
+   "path": "Regions of upper limb.g/Carpal region.g/Carpal region.j",
+   "parent": "Carpal region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.3771,
+    -0.0308,
+    0.8441
+   ],
+   "bbox_max": [
+    -0.3054,
+    -0.0288,
+    0.8461
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hip region.r",
+   "path": "Regions of lower limb.g/Hip region.r",
+   "parent": "Regions of lower limb.g",
+   "verts": 84,
+   "tris": 164,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1803,
+    -0.038,
+    0.7949
+   ],
+   "bbox_max": [
+    -0.1506,
+    0.0682,
+    0.9031
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hip region.l",
+   "path": "Regions of lower limb.g/Hip region.l",
+   "parent": "Regions of lower limb.g",
+   "verts": 84,
+   "tris": 164,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.1506,
+    -0.038,
+    0.7949
+   ],
+   "bbox_max": [
+    0.1803,
+    0.0682,
+    0.9031
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of lower limb.j",
+   "path": "Regions of lower limb.g/Regions of lower limb.j",
+   "parent": "Regions of lower limb.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2906,
+    0.0131,
+    0.5249
+   ],
+   "bbox_max": [
+    -0.1456,
+    0.0156,
+    0.5275
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gluteal region.j",
+   "path": "Regions of lower limb.g/Gluteal region.g/Gluteal region.j",
+   "parent": "Gluteal region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0794,
+    0.1249,
+    0.8407
+   ],
+   "bbox_max": [
+    -0.0774,
+    0.2158,
+    0.8427
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gluteal fold.r",
+   "path": "Regions of lower limb.g/Gluteal region.g/Gluteal region.r/Gluteal fold.r",
+   "parent": "Gluteal region.r",
+   "verts": 28,
+   "tris": 52,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.102,
+    0.0681,
+    0.7605
+   ],
+   "bbox_max": [
+    -0.0118,
+    0.1211,
+    0.779
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gluteal region.r",
+   "path": "Regions of lower limb.g/Gluteal region.g/Gluteal region.r",
+   "parent": "Gluteal region.g",
+   "verts": 418,
+   "tris": 832,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-7",
+    "Skin-4",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1706,
+    0.0177,
+    0.7698
+   ],
+   "bbox_max": [
+    0.0,
+    0.1483,
+    1.0153
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gluteal fold.l",
+   "path": "Regions of lower limb.g/Gluteal region.g/Gluteal region.l/Gluteal fold.l",
+   "parent": "Gluteal region.l",
+   "verts": 28,
+   "tris": 52,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0118,
+    0.0681,
+    0.7605
+   ],
+   "bbox_max": [
+    0.102,
+    0.1211,
+    0.779
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gluteal region.l",
+   "path": "Regions of lower limb.g/Gluteal region.g/Gluteal region.l",
+   "parent": "Gluteal region.g",
+   "verts": 418,
+   "tris": 832,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-7",
+    "Skin-4",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0,
+    0.0177,
+    0.7698
+   ],
+   "bbox_max": [
+    0.1706,
+    0.1483,
+    1.0153
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Femoral region.j",
+   "path": "Regions of lower limb.g/Femoral region.g/Femoral region.j",
+   "parent": "Femoral region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2737,
+    0.0171,
+    0.6313
+   ],
+   "bbox_max": [
+    -0.166,
+    0.0191,
+    0.6333
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of thigh.r",
+   "path": "Regions of lower limb.g/Femoral region.g/Posterior region of thigh.r",
+   "parent": "Femoral region.g",
+   "verts": 502,
+   "tris": 1000,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-4",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1813,
+    0.0051,
+    0.5024
+   ],
+   "bbox_max": [
+    -0.0015,
+    0.1157,
+    0.8076
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of thigh.l",
+   "path": "Regions of lower limb.g/Femoral region.g/Posterior region of thigh.l",
+   "parent": "Femoral region.g",
+   "verts": 502,
+   "tris": 1000,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-4",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0015,
+    0.0051,
+    0.5024
+   ],
+   "bbox_max": [
+    0.1813,
+    0.1157,
+    0.8076
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of thigh.j",
+   "path": "Regions of lower limb.g/Femoral region.g/Anterior region of thigh.g/Anterior region of thigh.j",
+   "parent": "Anterior region of thigh.g",
+   "verts": 220,
+   "tris": 436,
+   "materials": [],
+   "bbox_min": [
+    -0.094,
+    -0.1488,
+    0.6592
+   ],
+   "bbox_max": [
+    -0.0925,
+    -0.0633,
+    0.6607
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Femoral triangle.r",
+   "path": "Regions of lower limb.g/Femoral region.g/Anterior region of thigh.g/Anterior region of thigh.r/Femoral triangle.r",
+   "parent": "Anterior region of thigh.r",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1016,
+    -0.0808,
+    0.749
+   ],
+   "bbox_max": [
+    -0.0284,
+    -0.0489,
+    0.9308
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of thigh.r",
+   "path": "Regions of lower limb.g/Femoral region.g/Anterior region of thigh.g/Anterior region of thigh.r",
+   "parent": "Anterior region of thigh.g",
+   "verts": 946,
+   "tris": 1888,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-4",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1818,
+    -0.0797,
+    0.4997
+   ],
+   "bbox_max": [
+    -0.0036,
+    0.0461,
+    1.0159
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Femoral triangle.l",
+   "path": "Regions of lower limb.g/Femoral region.g/Anterior region of thigh.g/Anterior region of thigh.l/Femoral triangle.l",
+   "parent": "Anterior region of thigh.l",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0284,
+    -0.0808,
+    0.749
+   ],
+   "bbox_max": [
+    0.1016,
+    -0.0489,
+    0.9308
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of thigh.l",
+   "path": "Regions of lower limb.g/Femoral region.g/Anterior region of thigh.g/Anterior region of thigh.l",
+   "parent": "Anterior region of thigh.g",
+   "verts": 946,
+   "tris": 1888,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-4",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0036,
+    -0.0797,
+    0.4997
+   ],
+   "bbox_max": [
+    0.1818,
+    0.0461,
+    1.0159
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Knee region.j",
+   "path": "Regions of lower limb.g/Knee region.g/Knee region.j",
+   "parent": "Knee region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2121,
+    0.0239,
+    0.4359
+   ],
+   "bbox_max": [
+    -0.1358,
+    0.0259,
+    0.4379
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of knee.r",
+   "path": "Regions of lower limb.g/Knee region.g/Anterior region of knee.r",
+   "parent": "Knee region.g",
+   "verts": 376,
+   "tris": 748,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1433,
+    -0.0539,
+    0.3798
+   ],
+   "bbox_max": [
+    -0.0197,
+    0.0412,
+    0.5061
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of knee.l",
+   "path": "Regions of lower limb.g/Knee region.g/Anterior region of knee.l",
+   "parent": "Knee region.g",
+   "verts": 376,
+   "tris": 748,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0197,
+    -0.0539,
+    0.3798
+   ],
+   "bbox_max": [
+    0.1433,
+    0.0412,
+    0.5061
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of knee.j",
+   "path": "Regions of lower limb.g/Knee region.g/Posterior region of knee.g/Posterior region of knee.j",
+   "parent": "Posterior region of knee.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0908,
+    0.0916,
+    0.4377
+   ],
+   "bbox_max": [
+    -0.0893,
+    0.1792,
+    0.4392
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Popliteal fossa.r",
+   "path": "Regions of lower limb.g/Knee region.g/Posterior region of knee.g/Posterior region of knee.r/Popliteal fossa.r",
+   "parent": "Posterior region of knee.r",
+   "verts": 62,
+   "tris": 120,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1215,
+    0.0576,
+    0.4637
+   ],
+   "bbox_max": [
+    -0.0406,
+    0.0786,
+    0.5054
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of knee.r",
+   "path": "Regions of lower limb.g/Knee region.g/Posterior region of knee.g/Posterior region of knee.r",
+   "parent": "Posterior region of knee.g",
+   "verts": 324,
+   "tris": 644,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1422,
+    0.013,
+    0.3878
+   ],
+   "bbox_max": [
+    -0.019,
+    0.1033,
+    0.5077
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Popliteal fossa.l",
+   "path": "Regions of lower limb.g/Knee region.g/Posterior region of knee.g/Posterior region of knee.l/Popliteal fossa.l",
+   "parent": "Posterior region of knee.l",
+   "verts": 62,
+   "tris": 120,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0406,
+    0.0576,
+    0.4637
+   ],
+   "bbox_max": [
+    0.1215,
+    0.0786,
+    0.5054
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of knee.l",
+   "path": "Regions of lower limb.g/Knee region.g/Posterior region of knee.g/Posterior region of knee.l",
+   "parent": "Posterior region of knee.g",
+   "verts": 324,
+   "tris": 644,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.019,
+    0.013,
+    0.3878
+   ],
+   "bbox_max": [
+    0.1422,
+    0.1033,
+    0.5077
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral malleolus.r",
+   "path": "Regions of lower limb.g/Talocrural region.g/Lateral malleolus.r",
+   "parent": "Talocrural region.g",
+   "verts": 98,
+   "tris": 192,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-8",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1193,
+    0.0383,
+    0.0471
+   ],
+   "bbox_max": [
+    -0.0936,
+    0.0751,
+    0.1003
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial malleolus.r",
+   "path": "Regions of lower limb.g/Talocrural region.g/Medial malleolus.r",
+   "parent": "Talocrural region.g",
+   "verts": 78,
+   "tris": 152,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    -0.0511,
+    0.0213,
+    0.055
+   ],
+   "bbox_max": [
+    -0.0421,
+    0.0636,
+    0.0981
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral malleolus.l",
+   "path": "Regions of lower limb.g/Talocrural region.g/Lateral malleolus.l",
+   "parent": "Talocrural region.g",
+   "verts": 98,
+   "tris": 192,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-8",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0936,
+    0.0383,
+    0.0471
+   ],
+   "bbox_max": [
+    0.1193,
+    0.0751,
+    0.1003
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial malleolus.l",
+   "path": "Regions of lower limb.g/Talocrural region.g/Medial malleolus.l",
+   "parent": "Talocrural region.g",
+   "verts": 78,
+   "tris": 152,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2"
+   ],
+   "bbox_min": [
+    0.0421,
+    0.0213,
+    0.055
+   ],
+   "bbox_max": [
+    0.0511,
+    0.0636,
+    0.0981
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of ankle.r",
+   "path": "Regions of lower limb.g/Talocrural region.g/Anterior region of ankle.r",
+   "parent": "Talocrural region.g",
+   "verts": 274,
+   "tris": 544,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-4",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1158,
+    -0.0013,
+    0.0564
+   ],
+   "bbox_max": [
+    -0.0457,
+    0.0796,
+    0.1263
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of ankle.l",
+   "path": "Regions of lower limb.g/Talocrural region.g/Anterior region of ankle.l",
+   "parent": "Talocrural region.g",
+   "verts": 274,
+   "tris": 544,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3",
+    "Skin-4",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0457,
+    -0.0013,
+    0.0564
+   ],
+   "bbox_max": [
+    0.1158,
+    0.0796,
+    0.1263
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of ankle.j",
+   "path": "Regions of lower limb.g/Talocrural region.g/Posterior region of ankle.g/Posterior region of ankle.j",
+   "parent": "Posterior region of ankle.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.068,
+    0.0948,
+    0.0841
+   ],
+   "bbox_max": [
+    -0.067,
+    0.1645,
+    0.0852
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral retromalleolar region.r",
+   "path": "Regions of lower limb.g/Talocrural region.g/Posterior region of ankle.g/Lateral retromalleolar region.r",
+   "parent": "Posterior region of ankle.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1143,
+    0.0569,
+    0.0423
+   ],
+   "bbox_max": [
+    -0.0656,
+    0.0987,
+    0.1198
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral retromalleolar region.l",
+   "path": "Regions of lower limb.g/Talocrural region.g/Posterior region of ankle.g/Lateral retromalleolar region.l",
+   "parent": "Posterior region of ankle.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-3",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0656,
+    0.0569,
+    0.0423
+   ],
+   "bbox_max": [
+    0.1143,
+    0.0987,
+    0.1198
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial retromalleolar region.r",
+   "path": "Regions of lower limb.g/Talocrural region.g/Posterior region of ankle.g/Medial retromalleolar region.r",
+   "parent": "Posterior region of ankle.g",
+   "verts": 118,
+   "tris": 232,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.0733,
+    0.0374,
+    0.0476
+   ],
+   "bbox_max": [
+    -0.0434,
+    0.0987,
+    0.1181
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial retromalleolar region.l",
+   "path": "Regions of lower limb.g/Talocrural region.g/Posterior region of ankle.g/Medial retromalleolar region.l",
+   "parent": "Posterior region of ankle.g",
+   "verts": 118,
+   "tris": 232,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0434,
+    0.0374,
+    0.0476
+   ],
+   "bbox_max": [
+    0.0733,
+    0.0987,
+    0.1181
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of foot.j",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of foot.j",
+   "parent": "Regions of foot.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2018,
+    0.0047,
+    0.0381
+   ],
+   "bbox_max": [
+    -0.1212,
+    0.0067,
+    0.0401
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral part of longitudinal arch of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.r/Lateral part of longitudinal arch of foot.r",
+   "parent": "Sole.r",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1454,
+    -0.048,
+    0.0028
+   ],
+   "bbox_max": [
+    -0.0992,
+    0.0646,
+    0.0142
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial part of longitudinal arch of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.r/Medial part of longitudinal arch of foot.r",
+   "parent": "Sole.r",
+   "verts": 56,
+   "tris": 108,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0921,
+    -0.0627,
+    0.0021
+   ],
+   "bbox_max": [
+    -0.0474,
+    0.0459,
+    0.0285
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Proximal transverse arch of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.r/Proximal transverse arch of foot.r",
+   "parent": "Sole.r",
+   "verts": 46,
+   "tris": 88,
+   "materials": [
+    "Skin-in",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1085,
+    0.0282,
+    0.0028
+   ],
+   "bbox_max": [
+    -0.0474,
+    0.0646,
+    0.0277
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Distal transverse arch of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.r/Distal transverse arch of foot.r",
+   "parent": "Sole.r",
+   "verts": 42,
+   "tris": 80,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1454,
+    -0.0844,
+    -0.0004
+   ],
+   "bbox_max": [
+    -0.0867,
+    -0.0391,
+    0.0095
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sole.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.r",
+   "parent": "Regions of foot.g",
+   "verts": 90,
+   "tris": 176,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1236,
+    -0.0608,
+    0.0028
+   ],
+   "bbox_max": [
+    -0.0619,
+    0.0421,
+    0.0153
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral part of longitudinal arch of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.l/Lateral part of longitudinal arch of foot.l",
+   "parent": "Sole.l",
+   "verts": 80,
+   "tris": 156,
+   "materials": [
+    "Skin-in",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0992,
+    -0.048,
+    0.0028
+   ],
+   "bbox_max": [
+    0.1454,
+    0.0646,
+    0.0142
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial part of longitudinal arch of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.l/Medial part of longitudinal arch of foot.l",
+   "parent": "Sole.l",
+   "verts": 56,
+   "tris": 108,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0474,
+    -0.0627,
+    0.0021
+   ],
+   "bbox_max": [
+    0.0921,
+    0.0459,
+    0.0285
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Proximal transverse arch of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.l/Proximal transverse arch of foot.l",
+   "parent": "Sole.l",
+   "verts": 46,
+   "tris": 88,
+   "materials": [
+    "Skin-in",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0474,
+    0.0282,
+    0.0028
+   ],
+   "bbox_max": [
+    0.1085,
+    0.0646,
+    0.0277
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Distal transverse arch of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.l/Distal transverse arch of foot.l",
+   "parent": "Sole.l",
+   "verts": 42,
+   "tris": 80,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0867,
+    -0.0844,
+    -0.0004
+   ],
+   "bbox_max": [
+    0.1454,
+    -0.0391,
+    0.0095
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sole.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Sole.l",
+   "parent": "Regions of foot.g",
+   "verts": 90,
+   "tris": 176,
+   "materials": [
+    "Skin-in",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0619,
+    -0.0608,
+    0.0028
+   ],
+   "bbox_max": [
+    0.1236,
+    0.0421,
+    0.0153
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hallucial eminence.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Metatarsal region.r/Hallucial eminence.r",
+   "parent": "Metatarsal region.r",
+   "verts": 132,
+   "tris": 260,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.089,
+    -0.1005,
+    0.0003
+   ],
+   "bbox_max": [
+    -0.0522,
+    -0.0488,
+    0.031
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Metatarsal region.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Metatarsal region.r",
+   "parent": "Regions of foot.g",
+   "verts": 248,
+   "tris": 492,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    -0.142,
+    -0.0848,
+    0.0201
+   ],
+   "bbox_max": [
+    -0.0557,
+    0.0147,
+    0.0718
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hallucial eminence.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Metatarsal region.l/Hallucial eminence.l",
+   "parent": "Metatarsal region.l",
+   "verts": 132,
+   "tris": 260,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0522,
+    -0.1005,
+    0.0003
+   ],
+   "bbox_max": [
+    0.089,
+    -0.0488,
+    0.031
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Metatarsal region.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Metatarsal region.l",
+   "parent": "Regions of foot.g",
+   "verts": 248,
+   "tris": 492,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    0.0557,
+    -0.0848,
+    0.0201
+   ],
+   "bbox_max": [
+    0.142,
+    0.0147,
+    0.0718
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Heel region.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Heel region.r",
+   "parent": "Regions of foot.g",
+   "verts": 314,
+   "tris": 624,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1115,
+    0.0457,
+    0.0016
+   ],
+   "bbox_max": [
+    -0.0435,
+    0.1088,
+    0.0693
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsum of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Dorsum of foot.r",
+   "parent": "Regions of foot.g",
+   "verts": 176,
+   "tris": 348,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    -0.1213,
+    -0.0296,
+    0.0325
+   ],
+   "bbox_max": [
+    -0.0457,
+    0.0513,
+    0.0921
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Heel region.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Heel region.l",
+   "parent": "Regions of foot.g",
+   "verts": 314,
+   "tris": 624,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-1",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0435,
+    0.0457,
+    0.0016
+   ],
+   "bbox_max": [
+    0.1115,
+    0.1088,
+    0.0693
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsum of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Dorsum of foot.l",
+   "parent": "Regions of foot.g",
+   "verts": 176,
+   "tris": 348,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8"
+   ],
+   "bbox_min": [
+    0.0457,
+    -0.0296,
+    0.0325
+   ],
+   "bbox_max": [
+    0.1213,
+    0.0513,
+    0.0921
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral border of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Lateral border of foot.l",
+   "parent": "Regions of foot.g",
+   "verts": 154,
+   "tris": 304,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.1019,
+    -0.0586,
+    0.0068
+   ],
+   "bbox_max": [
+    0.149,
+    0.0681,
+    0.05
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral border of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Lateral border of foot.r",
+   "parent": "Regions of foot.g",
+   "verts": 154,
+   "tris": 304,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.149,
+    -0.0586,
+    0.0068
+   ],
+   "bbox_max": [
+    -0.1019,
+    0.0681,
+    0.05
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial border of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Medial border of foot.l",
+   "parent": "Regions of foot.g",
+   "verts": 156,
+   "tris": 308,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0424,
+    -0.068,
+    0.0065
+   ],
+   "bbox_max": [
+    0.0631,
+    0.0634,
+    0.0779
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial border of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Medial border of foot.r",
+   "parent": "Regions of foot.g",
+   "verts": 156,
+   "tris": 308,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.0631,
+    -0.068,
+    0.0065
+   ],
+   "bbox_max": [
+    -0.0424,
+    0.0634,
+    0.0779
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of digits of foot.j",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Regions of digits of foot.j",
+   "parent": "Regions of digits of foot.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1097,
+    -0.1978,
+    0.011
+   ],
+   "bbox_max": [
+    -0.1087,
+    -0.1395,
+    0.012
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Perionyx (foot).l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Dorsal surfaces of digits of foot.l/Nail plate (foot).l/Perionyx (foot).l",
+   "parent": "Nail plate (foot).l",
+   "verts": 930,
+   "tris": 1840,
+   "materials": [
+    "Ligament.004"
+   ],
+   "bbox_min": [
+    0.081,
+    -0.1321,
+    0.0169
+   ],
+   "bbox_max": [
+    0.1484,
+    -0.0863,
+    0.0256
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nail plate (foot).l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Dorsal surfaces of digits of foot.l/Nail plate (foot).l",
+   "parent": "Dorsal surfaces of digits of foot.l",
+   "verts": 978,
+   "tris": 1936,
+   "materials": [
+    "Nail"
+   ],
+   "bbox_min": [
+    0.0808,
+    -0.1441,
+    0.0151
+   ],
+   "bbox_max": [
+    0.1486,
+    -0.0859,
+    0.0257
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsal surfaces of digits of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Dorsal surfaces of digits of foot.l",
+   "parent": "Regions of digits of foot.g",
+   "verts": 648,
+   "tris": 1157,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.0628,
+    -0.1456,
+    0.0114
+   ],
+   "bbox_max": [
+    0.1492,
+    -0.0473,
+    0.0382
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Perionyx (foot).r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Dorsal surfaces of digits of foot.r/Nail plate (foot).r/Perionyx (foot).r",
+   "parent": "Nail plate (foot).r",
+   "verts": 930,
+   "tris": 1840,
+   "materials": [
+    "Ligament.004"
+   ],
+   "bbox_min": [
+    -0.1484,
+    -0.1321,
+    0.0169
+   ],
+   "bbox_max": [
+    -0.081,
+    -0.0859,
+    0.0256
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nail plate (foot).r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Dorsal surfaces of digits of foot.r/Nail plate (foot).r",
+   "parent": "Dorsal surfaces of digits of foot.r",
+   "verts": 978,
+   "tris": 1936,
+   "materials": [
+    "Nail"
+   ],
+   "bbox_min": [
+    -0.1486,
+    -0.1441,
+    0.0151
+   ],
+   "bbox_max": [
+    -0.0808,
+    -0.0859,
+    0.0257
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsal surfaces of digits of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Dorsal surfaces of digits of foot.r",
+   "parent": "Regions of digits of foot.g",
+   "verts": 648,
+   "tris": 1157,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-8",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1492,
+    -0.1456,
+    0.0114
+   ],
+   "bbox_max": [
+    -0.0628,
+    -0.0473,
+    0.0382
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Plantar surfaces of digits of foot.l",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Plantar surfaces of digits of foot.l",
+   "parent": "Regions of digits of foot.g",
+   "verts": 1016,
+   "tris": 2028,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    0.0643,
+    -0.1456,
+    -0.0004
+   ],
+   "bbox_max": [
+    0.1494,
+    -0.0476,
+    0.0185
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Plantar surfaces of digits of foot.r",
+   "path": "Regions of lower limb.g/Regions of foot.g/Regions of digits of foot.g/Plantar surfaces of digits of foot.r",
+   "parent": "Regions of digits of foot.g",
+   "verts": 1016,
+   "tris": 2028,
+   "materials": [
+    "Skin-in",
+    "Skin-2",
+    "Skin-1"
+   ],
+   "bbox_min": [
+    -0.1494,
+    -0.1456,
+    -0.0004
+   ],
+   "bbox_max": [
+    -0.0643,
+    -0.0476,
+    0.0185
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of leg.r",
+   "path": "Regions of lower limb.g/Leg region.g/Posterior region of leg.r",
+   "parent": "Leg region.g",
+   "verts": 612,
+   "tris": 1220,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    -0.1492,
+    0.0331,
+    0.1176
+   ],
+   "bbox_max": [
+    -0.0304,
+    0.1185,
+    0.4068
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior region of leg.l",
+   "path": "Regions of lower limb.g/Leg region.g/Posterior region of leg.l",
+   "parent": "Leg region.g",
+   "verts": 612,
+   "tris": 1220,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-3",
+    "Skin-6"
+   ],
+   "bbox_min": [
+    0.0304,
+    0.0331,
+    0.1176
+   ],
+   "bbox_max": [
+    0.1492,
+    0.1185,
+    0.4068
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of leg.r",
+   "path": "Regions of lower limb.g/Leg region.g/Anterior region of leg.r",
+   "parent": "Leg region.g",
+   "verts": 628,
+   "tris": 1252,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3"
+   ],
+   "bbox_min": [
+    -0.1492,
+    -0.0197,
+    0.1206
+   ],
+   "bbox_max": [
+    -0.031,
+    0.0535,
+    0.3899
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of leg.l",
+   "path": "Regions of lower limb.g/Leg region.g/Anterior region of leg.l",
+   "parent": "Leg region.g",
+   "verts": 628,
+   "tris": 1252,
+   "materials": [
+    "Skin-5",
+    "Skin-in",
+    "Skin-2",
+    "Skin-3"
+   ],
+   "bbox_min": [
+    0.031,
+    -0.0197,
+    0.1206
+   ],
+   "bbox_max": [
+    0.1492,
+    0.0535,
+    0.3899
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Leg region.j",
+   "path": "Regions of lower limb.g/Leg region.g/Leg region.j",
+   "parent": "Leg region.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2216,
+    0.0528,
+    0.2355
+   ],
+   "bbox_max": [
+    -0.1397,
+    0.0548,
+    0.2375
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of thorax.r",
+   "path": "Regions of thorax.g/Lateral region of thorax.r",
+   "parent": "Regions of thorax.g",
+   "verts": 396,
+   "tris": 788,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.1807,
+    -0.1228,
+    1.1288
+   ],
+   "bbox_max": [
+    -0.0796,
+    0.1247,
+    1.3726
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral region of thorax.l",
+   "path": "Regions of thorax.g/Lateral region of thorax.l",
+   "parent": "Regions of thorax.g",
+   "verts": 396,
+   "tris": 788,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0796,
+    -0.1228,
+    1.1288
+   ],
+   "bbox_max": [
+    0.1807,
+    0.1247,
+    1.3726
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Regions of thorax.j",
+   "path": "Regions of thorax.g/Regions of thorax.j",
+   "parent": "Regions of thorax.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0007,
+    -0.2168,
+    1.3208
+   ],
+   "bbox_max": [
+    0.0018,
+    -0.1003,
+    1.3235
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inframammary region.r",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Pectoral region.r/Inframammary region.r",
+   "parent": "Pectoral region.r",
+   "verts": 48,
+   "tris": 92,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.0823,
+    -0.1313,
+    1.1787
+   ],
+   "bbox_max": [
+    -0.0074,
+    -0.1138,
+    1.245
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mammary region.r",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Pectoral region.r/Mammary region.r",
+   "parent": "Pectoral region.r",
+   "verts": 162,
+   "tris": 320,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.1483,
+    -0.1294,
+    1.2435
+   ],
+   "bbox_max": [
+    -0.0699,
+    -0.0699,
+    1.325
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pectoral region.r",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Pectoral region.r",
+   "parent": "Anterior region of thorax.g",
+   "verts": 258,
+   "tris": 516,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    -0.1561,
+    -0.1306,
+    1.2271
+   ],
+   "bbox_max": [
+    -0.0201,
+    -0.0175,
+    1.4008
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inframammary region.l",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Pectoral region.l/Inframammary region.l",
+   "parent": "Pectoral region.l",
+   "verts": 48,
+   "tris": 92,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0074,
+    -0.1313,
+    1.1787
+   ],
+   "bbox_max": [
+    0.0823,
+    -0.1138,
+    1.245
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mammary region.l",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Pectoral region.l/Mammary region.l",
+   "parent": "Pectoral region.l",
+   "verts": 162,
+   "tris": 320,
+   "materials": [
+    "Skin-in",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0699,
+    -0.1294,
+    1.2435
+   ],
+   "bbox_max": [
+    0.1483,
+    -0.0699,
+    1.325
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pectoral region.l",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Pectoral region.l",
+   "parent": "Anterior region of thorax.g",
+   "verts": 258,
+   "tris": 516,
+   "materials": [
+    "Skin-in",
+    "Skin-8",
+    "Skin-7"
+   ],
+   "bbox_min": [
+    0.0201,
+    -0.1306,
+    1.2271
+   ],
+   "bbox_max": [
+    0.1561,
+    -0.0175,
+    1.4008
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infraclavicular fossa.r",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Infraclavicular fossa.r",
+   "parent": "Anterior region of thorax.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1423,
+    -0.0734,
+    1.3829
+   ],
+   "bbox_max": [
+    -0.0167,
+    0.0297,
+    1.4354
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Presternal region.r",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Presternal region.r",
+   "parent": "Anterior region of thorax.g",
+   "verts": 144,
+   "tris": 284,
+   "materials": [
+    "Skin-in",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0281,
+    -0.1258,
+    1.2233
+   ],
+   "bbox_max": [
+    -0.0,
+    -0.054,
+    1.4027
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Deltopectoral triangle.r",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Deltopectoral triangle.r",
+   "parent": "Anterior region of thorax.g",
+   "verts": 46,
+   "tris": 88,
+   "materials": [
+    "Skin-in",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.1597,
+    -0.0347,
+    1.3555
+   ],
+   "bbox_max": [
+    -0.1158,
+    0.0115,
+    1.4203
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infraclavicular fossa.l",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Infraclavicular fossa.l",
+   "parent": "Anterior region of thorax.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Skin-in",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.0167,
+    -0.0734,
+    1.3829
+   ],
+   "bbox_max": [
+    0.1423,
+    0.0297,
+    1.4354
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Presternal region.l",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Presternal region.l",
+   "parent": "Anterior region of thorax.g",
+   "verts": 144,
+   "tris": 284,
+   "materials": [
+    "Skin-in",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    -0.0,
+    -0.1258,
+    1.2233
+   ],
+   "bbox_max": [
+    0.0281,
+    -0.054,
+    1.4027
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Deltopectoral triangle.l",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Deltopectoral triangle.l",
+   "parent": "Anterior region of thorax.g",
+   "verts": 46,
+   "tris": 88,
+   "materials": [
+    "Skin-in",
+    "Skin-7",
+    "Skin-4"
+   ],
+   "bbox_min": [
+    0.1158,
+    -0.0347,
+    1.3555
+   ],
+   "bbox_max": [
+    0.1597,
+    0.0115,
+    1.4203
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior region of thorax.j",
+   "path": "Regions of thorax.g/Anterior region of thorax.g/Anterior region of thorax.j",
+   "parent": "Anterior region of thorax.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0006,
+    -0.2043,
+    1.308
+   ],
+   "bbox_max": [
+    0.0009,
+    -0.1068,
+    1.3096
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pubic hairs",
+   "path": "Hairs.g/Pubic hairs",
+   "parent": "Hairs.g",
+   "verts": 820,
+   "tris": 1491,
+   "materials": [
+    "Black"
+   ],
+   "bbox_min": [
+    -0.0555,
+    -0.1002,
+    0.8204
+   ],
+   "bbox_max": [
+    0.0571,
+    -0.0575,
+    0.892
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hairs of eyebrow.r",
+   "path": "Hairs.g/Hairs of eyebrow.r",
+   "parent": "Hairs.g",
+   "verts": 397,
+   "tris": 794,
+   "materials": [
+    "Black"
+   ],
+   "bbox_min": [
+    -0.0538,
+    -0.0946,
+    1.6087
+   ],
+   "bbox_max": [
+    -0.013,
+    -0.0716,
+    1.6179
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hairs of eyebrow.l",
+   "path": "Hairs.g/Hairs of eyebrow.l",
+   "parent": "Hairs.g",
+   "verts": 397,
+   "tris": 794,
+   "materials": [
+    "Black"
+   ],
+   "bbox_min": [
+    0.013,
+    -0.0946,
+    1.6087
+   ],
+   "bbox_max": [
+    0.0538,
+    -0.0716,
+    1.6179
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Eyelashes.l",
+   "path": "Hairs.g/Eyelashes.l",
+   "parent": "Hairs.g",
+   "verts": 302,
+   "tris": 600,
+   "materials": [
+    "Black"
+   ],
+   "bbox_min": [
+    -0.0449,
+    -0.0843,
+    1.5828
+   ],
+   "bbox_max": [
+    -0.0194,
+    -0.0709,
+    1.5976
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Eyelashes.r",
+   "path": "Hairs.g/Eyelashes.r",
+   "parent": "Hairs.g",
+   "verts": 302,
+   "tris": 600,
+   "materials": [
+    "Black"
+   ],
+   "bbox_min": [
+    0.0194,
+    -0.0843,
+    1.5828
+   ],
+   "bbox_max": [
+    0.0449,
+    -0.0709,
+    1.5976
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hairs.j",
+   "path": "Hairs.g/Hairs.j",
+   "parent": "Hairs.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0845,
+    0.0207,
+    1.6507
+   ],
+   "bbox_max": [
+    0.1594,
+    0.0232,
+    1.6533
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hairs of head",
+   "path": "Hairs.g/Hairs of head",
+   "parent": "Hairs.g",
+   "verts": 8283,
+   "tris": 16563,
+   "materials": [
+    "Black"
+   ],
+   "bbox_min": [
+    -0.1029,
+    -0.0885,
+    1.5234
+   ],
+   "bbox_max": [
+    0.0929,
+    0.1316,
+    1.7433
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section X.004",
+   "path": "Cross Section X.004",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    0.4,
+    -0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": true,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Z.004",
+   "path": "Cross Section Z.004",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4007,
+    -0.2163,
+    1.79
+   ],
+   "bbox_max": [
+    0.4007,
+    0.2163,
+    1.79
+   ],
+   "dup_suffix": true,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Y.004",
+   "path": "Cross Section Y.004",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4,
+    0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": true,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

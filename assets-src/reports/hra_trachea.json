@@ -1,0 +1,124 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\hubmap-hra\\glb\\3d-vh-m-trachea.glb",
+ "import_seconds": 0.94,
+ "mesh_count": 3,
+ "total_tris": 44042,
+ "total_verts": 23254,
+ "non_mesh_objects": {
+  "EMPTY": 1
+ },
+ "scene_bbox_min": [
+  -0.0193,
+  -0.0542,
+  0.5341
+ ],
+ "scene_bbox_max": [
+  0.0125,
+  0.013,
+  0.6601
+ ],
+ "naming": {
+  "dup_suffix_count": 0,
+  "side_tag_count": 0,
+  "non_ascii_count": 0,
+  "unique_names": 3
+ },
+ "top_level_groups": {
+  "VH_M_trachea_of_respiratory_system": 3
+ },
+ "second_level_groups": {
+  "VH_M_trachea_of_respiratory_system/VH_M_trachea": 3
+ },
+ "heaviest_meshes": [
+  {
+   "name": "VH_M_tracheal_cartilage",
+   "tris": 26528
+  },
+  {
+   "name": "VH_M_trachea",
+   "tris": 16558
+  },
+  {
+   "name": "VH_M_carina",
+   "tris": 956
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "VH_M_trachea",
+   "path": "VH_M_trachea_of_respiratory_system/VH_M_trachea",
+   "parent": "VH_M_trachea_of_respiratory_system",
+   "verts": 8317,
+   "tris": 16558,
+   "materials": [
+    "mucosa_mat"
+   ],
+   "bbox_min": [
+    -0.0175,
+    -0.0542,
+    0.535
+   ],
+   "bbox_max": [
+    0.0112,
+    0.013,
+    0.6601
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_tracheal_cartilage",
+   "path": "VH_M_trachea_of_respiratory_system/VH_M_trachea/VH_M_tracheal_cartilage",
+   "parent": "VH_M_trachea",
+   "verts": 14397,
+   "tris": 26528,
+   "materials": [
+    "Cartilage_Mat1"
+   ],
+   "bbox_min": [
+    -0.0165,
+    -0.0477,
+    0.5461
+   ],
+   "bbox_max": [
+    0.0125,
+    0.007,
+    0.6316
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "VH_M_carina",
+   "path": "VH_M_trachea_of_respiratory_system/VH_M_trachea/VH_M_carina",
+   "parent": "VH_M_trachea",
+   "verts": 540,
+   "tris": 956,
+   "materials": [
+    "Cartilage_Mat1"
+   ],
+   "bbox_min": [
+    -0.0193,
+    -0.0042,
+    0.5341
+   ],
+   "bbox_max": [
+    0.0083,
+    0.0123,
+    0.549
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

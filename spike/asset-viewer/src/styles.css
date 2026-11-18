@@ -1,0 +1,253 @@
+:root {
+  color-scheme: dark;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: #070b14;
+  color: #e6eefc;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body, html, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.spike-layout {
+  display: grid;
+  grid-template-columns: 380px 1fr;
+  width: 100%;
+  height: 100%;
+}
+
+.spike-sidebar {
+  background: rgba(12, 18, 32, 0.96);
+  border-right: 1px solid rgba(120, 160, 230, 0.18);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  overflow-y: auto;
+}
+
+.badge-phase {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #3fd0ff;
+  background: rgba(63, 208, 255, 0.12);
+  padding: 3px 8px;
+  border-radius: 999px;
+  margin-bottom: 6px;
+}
+
+.spike-header h1 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 12px;
+  color: #9bb0d1;
+  margin-top: 2px;
+}
+
+.panel-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(120, 160, 230, 0.14);
+}
+
+.field-label {
+  font-size: 12px;
+  color: #9bb0d1;
+  font-weight: 600;
+}
+
+select, input[type="search"] {
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid rgba(120, 160, 230, 0.28);
+  background: #0d1526;
+  color: #e6eefc;
+  font-size: 13px;
+}
+
+.variant-tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+}
+
+.tab-btn {
+  padding: 6px 8px;
+  font-size: 12px;
+  border-radius: 6px;
+  border: 1px solid rgba(120, 160, 230, 0.25);
+  background: #0d1526;
+  color: #b8cae6;
+  cursor: pointer;
+}
+
+.tab-btn.active {
+  background: #1a4b7c;
+  color: #ffffff;
+  border-color: #3fd0ff;
+  font-weight: 600;
+}
+
+.meta-box, .bench-box, .pick-status {
+  font-size: 12px;
+  line-height: 1.5;
+  background: rgba(20, 30, 52, 0.7);
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid rgba(120, 160, 230, 0.16);
+}
+
+.tag-anatomis {
+  color: #5ce0a0;
+  font-weight: 600;
+}
+
+.tag-skematis {
+  color: #ffbe55;
+  font-weight: 600;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.metric-card {
+  background: rgba(18, 28, 48, 0.85);
+  border: 1px solid rgba(120, 160, 230, 0.16);
+  border-radius: 6px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.metric-label {
+  font-size: 11px;
+  color: #8fa6cb;
+}
+
+.metric-val {
+  font-size: 13px;
+  font-weight: 700;
+  color: #f2f6ff;
+}
+
+.action-row {
+  display: flex;
+  gap: 8px;
+}
+
+.primary-btn, .secondary-btn {
+  flex: 1;
+  padding: 8px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.primary-btn {
+  background: #e05246;
+  color: #fff;
+}
+
+.primary-btn:disabled, .secondary-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.secondary-btn {
+  background: #182642;
+  color: #d7e5ff;
+  border-color: rgba(120, 160, 230, 0.3);
+}
+
+.error-banner {
+  background: rgba(220, 60, 60, 0.2);
+  border: 1px solid #e05246;
+  color: #ffb3ad;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.loading-banner {
+  background: rgba(63, 208, 255, 0.14);
+  color: #9be7ff;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.structure-list-section {
+  flex: 1;
+  min-height: 180px;
+}
+
+.structure-list {
+  list-style: none;
+  overflow-y: auto;
+  max-height: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.struct-item {
+  width: 100%;
+  text-align: left;
+  padding: 5px 8px;
+  font-size: 12px;
+  background: transparent;
+  color: #c7d7f2;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.struct-item:hover {
+  background: rgba(63, 208, 255, 0.14);
+}
+
+.struct-item.selected {
+  background: rgba(255, 122, 89, 0.25);
+  color: #fff;
+  font-weight: 600;
+}
+
+.spike-viewport {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.gpu-footer {
+  position: absolute;
+  left: 12px;
+  bottom: 10px;
+  font-size: 11px;
+  color: #8fa6cb;
+  background: rgba(7, 11, 20, 0.78);
+  padding: 4px 8px;
+  border-radius: 4px;
+  pointer-events: none;
+}

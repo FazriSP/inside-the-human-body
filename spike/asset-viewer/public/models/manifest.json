@@ -1,0 +1,338 @@
+[
+  {
+    "id": "za-skeletal-full",
+    "label": "Z-Anatomy — Sistem Rangka Utuh (277 Tulang & Rawan)",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "za-skeletal-full.raw.glb",
+        "bytes": 9526704,
+        "gzipBytes": 7049751,
+        "tris": 701999,
+        "meshNodes": 277,
+        "primitives": 277,
+        "materials": 10,
+        "uniqueNames": 277
+      },
+      {
+        "variant": "opt",
+        "file": "za-skeletal-full.opt.glb",
+        "bytes": 3136204,
+        "gzipBytes": 2509990,
+        "tris": 701999,
+        "meshNodes": 277,
+        "primitives": 277,
+        "materials": 1,
+        "uniqueNames": 275
+      },
+      {
+        "variant": "lite",
+        "file": "za-skeletal-full.lite.glb",
+        "bytes": 1941112,
+        "gzipBytes": 1534699,
+        "tris": 383553,
+        "meshNodes": 277,
+        "primitives": 277,
+        "materials": 1,
+        "uniqueNames": 275
+      }
+    ]
+  },
+  {
+    "id": "za-cardiovascular-core",
+    "label": "Z-Anatomy — Sistem Peredaran Darah Inti (Jantung & Pembuluh Utama)",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "za-cardiovascular-core.raw.glb",
+        "bytes": 7950448,
+        "gzipBytes": 6324835,
+        "tris": 344462,
+        "meshNodes": 189,
+        "primitives": 189,
+        "materials": 7,
+        "uniqueNames": 189
+      },
+      {
+        "variant": "opt",
+        "file": "za-cardiovascular-core.opt.glb",
+        "bytes": 2356604,
+        "gzipBytes": 1857638,
+        "tris": 344462,
+        "meshNodes": 189,
+        "primitives": 189,
+        "materials": 1,
+        "uniqueNames": 129
+      },
+      {
+        "variant": "lite",
+        "file": "za-cardiovascular-core.lite.glb",
+        "bytes": 1337228,
+        "gzipBytes": 1023865,
+        "tris": 168379,
+        "meshNodes": 189,
+        "primitives": 189,
+        "materials": 1,
+        "uniqueNames": 129
+      }
+    ]
+  },
+  {
+    "id": "za-respiratory",
+    "label": "Z-Anatomy — Sistem Pernapasan Utuh (Hidung, Laring, Trakea, Bronkus, Paru)",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "za-respiratory.raw.glb",
+        "bytes": 3123884,
+        "gzipBytes": 2315565,
+        "tris": 143028,
+        "meshNodes": 36,
+        "primitives": 36,
+        "materials": 12,
+        "uniqueNames": 36
+      },
+      {
+        "variant": "opt",
+        "file": "za-respiratory.opt.glb",
+        "bytes": 921516,
+        "gzipBytes": 654575,
+        "tris": 143028,
+        "meshNodes": 36,
+        "primitives": 36,
+        "materials": 1,
+        "uniqueNames": 29
+      },
+      {
+        "variant": "lite",
+        "file": "za-respiratory.lite.glb",
+        "bytes": 499808,
+        "gzipBytes": 398756,
+        "tris": 64462,
+        "meshNodes": 36,
+        "primitives": 36,
+        "materials": 1,
+        "uniqueNames": 29
+      }
+    ]
+  },
+  {
+    "id": "za-regions-skin",
+    "label": "Z-Anatomy — Permukaan & Wilayah Tubuh (Jelajah Wilayah)",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "za-regions-skin.raw.glb",
+        "bytes": 3548416,
+        "gzipBytes": 1651601,
+        "tris": 133713,
+        "meshNodes": 255,
+        "primitives": 255,
+        "materials": 6,
+        "uniqueNames": 255
+      },
+      {
+        "variant": "opt",
+        "file": "za-regions-skin.opt.glb",
+        "bytes": 814944,
+        "gzipBytes": 560887,
+        "tris": 133713,
+        "meshNodes": 255,
+        "primitives": 255,
+        "materials": 3,
+        "uniqueNames": 224
+      },
+      {
+        "variant": "lite",
+        "file": "za-regions-skin.lite.glb",
+        "bytes": 635256,
+        "gzipBytes": 416560,
+        "tris": 90966,
+        "meshNodes": 255,
+        "primitives": 255,
+        "materials": 3,
+        "uniqueNames": 224
+      }
+    ]
+  },
+  {
+    "id": "hra-heart",
+    "label": "HuBMAP HRA — Detail Organ Jantung (Ruang, Katup, Otot Papilaris)",
+    "source": "HuBMAP Human Reference Atlas v1.3 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "hra-heart.raw.glb",
+        "bytes": 4071772,
+        "gzipBytes": 2560729,
+        "tris": 164119,
+        "meshNodes": 14,
+        "primitives": 14,
+        "materials": 1,
+        "uniqueNames": 14
+      },
+      {
+        "variant": "opt",
+        "file": "hra-heart.opt.glb",
+        "bytes": 1042216,
+        "gzipBytes": 797694,
+        "tris": 164119,
+        "meshNodes": 14,
+        "primitives": 14,
+        "materials": 1,
+        "uniqueNames": 14
+      },
+      {
+        "variant": "lite",
+        "file": "hra-heart.lite.glb",
+        "bytes": 519756,
+        "gzipBytes": 420399,
+        "tris": 75281,
+        "meshNodes": 14,
+        "primitives": 14,
+        "materials": 1,
+        "uniqueNames": 14
+      }
+    ]
+  },
+  {
+    "id": "hra-lung",
+    "label": "HuBMAP HRA — Detail Organ Paru-paru & Percabangan Bronkus",
+    "source": "HuBMAP Human Reference Atlas v1.4 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "hra-lung.raw.glb",
+        "bytes": 10942332,
+        "gzipBytes": 5083845,
+        "tris": 224765,
+        "meshNodes": 58,
+        "primitives": 58,
+        "materials": 6,
+        "uniqueNames": 58
+      },
+      {
+        "variant": "opt",
+        "file": "hra-lung.opt.glb",
+        "bytes": 2764540,
+        "gzipBytes": 2160149,
+        "tris": 224765,
+        "meshNodes": 58,
+        "primitives": 58,
+        "materials": 3,
+        "uniqueNames": 58
+      },
+      {
+        "variant": "lite",
+        "file": "hra-lung.lite.glb",
+        "bytes": 2232804,
+        "gzipBytes": 1735401,
+        "tris": 140628,
+        "meshNodes": 58,
+        "primitives": 58,
+        "materials": 3,
+        "uniqueNames": 58
+      }
+    ]
+  },
+  {
+    "id": "hra-trachea",
+    "label": "HuBMAP HRA — Detail Organ Trakea & Karina",
+    "source": "HuBMAP Human Reference Atlas v1.1 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "hra-trachea.raw.glb",
+        "bytes": 1184848,
+        "gzipBytes": 973949,
+        "tris": 44042,
+        "meshNodes": 3,
+        "primitives": 3,
+        "materials": 2,
+        "uniqueNames": 3
+      },
+      {
+        "variant": "opt",
+        "file": "hra-trachea.opt.glb",
+        "bytes": 292688,
+        "gzipBytes": 228789,
+        "tris": 44042,
+        "meshNodes": 3,
+        "primitives": 3,
+        "materials": 2,
+        "uniqueNames": 3
+      },
+      {
+        "variant": "lite",
+        "file": "hra-trachea.lite.glb",
+        "bytes": 144280,
+        "gzipBytes": 120858,
+        "tris": 20103,
+        "meshNodes": 3,
+        "primitives": 3,
+        "materials": 2,
+        "uniqueNames": 3
+      }
+    ]
+  },
+  {
+    "id": "hra-larynx",
+    "label": "HuBMAP HRA — Detail Organ Laring (Kartilago Tiroid, Krikoid, Epiglotis)",
+    "source": "HuBMAP Human Reference Atlas v1.1 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "variants": [
+      {
+        "variant": "raw",
+        "file": "hra-larynx.raw.glb",
+        "bytes": 335576,
+        "gzipBytes": 244902,
+        "tris": 13238,
+        "meshNodes": 7,
+        "primitives": 7,
+        "materials": 1,
+        "uniqueNames": 7
+      },
+      {
+        "variant": "opt",
+        "file": "hra-larynx.opt.glb",
+        "bytes": 104012,
+        "gzipBytes": 79583,
+        "tris": 13238,
+        "meshNodes": 7,
+        "primitives": 7,
+        "materials": 1,
+        "uniqueNames": 7
+      },
+      {
+        "variant": "lite",
+        "file": "hra-larynx.lite.glb",
+        "bytes": 73044,
+        "gzipBytes": 55204,
+        "tris": 8228,
+        "meshNodes": 7,
+        "primitives": 7,
+        "materials": 1,
+        "uniqueNames": 7
+      }
+    ]
+  }
+]

@@ -1,0 +1,7367 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\z-anatomy\\fbx\\VisceralSystem100.fbx",
+ "import_seconds": 2.38,
+ "mesh_count": 301,
+ "total_tris": 706935,
+ "total_verts": 355600,
+ "non_mesh_objects": {
+  "EMPTY": 181
+ },
+ "scene_bbox_min": [
+  -0.4007,
+  -0.22,
+  -0.0894
+ ],
+ "scene_bbox_max": [
+  0.4007,
+  0.22,
+  1.79
+ ],
+ "naming": {
+  "dup_suffix_count": 0,
+  "side_tag_count": 36,
+  "non_ascii_count": 0,
+  "unique_names": 301
+ },
+ "top_level_groups": {
+  "Digestive system.g": 133,
+  "Respiratory system.g": 82,
+  "Endocrine glands.g": 27,
+  "Genital systems.g": 25,
+  "Urinary system.g": 20,
+  "Abdominopelvic cavity.g": 9,
+  "Thoracic cavity.g": 2,
+  "Cross Section X": 1,
+  "Cross Section Z": 1,
+  "Cross Section Y": 1
+ },
+ "second_level_groups": {
+  "Digestive system.g/Liver": 53,
+  "Respiratory system.g/Lungs.g": 45,
+  "Respiratory system.g/Tracheobronchial tree.g": 31,
+  "Digestive system.g/Digestive canal.g": 30,
+  "Genital systems.g/Male genital system.g": 24,
+  "Digestive system.g/Mouth.g": 20,
+  "Digestive system.g/Pancreas": 17,
+  "Urinary system.g/Kidney.r": 9,
+  "Endocrine glands.g/Hypophysis.g": 8,
+  "Endocrine glands.g/Suprarenal gland.r": 7,
+  "Endocrine glands.g/Parathyroid glands.g": 5,
+  "Digestive system.g/Gallbladder": 5,
+  "Abdominopelvic cavity.g/Peritoneal structures.g": 5,
+  "Urinary system.g/Urinary bladder": 4,
+  "Endocrine glands.g/Thyroid gland": 4,
+  "Digestive system.g/Pharynx.g": 4,
+  "Respiratory system.g/Nose.g": 2,
+  "Respiratory system.g/Larynx.g": 2,
+  "Digestive system.g/Extrahepatic bile ducts.g": 2,
+  "Urinary system.g/Kidney.l": 1,
+  "Urinary system.g/Urethra": 1,
+  "Urinary system.g/Renal pelvis.l": 1,
+  "Urinary system.g/Renal pelvis.r": 1,
+  "Urinary system.g/Ureter.l": 1,
+  "Urinary system.g/Ureter.r": 1,
+  "Urinary system.g/Urinary system.j": 1,
+  "Thoracic cavity.g/Thoracic cavity.j": 1,
+  "Thoracic cavity.g/Pleura": 1,
+  "Respiratory system.g/Respiratory system.j": 1,
+  "Respiratory system.g/Paranasal sinuses.g": 1,
+  "Genital systems.g/Genital systems.j": 1,
+  "Endocrine glands.g/Endocrine glands.j": 1,
+  "Endocrine glands.g/Suprarenal gland.l": 1,
+  "Endocrine glands.g/Pineal gland": 1,
+  "Digestive system.g/Digestive system.j": 1,
+  "Digestive system.g/Fauces.g": 1,
+  "Abdominopelvic cavity.g/Abdominopelvic cavity.j": 1,
+  "Abdominopelvic cavity.g/Visceral fasciae of abdominopelvic cavity.g": 1,
+  "Abdominopelvic cavity.g/Peritoneum.g": 1,
+  "Abdominopelvic cavity.g/Peritoneal cavity.g": 1
+ },
+ "heaviest_meshes": [
+  {
+   "name": "Pleura",
+   "tris": 112288
+  },
+  {
+   "name": "Greater omentum",
+   "tris": 77968
+  },
+  {
+   "name": "Pancreatic duct",
+   "tris": 55824
+  },
+  {
+   "name": "Jejunum",
+   "tris": 27648
+  },
+  {
+   "name": "Descending colon",
+   "tris": 24744
+  },
+  {
+   "name": "Gingiva",
+   "tris": 24596
+  },
+  {
+   "name": "Ascending colon",
+   "tris": 17512
+  },
+  {
+   "name": "Transverse colon",
+   "tris": 16616
+  },
+  {
+   "name": "Oesophagus",
+   "tris": 16320
+  },
+  {
+   "name": "Mesocolon",
+   "tris": 15768
+  },
+  {
+   "name": "Liver",
+   "tris": 12270
+  },
+  {
+   "name": "Accessory pancreatic duct",
+   "tris": 11376
+  },
+  {
+   "name": "Mucosa of nasal cavity",
+   "tris": 9808
+  },
+  {
+   "name": "Stomach",
+   "tris": 9468
+  },
+  {
+   "name": "Superior lobe of left lung",
+   "tris": 9290
+  },
+  {
+   "name": "Inferior lobe of left lung",
+   "tris": 9258
+  },
+  {
+   "name": "Superior segmental bronchus of right lung (BVI)",
+   "tris": 8928
+  },
+  {
+   "name": "Inferior lobe of right lung",
+   "tris": 8452
+  },
+  {
+   "name": "Superior lobe of right lung",
+   "tris": 7748
+  },
+  {
+   "name": "Apicoposterior segmental bronchus of left lung (BI+BII)",
+   "tris": 7488
+  },
+  {
+   "name": "Middle lobe of right lung",
+   "tris": 7396
+  },
+  {
+   "name": "Mesocolic taenia",
+   "tris": 6792
+  },
+  {
+   "name": "Free taenia",
+   "tris": 6712
+  },
+  {
+   "name": "Apical segmental bronchus of right lung (BI)",
+   "tris": 6624
+  },
+  {
+   "name": "Omental taenia",
+   "tris": 6232
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "Kidney.l",
+   "path": "Urinary system.g/Kidney.l",
+   "parent": "Urinary system.g",
+   "verts": 1493,
+   "tris": 2982,
+   "materials": [
+    "Organ"
+   ],
+   "bbox_min": [
+    0.0328,
+    -0.002,
+    1.0593
+   ],
+   "bbox_max": [
+    0.0904,
+    0.0386,
+    1.1652
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior surface of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Anterior surface of kidney.t/Anterior surface of kidney.j",
+   "parent": "Anterior surface of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0706,
+    -0.0379,
+    1.0939
+   ],
+   "bbox_max": [
+    -0.0701,
+    -0.0038,
+    1.0944
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hilum of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Hilum of kidney.t/Hilum of kidney.j",
+   "parent": "Hilum of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0474,
+    0.0058,
+    1.0944
+   ],
+   "bbox_max": [
+    -0.0095,
+    0.0063,
+    1.095
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior pole of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Inferior pole of kidney.t/Inferior pole of kidney.j",
+   "parent": "Inferior pole of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.048,
+    -0.0023,
+    1.0366
+   ],
+   "bbox_max": [
+    -0.0475,
+    -0.0018,
+    1.0419
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral border of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Lateral border of kidney.t/Lateral border of kidney.j",
+   "parent": "Lateral border of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1126,
+    0.0216,
+    1.0862
+   ],
+   "bbox_max": [
+    -0.0856,
+    0.0221,
+    1.0868
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial border of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Medial border of kidney.t/Medial border of kidney.j",
+   "parent": "Medial border of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0326,
+    0.0004,
+    1.1259
+   ],
+   "bbox_max": [
+    -0.0068,
+    0.0009,
+    1.1265
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior surface of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Posterior surface of kidney.t/Posterior surface of kidney.j",
+   "parent": "Posterior surface of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0601,
+    0.0282,
+    1.0921
+   ],
+   "bbox_max": [
+    -0.0596,
+    0.0635,
+    1.0927
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Renal sinus.j",
+   "path": "Urinary system.g/Kidney.r/Renal sinus.t/Renal sinus.j",
+   "parent": "Renal sinus.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0398,
+    0.0082,
+    1.1007
+   ],
+   "bbox_max": [
+    -0.0096,
+    0.0087,
+    1.1013
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior pole of kidney.j",
+   "path": "Urinary system.g/Kidney.r/Superior pole of kidney.t/Superior pole of kidney.j",
+   "parent": "Superior pole of kidney.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0481,
+    0.0116,
+    1.1456
+   ],
+   "bbox_max": [
+    -0.0476,
+    0.0121,
+    1.1496
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Kidney.r",
+   "path": "Urinary system.g/Kidney.r",
+   "parent": "Urinary system.g",
+   "verts": 1163,
+   "tris": 2322,
+   "materials": [
+    "Organ"
+   ],
+   "bbox_min": [
+    -0.0876,
+    -0.0137,
+    1.0416
+   ],
+   "bbox_max": [
+    -0.0304,
+    0.0334,
+    1.146
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apex of bladder.j",
+   "path": "Urinary system.g/Urinary bladder/Apex of bladder.t/Apex of bladder.j",
+   "parent": "Apex of bladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0001,
+    -0.042,
+    0.8655
+   ],
+   "bbox_max": [
+    0.0006,
+    -0.0415,
+    0.8831
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Body of bladder.j",
+   "path": "Urinary system.g/Urinary bladder/Body of bladder.t/Body of bladder.j",
+   "parent": "Body of bladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0001,
+    0.0175,
+    0.8819
+   ],
+   "bbox_max": [
+    0.0006,
+    0.018,
+    0.891
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fundus of bladder.j",
+   "path": "Urinary system.g/Urinary bladder/Fundus of bladder.t/Fundus of bladder.j",
+   "parent": "Fundus of bladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0001,
+    0.0416,
+    0.8632
+   ],
+   "bbox_max": [
+    0.0006,
+    0.0653,
+    0.8638
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Urinary bladder",
+   "path": "Urinary system.g/Urinary bladder",
+   "parent": "Urinary system.g",
+   "verts": 1520,
+   "tris": 3036,
+   "materials": [
+    "Organ"
+   ],
+   "bbox_min": [
+    -0.0368,
+    -0.0418,
+    0.8293
+   ],
+   "bbox_max": [
+    0.0376,
+    0.0415,
+    0.8806
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Urethra",
+   "path": "Urinary system.g/Urethra",
+   "parent": "Urinary system.g",
+   "verts": 1452,
+   "tris": 2880,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    -0.0018,
+    -0.0878,
+    0.7449
+   ],
+   "bbox_max": [
+    0.0018,
+    0.018,
+    0.8308
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Renal pelvis.l",
+   "path": "Urinary system.g/Renal pelvis.l",
+   "parent": "Urinary system.g",
+   "verts": 732,
+   "tris": 1450,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    0.0362,
+    0.0073,
+    1.0729
+   ],
+   "bbox_max": [
+    0.0794,
+    0.0298,
+    1.1473
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Renal pelvis.r",
+   "path": "Urinary system.g/Renal pelvis.r",
+   "parent": "Urinary system.g",
+   "verts": 638,
+   "tris": 1262,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    -0.0728,
+    -0.0025,
+    1.0573
+   ],
+   "bbox_max": [
+    -0.0295,
+    0.0189,
+    1.1318
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ureter.l",
+   "path": "Urinary system.g/Ureter.l",
+   "parent": "Urinary system.g",
+   "verts": 1452,
+   "tris": 2880,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    0.0233,
+    -0.0214,
+    0.8732
+   ],
+   "bbox_max": [
+    0.0456,
+    0.0356,
+    1.1105
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ureter.r",
+   "path": "Urinary system.g/Ureter.r",
+   "parent": "Urinary system.g",
+   "verts": 1596,
+   "tris": 3168,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    -0.0408,
+    -0.0205,
+    0.8701
+   ],
+   "bbox_max": [
+    -0.01,
+    0.0298,
+    1.0923
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Urinary system.j",
+   "path": "Urinary system.g/Urinary system.j",
+   "parent": "Urinary system.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0274,
+    -0.0169,
+    1.0087
+   ],
+   "bbox_max": [
+    0.0299,
+    0.1099,
+    1.0113
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Thoracic cavity.j",
+   "path": "Thoracic cavity.g/Thoracic cavity.j",
+   "parent": "Thoracic cavity.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0001,
+    -0.1588,
+    1.3245
+   ],
+   "bbox_max": [
+    0.0024,
+    0.0055,
+    1.327
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pleura",
+   "path": "Thoracic cavity.g/Pleura",
+   "parent": "Thoracic cavity.g",
+   "verts": 56160,
+   "tris": 112288,
+   "materials": [
+    "Fascia"
+   ],
+   "bbox_min": [
+    -0.1323,
+    -0.1037,
+    1.1683
+   ],
+   "bbox_max": [
+    0.1311,
+    0.0845,
+    1.4323
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Respiratory system.j",
+   "path": "Respiratory system.g/Respiratory system.j",
+   "parent": "Respiratory system.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.2307,
+    0.0068,
+    1.3277
+   ],
+   "bbox_max": [
+    -0.1151,
+    0.0093,
+    1.3302
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Trachea",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Trachea",
+   "parent": "Tracheobronchial tree.g",
+   "verts": 2400,
+   "tris": 4756,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0138,
+    -0.0177,
+    1.3552
+   ],
+   "bbox_max": [
+    0.0133,
+    0.0213,
+    1.4606
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Tracheobronchial tree.j",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Tracheobronchial tree.j",
+   "parent": "Tracheobronchial tree.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1002,
+    -0.0063,
+    1.4366
+   ],
+   "bbox_max": [
+    -0.0113,
+    -0.0048,
+    1.4385
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apicoposterior segmental bronchus of left lung (BI+BII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left superior lobar bronchus/Apicoposterior segmental bronchus of left lung (BI+BII)",
+   "parent": "Left superior lobar bronchus",
+   "verts": 3852,
+   "tris": 7488,
+   "materials": [
+    "Bronchi-1"
+   ],
+   "bbox_min": [
+    0.0305,
+    0.0006,
+    1.3432
+   ],
+   "bbox_max": [
+    0.0924,
+    0.0615,
+    1.4254
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior segmental bronchus of left lung (BIII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left superior lobar bronchus/Anterior segmental bronchus of left lung (BIII)",
+   "parent": "Left superior lobar bronchus",
+   "verts": 1788,
+   "tris": 3456,
+   "materials": [
+    "Bronchi-3"
+   ],
+   "bbox_min": [
+    0.0324,
+    -0.0618,
+    1.3228
+   ],
+   "bbox_max": [
+    0.0959,
+    0.013,
+    1.3718
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior lingular segmental bronchus of left lung (BIV)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left superior lobar bronchus/Superior lingular segmental bronchus of left lung (BIV)",
+   "parent": "Left superior lobar bronchus",
+   "verts": 1044,
+   "tris": 2016,
+   "materials": [
+    "Bronchi-4"
+   ],
+   "bbox_min": [
+    0.0678,
+    -0.0776,
+    1.2832
+   ],
+   "bbox_max": [
+    0.1095,
+    0.0159,
+    1.3168
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior lingular segmental bronchus of left lung (BV)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left superior lobar bronchus/Inferior lingular segmental bronchus of left lung (BV)",
+   "parent": "Left superior lobar bronchus",
+   "verts": 1044,
+   "tris": 2016,
+   "materials": [
+    "Bronchi-8"
+   ],
+   "bbox_min": [
+    0.0812,
+    -0.0857,
+    1.2463
+   ],
+   "bbox_max": [
+    0.1063,
+    0.0,
+    1.3159
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left superior lobar bronchus",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left superior lobar bronchus",
+   "parent": "Left main bronchus",
+   "verts": 600,
+   "tris": 1152,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    0.0402,
+    -0.0045,
+    1.3109
+   ],
+   "bbox_max": [
+    0.0866,
+    0.0274,
+    1.3457
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior segmental bronchus of left lung (BVI)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus/Superior segmental bronchus of left lung (BVI)",
+   "parent": "Left inferior lobar bronchus",
+   "verts": 2232,
+   "tris": 4320,
+   "materials": [
+    "Bronchi-6"
+   ],
+   "bbox_min": [
+    0.0359,
+    0.0191,
+    1.2706
+   ],
+   "bbox_max": [
+    0.098,
+    0.0756,
+    1.3456
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial basal segmental bronchus of left lung (BVII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus/Medial basal segmental bronchus of left lung (BVII)",
+   "parent": "Left inferior lobar bronchus",
+   "verts": 2940,
+   "tris": 5760,
+   "materials": [
+    "Bronchi-7"
+   ],
+   "bbox_min": [
+    0.0242,
+    0.0174,
+    1.1847
+   ],
+   "bbox_max": [
+    0.0728,
+    0.0733,
+    1.2988
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior basal segmental bronchus of left lung (BVIII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus/Anterior basal segmental bronchus of left lung (BVIII)",
+   "parent": "Left inferior lobar bronchus",
+   "verts": 744,
+   "tris": 1440,
+   "materials": [
+    "Bronchi-8"
+   ],
+   "bbox_min": [
+    0.0791,
+    -0.0554,
+    1.2275
+   ],
+   "bbox_max": [
+    0.1246,
+    0.0128,
+    1.2844
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral basal segmental bronchus of left lung (BIX)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus/Lateral basal segmental bronchus of left lung (BIX)",
+   "parent": "Left inferior lobar bronchus",
+   "verts": 1176,
+   "tris": 2304,
+   "materials": [
+    "Bronchi-1"
+   ],
+   "bbox_min": [
+    0.0717,
+    0.0057,
+    1.1775
+   ],
+   "bbox_max": [
+    0.1232,
+    0.0502,
+    1.2875
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior basal segmental bronchus of left lung (BX)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus/Posterior basal segmental bronchus of left lung (BX)",
+   "parent": "Left inferior lobar bronchus",
+   "verts": 588,
+   "tris": 1152,
+   "materials": [
+    "Bronchi-2"
+   ],
+   "bbox_min": [
+    0.08,
+    0.017,
+    1.1913
+   ],
+   "bbox_max": [
+    0.0919,
+    0.0682,
+    1.2653
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "(Anteromedial basal segmental bronchus of left lung)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus/(Anteromedial basal segmental bronchus of left lung)",
+   "parent": "Left inferior lobar bronchus",
+   "verts": 1476,
+   "tris": 2880,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    0.073,
+    -0.043,
+    1.1896
+   ],
+   "bbox_max": [
+    0.128,
+    0.0194,
+    1.2887
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left inferior lobar bronchus",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus/Left inferior lobar bronchus",
+   "parent": "Left main bronchus",
+   "verts": 444,
+   "tris": 864,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    0.0392,
+    0.0123,
+    1.283
+   ],
+   "bbox_max": [
+    0.0797,
+    0.0282,
+    1.3266
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left main bronchus",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Left main bronchus",
+   "parent": "Bronchi.g",
+   "verts": 300,
+   "tris": 576,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0075,
+    0.0031,
+    1.3153
+   ],
+   "bbox_max": [
+    0.0479,
+    0.0281,
+    1.3758
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Bronchi.j",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Bronchi.j",
+   "parent": "Bronchi.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1529,
+    0.0127,
+    1.3587
+   ],
+   "bbox_max": [
+    -0.0156,
+    0.0142,
+    1.3608
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior segmental bronchus of right lung (BIII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Right superior lobar bronchus/Anterior segmental bronchus of right lung (BIII)",
+   "parent": "Right superior lobar bronchus",
+   "verts": 2532,
+   "tris": 4896,
+   "materials": [
+    "Bronchi-3"
+   ],
+   "bbox_min": [
+    -0.0855,
+    -0.0605,
+    1.3221
+   ],
+   "bbox_max": [
+    -0.0124,
+    0.0191,
+    1.3689
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apical segmental bronchus of right lung (BI)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Right superior lobar bronchus/Apical segmental bronchus of right lung (BI)",
+   "parent": "Right superior lobar bronchus",
+   "verts": 3408,
+   "tris": 6624,
+   "materials": [
+    "Bronchi-1"
+   ],
+   "bbox_min": [
+    -0.0502,
+    -0.0245,
+    1.3508
+   ],
+   "bbox_max": [
+    -0.0267,
+    0.0394,
+    1.4285
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior segmental bronchus of right lung (BII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Right superior lobar bronchus/Posterior segmental bronchus of right lung (BII)",
+   "parent": "Right superior lobar bronchus",
+   "verts": 2520,
+   "tris": 4896,
+   "materials": [
+    "Bronchi-2"
+   ],
+   "bbox_min": [
+    -0.101,
+    0.0109,
+    1.3327
+   ],
+   "bbox_max": [
+    -0.0284,
+    0.0678,
+    1.3944
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right superior lobar bronchus",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Right superior lobar bronchus",
+   "parent": "Right main bronchus",
+   "verts": 156,
+   "tris": 288,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0314,
+    0.0101,
+    1.3428
+   ],
+   "bbox_max": [
+    -0.0125,
+    0.023,
+    1.3576
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior segmental bronchus of right lung (BVI)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Right inferior lobar bronchus/Superior segmental bronchus of right lung (BVI)",
+   "parent": "Right inferior lobar bronchus",
+   "verts": 4572,
+   "tris": 8928,
+   "materials": [
+    "Bronchi-6"
+   ],
+   "bbox_min": [
+    -0.0994,
+    0.0181,
+    1.2684
+   ],
+   "bbox_max": [
+    -0.0281,
+    0.0758,
+    1.3443
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior basal segmental bronchus of right lung (BX)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Right inferior lobar bronchus/Posterior basal segmental bronchus of right lung (BX)",
+   "parent": "Right inferior lobar bronchus",
+   "verts": 2208,
+   "tris": 4320,
+   "materials": [
+    "Bronchi-2"
+   ],
+   "bbox_min": [
+    -0.0729,
+    0.0434,
+    1.1814
+   ],
+   "bbox_max": [
+    -0.0326,
+    0.0712,
+    1.2601
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial basal segmental bronchus of right lung (BVII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Right inferior lobar bronchus/Medial basal segmental bronchus of right lung (BVII)",
+   "parent": "Right inferior lobar bronchus",
+   "verts": 888,
+   "tris": 1728,
+   "materials": [
+    "Bronchi-7"
+   ],
+   "bbox_min": [
+    -0.0412,
+    0.0171,
+    1.2484
+   ],
+   "bbox_max": [
+    -0.025,
+    0.0265,
+    1.3107
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral basal segmental bronchus of right lung (BIX)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Right inferior lobar bronchus/Lateral basal segmental bronchus of right lung (BIX)",
+   "parent": "Right inferior lobar bronchus",
+   "verts": 2352,
+   "tris": 4608,
+   "materials": [
+    "Bronchi-1"
+   ],
+   "bbox_min": [
+    -0.1234,
+    0.0089,
+    1.1904
+   ],
+   "bbox_max": [
+    -0.0446,
+    0.0514,
+    1.2866
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior basal segmental bronchus of right lung (BVIII)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Right inferior lobar bronchus/Anterior basal segmental bronchus of right lung (BVIII)",
+   "parent": "Right inferior lobar bronchus",
+   "verts": 1476,
+   "tris": 2880,
+   "materials": [
+    "Bronchi-8"
+   ],
+   "bbox_min": [
+    -0.1195,
+    -0.0043,
+    1.2383
+   ],
+   "bbox_max": [
+    -0.0404,
+    0.0295,
+    1.2998
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right inferior lobar bronchus",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Right inferior lobar bronchus",
+   "parent": "Intermediate bronchus.r",
+   "verts": 588,
+   "tris": 1152,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0568,
+    0.0144,
+    1.2547
+   ],
+   "bbox_max": [
+    -0.0256,
+    0.0506,
+    1.3217
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral segmental bronchus of right lung (BIV)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Middle lobar bronchus.r/Lateral segmental bronchus of right lung (BIV)",
+   "parent": "Middle lobar bronchus.r",
+   "verts": 1632,
+   "tris": 3168,
+   "materials": [
+    "Bronchi-4"
+   ],
+   "bbox_min": [
+    -0.1199,
+    -0.043,
+    1.2604
+   ],
+   "bbox_max": [
+    -0.0394,
+    0.0021,
+    1.3072
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial segmental bronchus of right lung (BV)",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Middle lobar bronchus.r/Medial segmental bronchus of right lung (BV)",
+   "parent": "Middle lobar bronchus.r",
+   "verts": 1632,
+   "tris": 3168,
+   "materials": [
+    "Bronchi-5"
+   ],
+   "bbox_min": [
+    -0.0775,
+    -0.0763,
+    1.2627
+   ],
+   "bbox_max": [
+    -0.0388,
+    0.001,
+    1.3069
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Middle lobar bronchus.r",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r/Middle lobar bronchus.r",
+   "parent": "Intermediate bronchus.r",
+   "verts": 156,
+   "tris": 288,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0479,
+    -0.0052,
+    1.2979
+   ],
+   "bbox_max": [
+    -0.0266,
+    0.0247,
+    1.3226
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Intermediate bronchus.r",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus/Intermediate bronchus.r",
+   "parent": "Right main bronchus",
+   "verts": 156,
+   "tris": 288,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0372,
+    0.0098,
+    1.3137
+   ],
+   "bbox_max": [
+    -0.0074,
+    0.0281,
+    1.3525
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right main bronchus",
+   "path": "Respiratory system.g/Tracheobronchial tree.g/Bronchi.g/Right main bronchus",
+   "parent": "Bronchi.g",
+   "verts": 156,
+   "tris": 288,
+   "materials": [
+    "Bronchi"
+   ],
+   "bbox_min": [
+    -0.0203,
+    0.0033,
+    1.3443
+   ],
+   "bbox_max": [
+    0.0064,
+    0.0242,
+    1.3749
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Paranasal sinuses.j",
+   "path": "Respiratory system.g/Paranasal sinuses.g/Paranasal sinuses.j",
+   "parent": "Paranasal sinuses.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.021,
+    -0.0934,
+    1.5651
+   ],
+   "bbox_max": [
+    0.036,
+    -0.0625,
+    1.5657
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nose.j",
+   "path": "Respiratory system.g/Nose.g/Nose.j",
+   "parent": "Nose.g",
+   "verts": 73,
+   "tris": 142,
+   "materials": [],
+   "bbox_min": [
+    -0.0009,
+    -0.127,
+    1.5703
+   ],
+   "bbox_max": [
+    0.0006,
+    -0.0885,
+    1.5718
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mucosa of nasal cavity",
+   "path": "Respiratory system.g/Nose.g/Mucosa of nasal cavity",
+   "parent": "Nose.g",
+   "verts": 4860,
+   "tris": 9808,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0137,
+    -0.1081,
+    1.5496
+   ],
+   "bbox_max": [
+    0.0137,
+    -0.0422,
+    1.5976
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lungs.j",
+   "path": "Respiratory system.g/Lungs.g/Lungs.j",
+   "parent": "Lungs.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.099,
+    0.0093,
+    1.37
+   ],
+   "bbox_max": [
+    0.1509,
+    0.0113,
+    1.3721
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Right lung.j",
+   "parent": "Right lung.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1576,
+    0.0092,
+    1.3746
+   ],
+   "bbox_max": [
+    -0.0956,
+    0.0107,
+    1.3764
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior border of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Anterior border of lung.t/Anterior border of lung.j",
+   "parent": "Anterior border of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0076,
+    -0.0681,
+    1.3427
+   ],
+   "bbox_max": [
+    0.021,
+    -0.0676,
+    1.3432
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior segment of right lung (SIII).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Anterior segment of right lung (SIII).t/Anterior segment of right lung (SIII).j",
+   "parent": "Anterior segment of right lung (SIII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0447,
+    -0.1209,
+    1.3202
+   ],
+   "bbox_max": [
+    -0.0442,
+    -0.0694,
+    1.3208
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apex of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Apex of lung.t/Apex of lung.j",
+   "parent": "Apex of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0333,
+    0.0173,
+    1.4308
+   ],
+   "bbox_max": [
+    -0.0328,
+    0.0178,
+    1.4387
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apical segment of right lung (SI).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Apical segment of right lung (SI).t/Apical segment of right lung (SI).j",
+   "parent": "Apical segment of right lung (SI).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0217,
+    0.0027,
+    1.416
+   ],
+   "bbox_max": [
+    0.0154,
+    0.0032,
+    1.4167
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cardiac impression of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Cardiac impression of lung.t/Cardiac impression of lung.j",
+   "parent": "Cardiac impression of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0299,
+    -0.0365,
+    1.315
+   ],
+   "bbox_max": [
+    0.0203,
+    -0.036,
+    1.3158
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Costal surface of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Costal surface of lung.t/Costal surface of lung.j",
+   "parent": "Costal surface of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0646,
+    -0.1021,
+    1.3278
+   ],
+   "bbox_max": [
+    -0.0641,
+    -0.0583,
+    1.3286
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hilum of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Hilum of lung.t/Hilum of lung.j",
+   "parent": "Hilum of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0259,
+    0.0107,
+    1.3266
+   ],
+   "bbox_max": [
+    0.0074,
+    0.0112,
+    1.3272
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mediastinal surface of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Mediastinal surface of lung.t/Mediastinal surface of lung.j",
+   "parent": "Mediastinal surface of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0278,
+    -0.0161,
+    1.3704
+   ],
+   "bbox_max": [
+    0.0214,
+    -0.0156,
+    1.3712
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior segment of right lung (SII).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Posterior segment of right lung (SII).t/Posterior segment of right lung (SII).j",
+   "parent": "Posterior segment of right lung (SII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1507,
+    0.0169,
+    1.3499
+   ],
+   "bbox_max": [
+    -0.1097,
+    0.0174,
+    1.3509
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Root of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung/Root of lung.t/Root of lung.j",
+   "parent": "Root of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0216,
+    0.0067,
+    1.3406
+   ],
+   "bbox_max": [
+    0.0131,
+    0.0072,
+    1.3412
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior lobe of right lung",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Superior lobe of right lung",
+   "parent": "Right lung.g",
+   "verts": 3902,
+   "tris": 7748,
+   "materials": [
+    "Lung-base",
+    "Lung-1",
+    "Lung-2",
+    "Lung-3"
+   ],
+   "bbox_min": [
+    -0.1182,
+    -0.0843,
+    1.2921
+   ],
+   "bbox_max": [
+    -0.008,
+    0.0714,
+    1.4295
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Horizontal fissure of right lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Middle lobe of right lung/Horizontal fissure of right lung.t/Horizontal fissure of right lung.j",
+   "parent": "Horizontal fissure of right lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1592,
+    0.0111,
+    1.3105
+   ],
+   "bbox_max": [
+    -0.119,
+    0.0116,
+    1.311
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior border of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Middle lobe of right lung/Inferior border of lung.t/Inferior border of lung.j",
+   "parent": "Inferior border of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0497,
+    -0.1013,
+    1.2102
+   ],
+   "bbox_max": [
+    -0.0492,
+    -0.1008,
+    1.22
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Interlobar surface of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Middle lobe of right lung/Interlobar surface of lung.t/Interlobar surface of lung.j",
+   "parent": "Interlobar surface of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0692,
+    -0.0146,
+    1.3028
+   ],
+   "bbox_max": [
+    -0.0687,
+    -0.0141,
+    1.3231
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral segment of right lung (SIV).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Middle lobe of right lung/Lateral segment of right lung (SIV).t/Lateral segment of right lung (SIV).j",
+   "parent": "Lateral segment of right lung (SIV).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1674,
+    -0.0509,
+    1.2743
+   ],
+   "bbox_max": [
+    -0.1091,
+    -0.0504,
+    1.275
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial segment of right lung (SV).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Middle lobe of right lung/Medial segment of right lung (SV).t/Medial segment of right lung (SV).j",
+   "parent": "Medial segment of right lung (SV).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0306,
+    -0.1425,
+    1.2658
+   ],
+   "bbox_max": [
+    -0.0301,
+    -0.0962,
+    1.2667
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Middle lobe of right lung",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Middle lobe of right lung",
+   "parent": "Right lung.g",
+   "verts": 3708,
+   "tris": 7396,
+   "materials": [
+    "Lung-base",
+    "Lung-4",
+    "Lung-5"
+   ],
+   "bbox_min": [
+    -0.1236,
+    -0.1025,
+    1.2156
+   ],
+   "bbox_max": [
+    -0.0057,
+    0.0475,
+    1.3192
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Base of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Base of lung.t/Base of lung.j",
+   "parent": "Base of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0736,
+    0.0314,
+    1.1634
+   ],
+   "bbox_max": [
+    -0.0731,
+    0.0319,
+    1.2456
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Diaphragmatic surface of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Diaphragmatic surface of lung.t/Diaphragmatic surface of lung.j",
+   "parent": "Diaphragmatic surface of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0907,
+    0.0105,
+    1.167
+   ],
+   "bbox_max": [
+    -0.0902,
+    0.011,
+    1.2511
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral basal segment of right lung (SIX).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Lateral basal segment of right lung (SIX).t/Lateral basal segment of right lung (SIX).j",
+   "parent": "Lateral basal segment of right lung (SIX).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1771,
+    0.0428,
+    1.2102
+   ],
+   "bbox_max": [
+    -0.1135,
+    0.0842,
+    1.211
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lobe of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Lobe of lung.t/Lobe of lung.j",
+   "parent": "Lobe of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1538,
+    -0.0112,
+    1.236
+   ],
+   "bbox_max": [
+    -0.1304,
+    -0.0107,
+    1.2367
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial basal segment of right lung (SVII).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Medial basal segment of right lung (SVII).t/Medial basal segment of right lung (SVII).j",
+   "parent": "Medial basal segment of right lung (SVII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0133,
+    0.0331,
+    1.239
+   ],
+   "bbox_max": [
+    0.0378,
+    0.0336,
+    1.2398
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial surface of lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Medial surface of lung.t/Medial surface of lung.j",
+   "parent": "Medial surface of lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0133,
+    0.0443,
+    1.2757
+   ],
+   "bbox_max": [
+    0.0248,
+    0.0448,
+    1.2763
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oblique fissure of right lung.j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Oblique fissure of right lung.t/Oblique fissure of right lung.j",
+   "parent": "Oblique fissure of right lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.167,
+    -0.0279,
+    1.2625
+   ],
+   "bbox_max": [
+    -0.1221,
+    -0.0274,
+    1.263
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior basal segment of right lung (SX).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Posterior basal segment of right lung (SX).t/Posterior basal segment of right lung (SX).j",
+   "parent": "Posterior basal segment of right lung (SX).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0683,
+    0.0817,
+    1.2223
+   ],
+   "bbox_max": [
+    -0.0678,
+    0.1395,
+    1.223
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior segment of right lung (SVI).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Superior segment of right lung (SVI).t/Superior segment of right lung (SVI).j",
+   "parent": "Superior segment of right lung (SVI).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0657,
+    0.0807,
+    1.2967
+   ],
+   "bbox_max": [
+    -0.0652,
+    0.1236,
+    1.2975
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior basal segment of right lung (SVIII).j",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung/Anterior basal segment of right lung (SVIII).t/Anterior basal segment of right lung (SVIII).j",
+   "parent": "Anterior basal segment of right lung (SVIII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1857,
+    -0.0216,
+    1.2204
+   ],
+   "bbox_max": [
+    -0.1304,
+    -0.0211,
+    1.2211
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior lobe of right lung",
+   "path": "Respiratory system.g/Lungs.g/Right lung.g/Inferior lobe of right lung",
+   "parent": "Right lung.g",
+   "verts": 4231,
+   "tris": 8452,
+   "materials": [
+    "Lung-base",
+    "Lung-1",
+    "Lung-6",
+    "Lung-7",
+    "Lung-8",
+    "Lung-9"
+   ],
+   "bbox_min": [
+    -0.1311,
+    -0.0926,
+    1.1699
+   ],
+   "bbox_max": [
+    -0.0027,
+    0.0832,
+    1.3504
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left lung.j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Left lung.j",
+   "parent": "Left lung.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.1042,
+    0.0091,
+    1.3566
+   ],
+   "bbox_max": [
+    0.1553,
+    0.0106,
+    1.3581
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior segment of left lung (SIII).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung/Anterior segment of left lung (SIII).t/Anterior segment of left lung (SIII).j",
+   "parent": "Anterior segment of left lung (SIII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0535,
+    -0.1127,
+    1.3419
+   ],
+   "bbox_max": [
+    0.0554,
+    -0.0556,
+    1.3428
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Apicoposterior segment of left lung (SI+SII).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung/Apicoposterior segment of left lung (SI+SII).t/Apicoposterior segment of left lung (SI+SII).j",
+   "parent": "Apicoposterior segment of left lung (SI+SII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0321,
+    0.0014,
+    1.4308
+   ],
+   "bbox_max": [
+    0.0326,
+    0.0019,
+    1.4446
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cardiac notch of left lung.j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung/Cardiac notch of left lung.t/Cardiac notch of left lung.j",
+   "parent": "Cardiac notch of left lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0092,
+    -0.0837,
+    1.2754
+   ],
+   "bbox_max": [
+    0.0449,
+    -0.0832,
+    1.2767
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior lingular segment of left lung (SV).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung/Inferior lingular segment of left lung (SV).t/Inferior lingular segment of left lung (SV).j",
+   "parent": "Inferior lingular segment of left lung (SV).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0857,
+    -0.119,
+    1.255
+   ],
+   "bbox_max": [
+    0.1061,
+    -0.084,
+    1.2556
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lingula of left lung.j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung/Lingula of left lung.t/Lingula of left lung.j",
+   "parent": "Lingula of left lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0891,
+    -0.1045,
+    1.2709
+   ],
+   "bbox_max": [
+    0.1178,
+    -0.0739,
+    1.2718
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior lingular segment of left lung (SIV).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung/Superior lingular segment of left lung (SIV).t/Superior lingular segment of left lung (SIV).j",
+   "parent": "Superior lingular segment of left lung (SIV).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0931,
+    -0.0923,
+    1.2845
+   ],
+   "bbox_max": [
+    0.1317,
+    -0.0647,
+    1.2852
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior lobe of left lung",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Superior lobe of left lung",
+   "parent": "Left lung.g",
+   "verts": 4662,
+   "tris": 9290,
+   "materials": [
+    "Lung-base",
+    "Lung-1",
+    "Lung-2",
+    "Lung-3",
+    "Lung-4",
+    "Lung-5"
+   ],
+   "bbox_min": [
+    0.0089,
+    -0.1015,
+    1.2195
+   ],
+   "bbox_max": [
+    0.123,
+    0.0693,
+    1.431
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior basal segment of left lung (SVIII).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung/Anterior basal segment of left lung (SVIII).t/Anterior basal segment of left lung (SVIII).j",
+   "parent": "Anterior basal segment of left lung (SVIII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.1132,
+    -0.0974,
+    1.2131
+   ],
+   "bbox_max": [
+    0.1624,
+    -0.0667,
+    1.2139
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral basal segment of left lung (SIX).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung/Lateral basal segment of left lung (SIX).t/Lateral basal segment of left lung (SIX).j",
+   "parent": "Lateral basal segment of left lung (SIX).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.1263,
+    0.0056,
+    1.2099
+   ],
+   "bbox_max": [
+    0.1742,
+    0.0061,
+    1.2105
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial basal segment of left lung (SVII).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung/Medial basal segment of left lung (SVII).t/Medial basal segment of left lung (SVII).j",
+   "parent": "Medial basal segment of left lung (SVII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0282,
+    0.0381,
+    1.2459
+   ],
+   "bbox_max": [
+    0.0175,
+    0.0402,
+    1.2466
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oblique fissure of left lung.j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung/Oblique fissure of left lung.t/Oblique fissure of left lung.j",
+   "parent": "Oblique fissure of left lung.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.1228,
+    -0.0032,
+    1.2842
+   ],
+   "bbox_max": [
+    0.1649,
+    -0.0027,
+    1.2849
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior basal segment of left lung (SX).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung/Posterior basal segment of left lung (SX).t/Posterior basal segment of left lung (SX).j",
+   "parent": "Posterior basal segment of left lung (SX).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0653,
+    0.0798,
+    1.2183
+   ],
+   "bbox_max": [
+    0.0658,
+    0.1269,
+    1.219
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior segment of left lung (SVI).j",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung/Superior segment of left lung (SVI).t/Superior segment of left lung (SVI).j",
+   "parent": "Superior segment of left lung (SVI).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0819,
+    0.0802,
+    1.2996
+   ],
+   "bbox_max": [
+    0.0824,
+    0.127,
+    1.3003
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior lobe of left lung",
+   "path": "Respiratory system.g/Lungs.g/Left lung.g/Inferior lobe of left lung",
+   "parent": "Left lung.g",
+   "verts": 4637,
+   "tris": 9258,
+   "materials": [
+    "Lung-base",
+    "Lung-1",
+    "Lung-6",
+    "Lung-7",
+    "Lung-8",
+    "Lung-9"
+   ],
+   "bbox_min": [
+    0.0184,
+    -0.0991,
+    1.167
+   ],
+   "bbox_max": [
+    0.1298,
+    0.0828,
+    1.3605
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Epiglottis",
+   "path": "Respiratory system.g/Larynx.g/Epiglottis",
+   "parent": "Larynx.g",
+   "verts": 1650,
+   "tris": 3376,
+   "materials": [
+    "Cartilage"
+   ],
+   "bbox_min": [
+    -0.0078,
+    -0.0271,
+    1.481
+   ],
+   "bbox_max": [
+    0.0078,
+    -0.0194,
+    1.5105
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Larynx.j",
+   "path": "Respiratory system.g/Larynx.g/Larynx.j",
+   "parent": "Larynx.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0694,
+    -0.0144,
+    1.4707
+   ],
+   "bbox_max": [
+    -0.0002,
+    -0.0129,
+    1.4722
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Genital systems.j",
+   "path": "Genital systems.g/Genital systems.j",
+   "parent": "Genital systems.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0002,
+    -0.1681,
+    0.8205
+   ],
+   "bbox_max": [
+    0.0023,
+    -0.0731,
+    0.8231
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Male genital system.j",
+   "path": "Genital systems.g/Male genital system.g/Male genital system.j",
+   "parent": "Male genital system.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.001,
+    -0.1846,
+    0.8094
+   ],
+   "bbox_max": [
+    0.0015,
+    -0.0579,
+    0.8119
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior border of testis.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r/Anterior border of testis.t/Anterior border of testis.j",
+   "parent": "Anterior border of testis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0196,
+    -0.0849,
+    0.7402
+   ],
+   "bbox_max": [
+    -0.0194,
+    -0.0671,
+    0.7405
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior pole of testis.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r/Inferior pole of testis.t/Inferior pole of testis.j",
+   "parent": "Inferior pole of testis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0195,
+    -0.0554,
+    0.723
+   ],
+   "bbox_max": [
+    -0.0192,
+    -0.0552,
+    0.7264
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral surface of testis.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r/Lateral surface of testis.t/Lateral surface of testis.j",
+   "parent": "Lateral surface of testis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0483,
+    -0.0554,
+    0.7413
+   ],
+   "bbox_max": [
+    -0.0313,
+    -0.0552,
+    0.7416
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial surface of testis.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r/Medial surface of testis.t/Medial surface of testis.j",
+   "parent": "Medial surface of testis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0102,
+    -0.0549,
+    0.7408
+   ],
+   "bbox_max": [
+    0.005,
+    -0.0547,
+    0.7412
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior border of testis.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r/Posterior border of testis.t/Posterior border of testis.j",
+   "parent": "Posterior border of testis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0216,
+    -0.0453,
+    0.7394
+   ],
+   "bbox_max": [
+    -0.0214,
+    -0.0273,
+    0.7398
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior pole of testis.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r/Superior pole of testis.t/Superior pole of testis.j",
+   "parent": "Superior pole of testis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.021,
+    -0.0585,
+    0.7563
+   ],
+   "bbox_max": [
+    -0.0208,
+    -0.0583,
+    0.7632
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Testis.r",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.r",
+   "parent": "Male internal genitalia.g",
+   "verts": 680,
+   "tris": 1356,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0312,
+    -0.0675,
+    0.7266
+   ],
+   "bbox_max": [
+    -0.0102,
+    -0.0448,
+    0.7561
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Testis.l",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Testis.l",
+   "parent": "Male internal genitalia.g",
+   "verts": 680,
+   "tris": 1356,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    0.0102,
+    -0.0675,
+    0.7266
+   ],
+   "bbox_max": [
+    0.0312,
+    -0.0448,
+    0.7561
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Epididymis.r",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Epididymis.r",
+   "parent": "Male internal genitalia.g",
+   "verts": 218,
+   "tris": 432,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0259,
+    -0.0633,
+    0.7375
+   ],
+   "bbox_max": [
+    -0.0169,
+    -0.0442,
+    0.7623
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Epididymis.l",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Epididymis.l",
+   "parent": "Male internal genitalia.g",
+   "verts": 218,
+   "tris": 432,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0169,
+    -0.0633,
+    0.7375
+   ],
+   "bbox_max": [
+    0.0259,
+    -0.0442,
+    0.7623
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ductus deferens.l",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Ductus deferens.l",
+   "parent": "Male internal genitalia.g",
+   "verts": 2460,
+   "tris": 4896,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    0.0174,
+    -0.0572,
+    0.733
+   ],
+   "bbox_max": [
+    0.0561,
+    0.0338,
+    0.8921
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ductus deferens.r",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Ductus deferens.r",
+   "parent": "Male internal genitalia.g",
+   "verts": 2460,
+   "tris": 4896,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    -0.0561,
+    -0.0572,
+    0.733
+   ],
+   "bbox_max": [
+    -0.0174,
+    0.0338,
+    0.8921
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Seminal gland.r",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Seminal gland.r",
+   "parent": "Male internal genitalia.g",
+   "verts": 182,
+   "tris": 360,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.036,
+    0.0236,
+    0.8283
+   ],
+   "bbox_max": [
+    -0.0031,
+    0.0445,
+    0.8588
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Seminal gland.l",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Seminal gland.l",
+   "parent": "Male internal genitalia.g",
+   "verts": 182,
+   "tris": 360,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0031,
+    0.0236,
+    0.8283
+   ],
+   "bbox_max": [
+    0.036,
+    0.0445,
+    0.8588
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Prostate",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Prostate",
+   "parent": "Male internal genitalia.g",
+   "verts": 236,
+   "tris": 468,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0179,
+    -0.0011,
+    0.809
+   ],
+   "bbox_max": [
+    0.0178,
+    0.0317,
+    0.8324
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ejaculatory duct.l",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Ejaculatory duct.l",
+   "parent": "Male internal genitalia.g",
+   "verts": 444,
+   "tris": 864,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    -0.0007,
+    0.0174,
+    0.8237
+   ],
+   "bbox_max": [
+    0.0083,
+    0.0363,
+    0.8386
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ejaculatory duct.r",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Ejaculatory duct.r",
+   "parent": "Male internal genitalia.g",
+   "verts": 444,
+   "tris": 864,
+   "materials": [
+    "Ductus"
+   ],
+   "bbox_min": [
+    -0.0083,
+    0.0174,
+    0.8237
+   ],
+   "bbox_max": [
+    0.0007,
+    0.0363,
+    0.8386
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Male internal genitalia.j",
+   "path": "Genital systems.g/Male genital system.g/Male internal genitalia.g/Male internal genitalia.j",
+   "parent": "Male internal genitalia.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.031,
+    -0.0576,
+    0.7405
+   ],
+   "bbox_max": [
+    0.1079,
+    -0.0561,
+    0.742
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Male external genitalia.j",
+   "path": "Genital systems.g/Male genital system.g/Male external genitalia.g/Male external genitalia.j",
+   "parent": "Male external genitalia.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0108,
+    -0.0843,
+    0.7905
+   ],
+   "bbox_max": [
+    0.109,
+    -0.0828,
+    0.7921
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Glans penis",
+   "path": "Genital systems.g/Male genital system.g/Male external genitalia.g/Penis.g/Glans penis",
+   "parent": "Penis.g",
+   "verts": 694,
+   "tris": 1391,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0154,
+    -0.1064,
+    0.7444
+   ],
+   "bbox_max": [
+    0.0153,
+    -0.0808,
+    0.7759
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Corpus cavernosum of penis",
+   "path": "Genital systems.g/Male genital system.g/Male external genitalia.g/Penis.g/Corpus cavernosum of penis",
+   "parent": "Penis.g",
+   "verts": 646,
+   "tris": 1288,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0325,
+    -0.101,
+    0.7452
+   ],
+   "bbox_max": [
+    0.0328,
+    0.0345,
+    0.8283
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Corpus spongiosum of penis",
+   "path": "Genital systems.g/Male genital system.g/Male external genitalia.g/Penis.g/Corpus spongiosum of penis",
+   "parent": "Penis.g",
+   "verts": 282,
+   "tris": 560,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0113,
+    -0.089,
+    0.7474
+   ],
+   "bbox_max": [
+    0.01,
+    0.0231,
+    0.8187
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Penis.j",
+   "path": "Genital systems.g/Male genital system.g/Male external genitalia.g/Penis.g/Penis.j",
+   "parent": "Penis.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0108,
+    -0.089,
+    0.7801
+   ],
+   "bbox_max": [
+    0.0584,
+    -0.088,
+    0.7812
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Endocrine glands.j",
+   "path": "Endocrine glands.g/Endocrine glands.j",
+   "parent": "Endocrine glands.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.023,
+    -0.0116,
+    1.4784
+   ],
+   "bbox_max": [
+    0.1354,
+    -0.0091,
+    1.481
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "(Pyramidal lobe).j",
+   "path": "Endocrine glands.g/Thyroid gland/(Pyramidal lobe).t/(Pyramidal lobe).j",
+   "parent": "(Pyramidal lobe).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0001,
+    -0.0487,
+    1.4799
+   ],
+   "bbox_max": [
+    0.0001,
+    -0.033,
+    1.4801
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Isthmus of thyroid gland.j",
+   "path": "Endocrine glands.g/Thyroid gland/Isthmus of thyroid gland.t/Isthmus of thyroid gland.j",
+   "parent": "Isthmus of thyroid gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0002,
+    -0.0407,
+    1.4609
+   ],
+   "bbox_max": [
+    0.0,
+    -0.0217,
+    1.4612
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lobe of thyroid gland.j",
+   "path": "Endocrine glands.g/Thyroid gland/Lobe of thyroid gland.t/Lobe of thyroid gland.j",
+   "parent": "Lobe of thyroid gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0349,
+    -0.0085,
+    1.4677
+   ],
+   "bbox_max": [
+    -0.0162,
+    -0.0083,
+    1.468
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Thyroid gland",
+   "path": "Endocrine glands.g/Thyroid gland",
+   "parent": "Endocrine glands.g",
+   "verts": 1302,
+   "tris": 2600,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0243,
+    -0.037,
+    1.4547
+   ],
+   "bbox_max": [
+    0.0243,
+    0.0045,
+    1.4888
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Suprarenal gland.l",
+   "path": "Endocrine glands.g/Suprarenal gland.l",
+   "parent": "Endocrine glands.g",
+   "verts": 2000,
+   "tris": 3996,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0273,
+    0.0149,
+    1.1381
+   ],
+   "bbox_max": [
+    0.0755,
+    0.035,
+    1.183
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior surface of suprarenal gland.j",
+   "path": "Endocrine glands.g/Suprarenal gland.r/Anterior surface of suprarenal gland.t/Anterior surface of suprarenal gland.j",
+   "parent": "Anterior surface of suprarenal gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0529,
+    -0.0072,
+    1.1511
+   ],
+   "bbox_max": [
+    -0.0433,
+    0.0041,
+    1.1513
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hilum of suprarenal gland.j",
+   "path": "Endocrine glands.g/Suprarenal gland.r/Hilum of suprarenal gland.t/Hilum of suprarenal gland.j",
+   "parent": "Hilum of suprarenal gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0318,
+    -0.0064,
+    1.136
+   ],
+   "bbox_max": [
+    -0.0247,
+    -0.0024,
+    1.1362
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial border of suprarenal gland.j",
+   "path": "Endocrine glands.g/Suprarenal gland.r/Medial border of suprarenal gland.t/Medial border of suprarenal gland.j",
+   "parent": "Medial border of suprarenal gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0314,
+    -0.0049,
+    1.1424
+   ],
+   "bbox_max": [
+    -0.0231,
+    -0.0004,
+    1.1425
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior surface of suprarenal gland.j",
+   "path": "Endocrine glands.g/Suprarenal gland.r/Posterior surface of suprarenal gland.t/Posterior surface of suprarenal gland.j",
+   "parent": "Posterior surface of suprarenal gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0384,
+    0.0128,
+    1.1484
+   ],
+   "bbox_max": [
+    -0.0297,
+    0.0233,
+    1.1486
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Renal surface of suprarenal gland.j",
+   "path": "Endocrine glands.g/Suprarenal gland.r/Renal surface of suprarenal gland.t/Renal surface of suprarenal gland.j",
+   "parent": "Renal surface of suprarenal gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0485,
+    0.0084,
+    1.1332
+   ],
+   "bbox_max": [
+    -0.0441,
+    0.01,
+    1.141
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior border of suprarenal gland.j",
+   "path": "Endocrine glands.g/Suprarenal gland.r/Superior border of suprarenal gland.t/Superior border of suprarenal gland.j",
+   "parent": "Superior border of suprarenal gland.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0475,
+    0.0124,
+    1.1602
+   ],
+   "bbox_max": [
+    -0.0474,
+    0.0125,
+    1.1645
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Suprarenal gland.r",
+   "path": "Endocrine glands.g/Suprarenal gland.r",
+   "parent": "Endocrine glands.g",
+   "verts": 1149,
+   "tris": 2294,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0625,
+    -0.0042,
+    1.1203
+   ],
+   "bbox_max": [
+    -0.0306,
+    0.023,
+    1.1626
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pineal gland",
+   "path": "Endocrine glands.g/Pineal gland",
+   "parent": "Endocrine glands.g",
+   "verts": 319,
+   "tris": 634,
+   "materials": [
+    "Nucleus"
+   ],
+   "bbox_min": [
+    -0.0032,
+    0.0173,
+    1.6123
+   ],
+   "bbox_max": [
+    0.0032,
+    0.0284,
+    1.6197
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parathyroid gland.j",
+   "path": "Endocrine glands.g/Parathyroid glands.g/Parathyroid gland.j",
+   "parent": "Parathyroid glands.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0188,
+    -0.0108,
+    1.4682
+   ],
+   "bbox_max": [
+    0.0914,
+    -0.0098,
+    1.4693
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior parathyroid gland.r",
+   "path": "Endocrine glands.g/Parathyroid glands.g/Inferior parathyroid gland.r",
+   "parent": "Parathyroid glands.g",
+   "verts": 66,
+   "tris": 128,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0117,
+    -0.0006,
+    1.4588
+   ],
+   "bbox_max": [
+    -0.01,
+    0.0031,
+    1.4618
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior parathyroid gland.r",
+   "path": "Endocrine glands.g/Parathyroid glands.g/Superior parathyroid gland.r",
+   "parent": "Parathyroid glands.g",
+   "verts": 66,
+   "tris": 128,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0183,
+    0.0019,
+    1.4786
+   ],
+   "bbox_max": [
+    -0.0144,
+    0.0045,
+    1.4817
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior parathyroid gland.l",
+   "path": "Endocrine glands.g/Parathyroid glands.g/Inferior parathyroid gland.l",
+   "parent": "Parathyroid glands.g",
+   "verts": 66,
+   "tris": 128,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.01,
+    -0.0006,
+    1.4588
+   ],
+   "bbox_max": [
+    0.0117,
+    0.0031,
+    1.4618
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior parathyroid gland.l",
+   "path": "Endocrine glands.g/Parathyroid glands.g/Superior parathyroid gland.l",
+   "parent": "Parathyroid glands.g",
+   "verts": 66,
+   "tris": 128,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0144,
+    0.0019,
+    1.4786
+   ],
+   "bbox_max": [
+    0.0183,
+    0.0045,
+    1.4817
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Hypophysis.j",
+   "path": "Endocrine glands.g/Hypophysis.g/Hypophysis.j",
+   "parent": "Hypophysis.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0058,
+    -0.0169,
+    1.5991
+   ],
+   "bbox_max": [
+    0.1028,
+    -0.0159,
+    1.6003
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pars distalis of hypophysis.j",
+   "path": "Endocrine glands.g/Hypophysis.g/Adenohypophysis/Pars distalis of hypophysis.t/Pars distalis of hypophysis.j",
+   "parent": "Pars distalis of hypophysis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0,
+    -0.0251,
+    1.5987
+   ],
+   "bbox_max": [
+    0.0,
+    -0.0214,
+    1.5988
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pars intermedia of hypophysis.j",
+   "path": "Endocrine glands.g/Hypophysis.g/Adenohypophysis/Pars intermedia of hypophysis.t/Pars intermedia of hypophysis.j",
+   "parent": "Pars intermedia of hypophysis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0,
+    -0.0237,
+    1.6033
+   ],
+   "bbox_max": [
+    0.0,
+    -0.0193,
+    1.6033
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pars tubelaris of hypophysis.j",
+   "path": "Endocrine glands.g/Hypophysis.g/Adenohypophysis/Pars tubelaris of hypophysis.t/Pars tubelaris of hypophysis.j",
+   "parent": "Pars tubelaris of hypophysis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0,
+    -0.0194,
+    1.6057
+   ],
+   "bbox_max": [
+    0.0,
+    -0.0152,
+    1.6057
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Adenohypophysis",
+   "path": "Endocrine glands.g/Hypophysis.g/Adenohypophysis",
+   "parent": "Hypophysis.g",
+   "verts": 369,
+   "tris": 680,
+   "materials": [
+    "Nucleus"
+   ],
+   "bbox_min": [
+    -0.006,
+    -0.0215,
+    1.5957
+   ],
+   "bbox_max": [
+    0.006,
+    -0.0133,
+    1.6077
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pars nervosa of hypophysis.j",
+   "path": "Endocrine glands.g/Hypophysis.g/Neurohypophysis/Pars nervosa of hypophysis.t/Pars nervosa of hypophysis.j",
+   "parent": "Pars nervosa of hypophysis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0,
+    -0.0125,
+    1.5984
+   ],
+   "bbox_max": [
+    0.0,
+    -0.0078,
+    1.5984
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infundibular stalk.j",
+   "path": "Endocrine glands.g/Hypophysis.g/Neurohypophysis/Infundibular stalk.t/Infundibular stalk.j",
+   "parent": "Infundibular stalk.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0,
+    -0.0132,
+    1.6055
+   ],
+   "bbox_max": [
+    0.0,
+    -0.0086,
+    1.6055
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Neurohypophysis",
+   "path": "Endocrine glands.g/Hypophysis.g/Neurohypophysis",
+   "parent": "Hypophysis.g",
+   "verts": 325,
+   "tris": 592,
+   "materials": [
+    "Nucleus"
+   ],
+   "bbox_min": [
+    -0.0059,
+    -0.0181,
+    1.5952
+   ],
+   "bbox_max": [
+    0.0059,
+    -0.0123,
+    1.6073
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left posterior lateral segment of liver (II)",
+   "path": "Digestive system.g/Liver/Left posterior lateral segment of liver (II)",
+   "parent": "Liver",
+   "verts": 1660,
+   "tris": 3316,
+   "materials": [
+    "Organ-2"
+   ],
+   "bbox_min": [
+    0.0014,
+    -0.0983,
+    1.19
+   ],
+   "bbox_max": [
+    0.0911,
+    0.005,
+    1.2461
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left anterior lateral segment of liver (III)",
+   "path": "Digestive system.g/Liver/Left anterior lateral segment of liver (III)",
+   "parent": "Liver",
+   "verts": 1724,
+   "tris": 3444,
+   "materials": [
+    "Organ-3"
+   ],
+   "bbox_min": [
+    -0.0023,
+    -0.0988,
+    1.1549
+   ],
+   "bbox_max": [
+    0.0732,
+    -0.0238,
+    1.2258
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left medial segment of liver (IV)",
+   "path": "Digestive system.g/Liver/Left medial segment of liver (IV)",
+   "parent": "Liver",
+   "verts": 2410,
+   "tris": 4772,
+   "materials": [
+    "Organ-4"
+   ],
+   "bbox_min": [
+    -0.0463,
+    -0.0985,
+    1.1269
+   ],
+   "bbox_max": [
+    0.0107,
+    -0.0241,
+    1.2528
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior medial segment of liver (V)",
+   "path": "Digestive system.g/Liver/Anterior medial segment of liver (V)",
+   "parent": "Liver",
+   "verts": 1773,
+   "tris": 3538,
+   "materials": [
+    "Organ-5"
+   ],
+   "bbox_min": [
+    -0.1036,
+    -0.0942,
+    1.1116
+   ],
+   "bbox_max": [
+    -0.0277,
+    -0.0107,
+    1.1849
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior lateral segment of liver (VI)",
+   "path": "Digestive system.g/Liver/Anterior lateral segment of liver (VI)",
+   "parent": "Liver",
+   "verts": 1678,
+   "tris": 3352,
+   "materials": [
+    "Organ-6"
+   ],
+   "bbox_min": [
+    -0.1138,
+    -0.066,
+    1.0918
+   ],
+   "bbox_max": [
+    -0.0235,
+    0.052,
+    1.179
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior lateral segment of liver (VII)",
+   "path": "Digestive system.g/Liver/Posterior lateral segment of liver (VII)",
+   "parent": "Liver",
+   "verts": 1196,
+   "tris": 2388,
+   "materials": [
+    "Organ-7"
+   ],
+   "bbox_min": [
+    -0.1143,
+    -0.0529,
+    1.1581
+   ],
+   "bbox_max": [
+    -0.0211,
+    0.0536,
+    1.2481
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior segment of liver (I)",
+   "path": "Digestive system.g/Liver/Posterior segment of liver (I)",
+   "parent": "Liver",
+   "verts": 1306,
+   "tris": 2608,
+   "materials": [
+    "Organ-1"
+   ],
+   "bbox_min": [
+    -0.0337,
+    -0.0411,
+    1.1638
+   ],
+   "bbox_max": [
+    0.0105,
+    -0.0067,
+    1.2409
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior medial segment of liver (VIII)",
+   "path": "Digestive system.g/Liver/Posterior medial segment of liver (VIII)",
+   "parent": "Liver",
+   "verts": 1782,
+   "tris": 3560,
+   "materials": [
+    "Organ-8"
+   ],
+   "bbox_min": [
+    -0.1082,
+    -0.0957,
+    1.1774
+   ],
+   "bbox_max": [
+    -0.0188,
+    0.0254,
+    1.2571
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior lateral segment of liver (VI).j",
+   "path": "Digestive system.g/Liver/Anterior lateral segment of liver (VI).t/Anterior lateral segment of liver (VI).j",
+   "parent": "Anterior lateral segment of liver (VI).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1523,
+    -0.0041,
+    1.1179
+   ],
+   "bbox_max": [
+    -0.1066,
+    -0.0036,
+    1.1185
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior medial segment of liver (V).j",
+   "path": "Digestive system.g/Liver/Anterior medial segment of liver (V).t/Anterior medial segment of liver (V).j",
+   "parent": "Anterior medial segment of liver (V).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0788,
+    -0.1173,
+    1.1458
+   ],
+   "bbox_max": [
+    -0.0713,
+    -0.0844,
+    1.1612
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior surface of liver.j",
+   "path": "Digestive system.g/Liver/Anterior surface of liver.t/Anterior surface of liver.j",
+   "parent": "Anterior surface of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0472,
+    -0.1272,
+    1.2006
+   ],
+   "bbox_max": [
+    -0.0467,
+    -0.0966,
+    1.2012
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Bare area of liver.j",
+   "path": "Digestive system.g/Liver/Bare area of liver.t/Bare area of liver.j",
+   "parent": "Bare area of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0489,
+    0.0134,
+    1.2509
+   ],
+   "bbox_max": [
+    -0.0484,
+    0.0139,
+    1.2765
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cardiac impression of liver.j",
+   "path": "Digestive system.g/Liver/Cardiac impression of liver.t/Cardiac impression of liver.j",
+   "parent": "Cardiac impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0092,
+    -0.0396,
+    1.2424
+   ],
+   "bbox_max": [
+    0.0097,
+    -0.0391,
+    1.2659
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Caudate lobe.j",
+   "path": "Digestive system.g/Liver/Caudate process.t/Caudate lobe.j",
+   "parent": "Caudate process.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0247,
+    -0.0244,
+    1.1638
+   ],
+   "bbox_max": [
+    -0.0087,
+    -0.0073,
+    1.1674
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Colic impression of liver.j",
+   "path": "Digestive system.g/Liver/Colic impression of liver.t/Colic impression of liver.j",
+   "parent": "Colic impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0843,
+    -0.0279,
+    1.0997
+   ],
+   "bbox_max": [
+    -0.0838,
+    -0.0167,
+    1.1276
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Diaphragmatic surface of liver.j",
+   "path": "Digestive system.g/Liver/Diaphragmatic surface of liver.t/Diaphragmatic surface of liver.j",
+   "parent": "Diaphragmatic surface of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0486,
+    -0.0411,
+    1.257
+   ],
+   "bbox_max": [
+    -0.0481,
+    -0.0406,
+    1.293
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Duodenal impression of liver.j",
+   "path": "Digestive system.g/Liver/Duodenal impression of liver.t/Duodenal impression of liver.j",
+   "parent": "Duodenal impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.062,
+    -0.0591,
+    1.1193
+   ],
+   "bbox_max": [
+    -0.0615,
+    -0.0508,
+    1.1381
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fibrous appendix of liver.j",
+   "path": "Digestive system.g/Liver/Fibrous appendix of liver.t/Fibrous appendix of liver.j",
+   "parent": "Fibrous appendix of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.092,
+    -0.0438,
+    1.2143
+   ],
+   "bbox_max": [
+    0.1202,
+    -0.0429,
+    1.2151
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fissure for ligamentum teres.j",
+   "path": "Digestive system.g/Liver/Fissure for ligamentum teres.t/Fissure for ligamentum teres.j",
+   "parent": "Fissure for ligamentum teres.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0018,
+    -0.0724,
+    1.1571
+   ],
+   "bbox_max": [
+    0.0023,
+    -0.0635,
+    1.1711
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fissure for ligamentum venosum.j",
+   "path": "Digestive system.g/Liver/Fissure for ligamentum venosum.t/Fissure for ligamentum venosum.j",
+   "parent": "Fissure for ligamentum venosum.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0068,
+    -0.029,
+    1.1975
+   ],
+   "bbox_max": [
+    0.0082,
+    0.0071,
+    1.198
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fossa for gallbladder.j",
+   "path": "Digestive system.g/Liver/Fossa for gallbladder.t/Fossa for gallbladder.j",
+   "parent": "Fossa for gallbladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.041,
+    -0.0411,
+    1.138
+   ],
+   "bbox_max": [
+    -0.0405,
+    -0.0327,
+    1.155
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gastric impression of liver.j",
+   "path": "Digestive system.g/Liver/Gastric impression of liver.t/Gastric impression of liver.j",
+   "parent": "Gastric impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.041,
+    -0.0294,
+    1.2118
+   ],
+   "bbox_max": [
+    0.0454,
+    -0.0208,
+    1.2269
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior border of liver.j",
+   "path": "Digestive system.g/Liver/Inferior border of liver.t/Inferior border of liver.j",
+   "parent": "Inferior border of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0299,
+    -0.0867,
+    1.0957
+   ],
+   "bbox_max": [
+    -0.0294,
+    -0.0862,
+    1.1304
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left anterior lateral segment of liver (III).j",
+   "path": "Digestive system.g/Liver/Left anterior lateral segment of liver (III).t/Left anterior lateral segment of liver (III).j",
+   "parent": "Left anterior lateral segment of liver (III).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0311,
+    -0.1283,
+    1.1763
+   ],
+   "bbox_max": [
+    0.0418,
+    -0.0955,
+    1.1778
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left lateral division of liver.j",
+   "path": "Digestive system.g/Liver/Left lateral division of liver.t/Left lateral division of liver.j",
+   "parent": "Left lateral division of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0316,
+    -0.1038,
+    1.2314
+   ],
+   "bbox_max": [
+    0.0518,
+    -0.0888,
+    1.2364
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left lobe of liver.j",
+   "path": "Digestive system.g/Liver/Left lobe of liver.t/Left lobe of liver.j",
+   "parent": "Left lobe of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0507,
+    -0.0971,
+    1.2267
+   ],
+   "bbox_max": [
+    0.0729,
+    -0.0854,
+    1.2298
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left medial division of liver.j",
+   "path": "Digestive system.g/Liver/Left medial division of liver.t/Left medial division of liver.j",
+   "parent": "Left medial division of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0214,
+    -0.1099,
+    1.2383
+   ],
+   "bbox_max": [
+    -0.0209,
+    -0.0871,
+    1.2476
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left medial segment of liver (IV).j",
+   "path": "Digestive system.g/Liver/Left medial segment of liver (IV).t/Left medial segment of liver (IV).j",
+   "parent": "Left medial segment of liver (IV).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0195,
+    -0.1241,
+    1.1729
+   ],
+   "bbox_max": [
+    -0.0183,
+    -0.0956,
+    1.1744
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left part of liver.j",
+   "path": "Digestive system.g/Liver/Left part of liver.t/Left part of liver.j",
+   "parent": "Left part of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0004,
+    -0.1234,
+    1.2146
+   ],
+   "bbox_max": [
+    0.0039,
+    -0.0992,
+    1.2153
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Left posterior lateral segment of liver (II).j",
+   "path": "Digestive system.g/Liver/Left posterior lateral segment of liver (II).t/Left posterior lateral segment of liver (II).j",
+   "parent": "Left posterior lateral segment of liver (II).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1153,
+    0.027,
+    1.2135
+   ],
+   "bbox_max": [
+    -0.0986,
+    0.0477,
+    1.214
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Main portal fissure.j",
+   "path": "Digestive system.g/Liver/Main portal fissure.t/Main portal fissure.j",
+   "parent": "Main portal fissure.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0199,
+    -0.0133,
+    1.2066
+   ],
+   "bbox_max": [
+    -0.0012,
+    0.0235,
+    1.2077
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Notch for ligamentum teres.j",
+   "path": "Digestive system.g/Liver/Notch for ligamentum teres.t/Notch for ligamentum teres.j",
+   "parent": "Notch for ligamentum teres.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.002,
+    -0.0863,
+    1.1237
+   ],
+   "bbox_max": [
+    -0.0015,
+    -0.0858,
+    1.159
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oesophageal impression of liver.j",
+   "path": "Digestive system.g/Liver/Oesophageal impression of liver.t/Oesophageal impression of liver.j",
+   "parent": "Oesophageal impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0138,
+    -0.0062,
+    1.2039
+   ],
+   "bbox_max": [
+    0.023,
+    0.011,
+    1.2146
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Omental tuberosity of liver.j",
+   "path": "Digestive system.g/Liver/Omental tuberosity of liver.t/Omental tuberosity of liver.j",
+   "parent": "Omental tuberosity of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.014,
+    -0.0288,
+    1.191
+   ],
+   "bbox_max": [
+    0.0191,
+    -0.0027,
+    1.1921
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Papillary process.j",
+   "path": "Digestive system.g/Liver/Papillary process.t/Papillary process.j",
+   "parent": "Papillary process.t",
+   "verts": 39,
+   "tris": 74,
+   "materials": [],
+   "bbox_min": [
+    0.0005,
+    -0.0266,
+    1.1673
+   ],
+   "bbox_max": [
+    0.001,
+    -0.0024,
+    1.1719
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Porta hepatis.j",
+   "path": "Digestive system.g/Liver/Porta hepatis.t/Porta hepatis.j",
+   "parent": "Porta hepatis.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0219,
+    -0.0418,
+    1.1278
+   ],
+   "bbox_max": [
+    -0.0214,
+    -0.0222,
+    1.1759
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior medial segment of liver (VIII).j",
+   "path": "Digestive system.g/Liver/Posterior medial segment of liver (VIII).t/Posterior medial segment of liver (VIII).j",
+   "parent": "Posterior medial segment of liver (VIII).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0636,
+    -0.0499,
+    1.2529
+   ],
+   "bbox_max": [
+    -0.0631,
+    -0.0494,
+    1.27
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior part of liver.j",
+   "path": "Digestive system.g/Liver/Posterior part of liver.t/Posterior part of liver.j",
+   "parent": "Posterior part of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0006,
+    -0.0147,
+    1.2181
+   ],
+   "bbox_max": [
+    0.0001,
+    0.0097,
+    1.2203
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior segment of liver (I).j",
+   "path": "Digestive system.g/Liver/Posterior segment of liver (I).t/Posterior segment of liver (I).j",
+   "parent": "Posterior segment of liver (I).t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.006,
+    -0.0177,
+    1.1847
+   ],
+   "bbox_max": [
+    0.001,
+    0.0073,
+    1.1856
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior surface of liver.j",
+   "path": "Digestive system.g/Liver/Posterior surface of liver.t/Posterior surface of liver.j",
+   "parent": "Posterior surface of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0593,
+    0.0527,
+    1.1909
+   ],
+   "bbox_max": [
+    -0.0588,
+    0.0922,
+    1.1915
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Quadrate lobe.j",
+   "path": "Digestive system.g/Liver/Quadrate lobe.t/Quadrate lobe.j",
+   "parent": "Quadrate lobe.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0297,
+    -0.073,
+    1.1506
+   ],
+   "bbox_max": [
+    -0.0292,
+    -0.0488,
+    1.1513
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right lateral division of liver.j",
+   "path": "Digestive system.g/Liver/Right lateral division of liver.t/Right lateral division of liver.j",
+   "parent": "Right lateral division of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1264,
+    -0.0129,
+    1.2288
+   ],
+   "bbox_max": [
+    -0.0998,
+    -0.0029,
+    1.2372
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right lobe of liver.j",
+   "path": "Digestive system.g/Liver/Right lobe of liver.t/Right lobe of liver.j",
+   "parent": "Right lobe of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0878,
+    -0.1036,
+    1.2188
+   ],
+   "bbox_max": [
+    -0.0754,
+    -0.0801,
+    1.2196
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right medial division of liver.j",
+   "path": "Digestive system.g/Liver/Right medial division of liver.t/Right medial division of liver.j",
+   "parent": "Right medial division of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0845,
+    -0.1319,
+    1.1634
+   ],
+   "bbox_max": [
+    -0.0626,
+    -0.0887,
+    1.1644
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right part of liver.j",
+   "path": "Digestive system.g/Liver/Right part of liver.t/Right part of liver.j",
+   "parent": "Right part of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.092,
+    -0.0982,
+    1.1834
+   ],
+   "bbox_max": [
+    -0.0798,
+    -0.0796,
+    1.1919
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right portal fissure.j",
+   "path": "Digestive system.g/Liver/Right portal fissure.t/Right portal fissure.j",
+   "parent": "Right portal fissure.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0457,
+    -0.0867,
+    1.1129
+   ],
+   "bbox_max": [
+    -0.0452,
+    -0.0862,
+    1.1275
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Right surface of liver.j",
+   "path": "Digestive system.g/Liver/Right surface of liver.t/Right surface of liver.j",
+   "parent": "Right surface of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1447,
+    -0.0149,
+    1.1749
+   ],
+   "bbox_max": [
+    -0.1143,
+    -0.0144,
+    1.1754
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior surface of liver.j",
+   "path": "Digestive system.g/Liver/Superior surface of liver.t/Superior surface of liver.j",
+   "parent": "Superior surface of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0714,
+    -0.0274,
+    1.2549
+   ],
+   "bbox_max": [
+    -0.0709,
+    -0.0269,
+    1.2834
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Suprarenal impression of liver.j",
+   "path": "Digestive system.g/Liver/Suprarenal impression of liver.t/Suprarenal impression of liver.j",
+   "parent": "Suprarenal impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0255,
+    0.0096,
+    1.1804
+   ],
+   "bbox_max": [
+    -0.0146,
+    0.042,
+    1.1854
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Umbilical fissure.j",
+   "path": "Digestive system.g/Liver/Umbilical fissure.t/Umbilical fissure.j",
+   "parent": "Umbilical fissure.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0109,
+    -0.0197,
+    1.2254
+   ],
+   "bbox_max": [
+    0.0114,
+    0.0112,
+    1.2264
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Visceral surface of liver.j",
+   "path": "Digestive system.g/Liver/Visceral surface of liver.t/Visceral surface of liver.j",
+   "parent": "Visceral surface of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0518,
+    -0.0287,
+    1.1066
+   ],
+   "bbox_max": [
+    -0.0513,
+    -0.0151,
+    1.1407
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Renal impression of liver.j",
+   "path": "Digestive system.g/Liver/Renal impression of liver.t/Renal impression of liver.j",
+   "parent": "Renal impression of liver.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0517,
+    0.0163,
+    1.1317
+   ],
+   "bbox_max": [
+    -0.0512,
+    0.0263,
+    1.1545
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Liver",
+   "path": "Digestive system.g/Liver",
+   "parent": "Digestive system.g",
+   "verts": 6200,
+   "tris": 12270,
+   "materials": [
+    "Ligament",
+    "Organ"
+   ],
+   "bbox_min": [
+    -0.1147,
+    -0.0994,
+    1.0914
+   ],
+   "bbox_max": [
+    0.092,
+    0.0537,
+    1.2577
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Body of gallbladder.j",
+   "path": "Digestive system.g/Gallbladder/Body of gallbladder.t/Body of gallbladder.j",
+   "parent": "Body of gallbladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0888,
+    -0.0522,
+    1.1326
+   ],
+   "bbox_max": [
+    -0.0617,
+    -0.0517,
+    1.1331
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fundus of gallbladder.j",
+   "path": "Digestive system.g/Gallbladder/Fundus of gallbladder.t/Fundus of gallbladder.j",
+   "parent": "Fundus of gallbladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0531,
+    -0.1064,
+    1.1204
+   ],
+   "bbox_max": [
+    -0.0526,
+    -0.079,
+    1.1209
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Infundibulum of gallbladder.j",
+   "path": "Digestive system.g/Gallbladder/Infundibulum of gallbladder.t/Infundibulum of gallbladder.j",
+   "parent": "Infundibulum of gallbladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0424,
+    -0.0321,
+    1.1447
+   ],
+   "bbox_max": [
+    -0.041,
+    0.0007,
+    1.1458
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Neck of gallbladder.j",
+   "path": "Digestive system.g/Gallbladder/Neck of gallbladder.t/Neck of gallbladder.j",
+   "parent": "Neck of gallbladder.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0339,
+    -0.0435,
+    1.1528
+   ],
+   "bbox_max": [
+    -0.0053,
+    -0.043,
+    1.1533
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gallbladder",
+   "path": "Digestive system.g/Gallbladder",
+   "parent": "Digestive system.g",
+   "verts": 363,
+   "tris": 722,
+   "materials": [
+    "Gallbladder"
+   ],
+   "bbox_min": [
+    -0.0633,
+    -0.0804,
+    1.1154
+   ],
+   "bbox_max": [
+    -0.027,
+    -0.0321,
+    1.1589
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pancreatic duct",
+   "path": "Digestive system.g/Pancreas/Pancreatic duct",
+   "parent": "Pancreas",
+   "verts": 27912,
+   "tris": 55824,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0535,
+    -0.041,
+    1.0881
+   ],
+   "bbox_max": [
+    0.0658,
+    -0.0017,
+    1.1476
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Accessory pancreatic duct",
+   "path": "Digestive system.g/Pancreas/Accessory pancreatic duct",
+   "parent": "Pancreas",
+   "verts": 5688,
+   "tris": 11376,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0523,
+    -0.0475,
+    1.1019
+   ],
+   "bbox_max": [
+    -0.0179,
+    -0.0241,
+    1.1147
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior border of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Anterior border of pancreas.t/Anterior border of pancreas.j",
+   "parent": "Anterior border of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0167,
+    -0.063,
+    1.1261
+   ],
+   "bbox_max": [
+    0.0172,
+    -0.0414,
+    1.1334
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Antero-inferior surface of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Antero-inferior surface of pancreas.t/Antero-inferior surface of pancreas.j",
+   "parent": "Antero-inferior surface of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0175,
+    -0.0698,
+    1.1111
+   ],
+   "bbox_max": [
+    0.0179,
+    -0.0422,
+    1.1176
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterosuperior surface of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Anterosuperior surface of pancreas.t/Anterosuperior surface of pancreas.j",
+   "parent": "Anterosuperior surface of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0153,
+    -0.0529,
+    1.1387
+   ],
+   "bbox_max": [
+    0.0158,
+    -0.0385,
+    1.1523
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Body of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Body of pancreas.t/Body of pancreas.j",
+   "parent": "Body of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0024,
+    -0.0621,
+    1.1264
+   ],
+   "bbox_max": [
+    0.0029,
+    -0.047,
+    1.127
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Head of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Head of pancreas.t/Head of pancreas.j",
+   "parent": "Head of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0318,
+    -0.0605,
+    1.1029
+   ],
+   "bbox_max": [
+    -0.0313,
+    -0.0405,
+    1.1035
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inferior border of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Inferior border of pancreas.t/Inferior border of pancreas.j",
+   "parent": "Inferior border of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0368,
+    -0.0204,
+    1.116
+   ],
+   "bbox_max": [
+    0.0373,
+    -0.0199,
+    1.1232
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Omental eminence.j",
+   "path": "Digestive system.g/Pancreas/Omental eminence of pancreas.t/Omental eminence.j",
+   "parent": "Omental eminence of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0073,
+    -0.0563,
+    1.131
+   ],
+   "bbox_max": [
+    0.0078,
+    -0.0455,
+    1.1383
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pancreas.j",
+   "path": "Digestive system.g/Pancreas/Pancreas.t/Pancreas.j",
+   "parent": "Pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0054,
+    -0.0316,
+    1.1396
+   ],
+   "bbox_max": [
+    -0.0049,
+    -0.0311,
+    1.1589
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Neck of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Neck of pancreas.t/Neck of pancreas.j",
+   "parent": "Neck of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0103,
+    -0.0375,
+    1.1382
+   ],
+   "bbox_max": [
+    -0.0098,
+    -0.037,
+    1.1454
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pancreatic notch.j",
+   "path": "Digestive system.g/Pancreas/Pancreatic notch.t/Pancreatic notch.j",
+   "parent": "Pancreatic notch.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0137,
+    -0.0375,
+    1.1022
+   ],
+   "bbox_max": [
+    0.0036,
+    -0.037,
+    1.1031
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior surface of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Posterior surface of pancreas.t/Posterior surface of pancreas.j",
+   "parent": "Posterior surface of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0125,
+    -0.0227,
+    1.1276
+   ],
+   "bbox_max": [
+    0.013,
+    0.0143,
+    1.1285
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Superior border of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Superior border of pancreas.t/Superior border of pancreas.j",
+   "parent": "Superior border of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0258,
+    -0.0216,
+    1.1448
+   ],
+   "bbox_max": [
+    0.0263,
+    -0.0211,
+    1.1492
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Tail of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Tail of pancreas.t/Tail of pancreas.j",
+   "parent": "Tail of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0703,
+    -0.004,
+    1.1467
+   ],
+   "bbox_max": [
+    0.0824,
+    -0.0035,
+    1.1474
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Uncinate process of pancreas.j",
+   "path": "Digestive system.g/Pancreas/Uncinate process of pancreas.t/Uncinate process of pancreas.j",
+   "parent": "Uncinate process of pancreas.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0054,
+    -0.0341,
+    1.0932
+   ],
+   "bbox_max": [
+    -0.0049,
+    -0.0017,
+    1.0939
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pancreas",
+   "path": "Digestive system.g/Pancreas",
+   "parent": "Digestive system.g",
+   "verts": 2613,
+   "tris": 5222,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0455,
+    -0.0482,
+    1.0791
+   ],
+   "bbox_max": [
+    0.0727,
+    0.0051,
+    1.1529
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Digestive system.j",
+   "path": "Digestive system.g/Digestive system.j",
+   "parent": "Digestive system.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.252,
+    -0.0132,
+    1.1042
+   ],
+   "bbox_max": [
+    -0.1076,
+    -0.0107,
+    1.1067
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pharynx.j",
+   "path": "Digestive system.g/Pharynx.g/Pharynx.j",
+   "parent": "Pharynx.g",
+   "verts": 32,
+   "tris": 64,
+   "materials": [],
+   "bbox_min": [
+    0.0121,
+    -0.015,
+    1.5577
+   ],
+   "bbox_max": [
+    0.0897,
+    -0.014,
+    1.5587
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oropharynx",
+   "path": "Digestive system.g/Pharynx.g/Oropharynx",
+   "parent": "Pharynx.g",
+   "verts": 1274,
+   "tris": 2544,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0328,
+    -0.0755,
+    1.5083
+   ],
+   "bbox_max": [
+    0.0328,
+    -0.0086,
+    1.5525
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Nasopharynx",
+   "path": "Digestive system.g/Pharynx.g/Nasopharynx",
+   "parent": "Pharynx.g",
+   "verts": 978,
+   "tris": 1952,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0175,
+    -0.0454,
+    1.5501
+   ],
+   "bbox_max": [
+    0.0175,
+    -0.0096,
+    1.5912
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Laryngopharynx",
+   "path": "Digestive system.g/Pharynx.g/Laryngopharynx",
+   "parent": "Pharynx.g",
+   "verts": 1238,
+   "tris": 2476,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0144,
+    -0.0332,
+    1.4564
+   ],
+   "bbox_max": [
+    0.0144,
+    0.0005,
+    1.5104
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Uvula of palate",
+   "path": "Digestive system.g/Mouth.g/Uvula of palate",
+   "parent": "Mouth.g",
+   "verts": 753,
+   "tris": 1502,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0025,
+    -0.0179,
+    1.5409
+   ],
+   "bbox_max": [
+    0.0025,
+    -0.0134,
+    1.5501
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Gingiva",
+   "path": "Digestive system.g/Mouth.g/Gingiva",
+   "parent": "Mouth.g",
+   "verts": 12304,
+   "tris": 24596,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0367,
+    -0.0915,
+    1.5086
+   ],
+   "bbox_max": [
+    0.0367,
+    -0.0326,
+    1.5529
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Tongue",
+   "path": "Digestive system.g/Mouth.g/Tongue",
+   "parent": "Mouth.g",
+   "verts": 343,
+   "tris": 682,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0168,
+    -0.0782,
+    1.4969
+   ],
+   "bbox_max": [
+    0.0168,
+    -0.0219,
+    1.5396
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mouth.j",
+   "path": "Digestive system.g/Mouth.g/Mouth.j",
+   "parent": "Mouth.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0908,
+    -0.0696,
+    1.5288
+   ],
+   "bbox_max": [
+    -0.0008,
+    -0.0681,
+    1.5303
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Soft palate",
+   "path": "Digestive system.g/Mouth.g/Soft palate",
+   "parent": "Mouth.g",
+   "verts": 1884,
+   "tris": 3764,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.0176,
+    -0.0556,
+    1.5447
+   ],
+   "bbox_max": [
+    0.0176,
+    -0.015,
+    1.5549
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Salivary glands.j",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Salivary glands.j",
+   "parent": "Salivary glands.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1231,
+    -0.0229,
+    1.5624
+   ],
+   "bbox_max": [
+    -0.0599,
+    -0.0214,
+    1.564
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Major salivary glands.j",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Major salivary glands.j",
+   "parent": "Major salivary glands.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1203,
+    -0.0167,
+    1.5537
+   ],
+   "bbox_max": [
+    -0.0536,
+    -0.0157,
+    1.5548
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parotid gland.r",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Parotid gland.r",
+   "parent": "Major salivary glands.g",
+   "verts": 854,
+   "tris": 1704,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.065,
+    -0.0363,
+    1.5289
+   ],
+   "bbox_max": [
+    -0.0336,
+    -0.0032,
+    1.5765
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "(Accessory parotid gland).r",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/(Accessory parotid gland).r",
+   "parent": "Major salivary glands.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0614,
+    -0.0499,
+    1.5515
+   ],
+   "bbox_max": [
+    -0.0531,
+    -0.0382,
+    1.5602
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parotid gland.l",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Parotid gland.l",
+   "parent": "Major salivary glands.g",
+   "verts": 854,
+   "tris": 1704,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0336,
+    -0.0363,
+    1.5289
+   ],
+   "bbox_max": [
+    0.065,
+    -0.0032,
+    1.5765
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "(Accessory parotid gland).l",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/(Accessory parotid gland).l",
+   "parent": "Major salivary glands.g",
+   "verts": 108,
+   "tris": 212,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0531,
+    -0.0499,
+    1.5515
+   ],
+   "bbox_max": [
+    0.0614,
+    -0.0382,
+    1.5602
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parotid duct.l",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Parotid duct.l",
+   "parent": "Major salivary glands.g",
+   "verts": 588,
+   "tris": 1152,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0334,
+    -0.0554,
+    1.5389
+   ],
+   "bbox_max": [
+    0.0616,
+    -0.0323,
+    1.558
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parotid duct.r",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Parotid duct.r",
+   "parent": "Major salivary glands.g",
+   "verts": 588,
+   "tris": 1152,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0616,
+    -0.0554,
+    1.5389
+   ],
+   "bbox_max": [
+    -0.0334,
+    -0.0323,
+    1.558
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sublingual gland.l",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Sublingual gland.l",
+   "parent": "Major salivary glands.g",
+   "verts": 164,
+   "tris": 324,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0031,
+    -0.0725,
+    1.5052
+   ],
+   "bbox_max": [
+    0.02,
+    -0.0467,
+    1.5195
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Sublingual gland.r",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Sublingual gland.r",
+   "parent": "Major salivary glands.g",
+   "verts": 164,
+   "tris": 324,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0199,
+    -0.0725,
+    1.5052
+   ],
+   "bbox_max": [
+    -0.0032,
+    -0.0467,
+    1.5194
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Submandibular gland.l",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Submandibular gland.l",
+   "parent": "Major salivary glands.g",
+   "verts": 198,
+   "tris": 392,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.016,
+    -0.0523,
+    1.5041
+   ],
+   "bbox_max": [
+    0.0317,
+    -0.0306,
+    1.5267
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Submandibular gland.r",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Submandibular gland.r",
+   "parent": "Major salivary glands.g",
+   "verts": 198,
+   "tris": 392,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0317,
+    -0.0523,
+    1.5041
+   ],
+   "bbox_max": [
+    -0.016,
+    -0.0306,
+    1.5267
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 2
+  },
+  {
+   "name": "Submandibular duct.l",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Submandibular duct.l",
+   "parent": "Major salivary glands.g",
+   "verts": 588,
+   "tris": 1152,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    0.0044,
+    -0.0646,
+    1.5044
+   ],
+   "bbox_max": [
+    0.0252,
+    -0.0377,
+    1.5202
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Submandibular duct.r",
+   "path": "Digestive system.g/Mouth.g/Salivary glands.g/Major salivary glands.g/Submandibular duct.r",
+   "parent": "Major salivary glands.g",
+   "verts": 588,
+   "tris": 1152,
+   "materials": [
+    "Gland"
+   ],
+   "bbox_min": [
+    -0.0252,
+    -0.0646,
+    1.5044
+   ],
+   "bbox_max": [
+    -0.0044,
+    -0.0377,
+    1.5202
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Palate.j",
+   "path": "Digestive system.g/Mouth.g/Palate.g/Palate.j",
+   "parent": "Palate.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0262,
+    -0.0374,
+    1.546
+   ],
+   "bbox_max": [
+    0.0797,
+    -0.0364,
+    1.5471
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fauces.j",
+   "path": "Digestive system.g/Fauces.g/Fauces.j",
+   "parent": "Fauces.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0093,
+    -0.024,
+    1.5156
+   ],
+   "bbox_max": [
+    0.0662,
+    -0.0229,
+    1.5168
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Bile duct",
+   "path": "Digestive system.g/Extrahepatic bile ducts.g/Bile duct",
+   "parent": "Extrahepatic bile ducts.g",
+   "verts": 1020,
+   "tris": 2016,
+   "materials": [
+    "Gallbladder"
+   ],
+   "bbox_min": [
+    -0.0584,
+    -0.0405,
+    1.0893
+   ],
+   "bbox_max": [
+    -0.0132,
+    -0.0285,
+    1.1627
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Extrahepatic bile ducts.j",
+   "path": "Digestive system.g/Extrahepatic bile ducts.g/Extrahepatic bile ducts.j",
+   "parent": "Extrahepatic bile ducts.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0156,
+    -0.0384,
+    1.1455
+   ],
+   "bbox_max": [
+    -0.0136,
+    0.1905,
+    1.1479
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oesophagus-profile",
+   "path": "Digestive system.g/Digestive canal.g/Oesophagus/Oesophagus-profile",
+   "parent": "Oesophagus",
+   "verts": 48,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.009,
+    -0.0049,
+    0.0
+   ],
+   "bbox_max": [
+    0.009,
+    0.0033,
+    0.0
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oesophagus",
+   "path": "Digestive system.g/Digestive canal.g/Oesophagus",
+   "parent": "Digestive canal.g",
+   "verts": 8160,
+   "tris": 16320,
+   "materials": [
+    "Mucosa"
+   ],
+   "bbox_min": [
+    -0.009,
+    -0.0183,
+    1.1941
+   ],
+   "bbox_max": [
+    0.0183,
+    0.0337,
+    1.4755
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mucosa of stomach",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Mucosa of stomach",
+   "parent": "Stomach",
+   "verts": 0,
+   "tris": 0,
+   "materials": [
+    "Mucosa of stomach"
+   ],
+   "bbox_min": [
+    0.0363,
+    -0.0425,
+    1.1723
+   ],
+   "bbox_max": [
+    0.0363,
+    -0.0425,
+    1.1723
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Angular incisure.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Angular incisure.t/Angular incisure.j",
+   "parent": "Angular incisure.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0124,
+    -0.0606,
+    1.1416
+   ],
+   "bbox_max": [
+    -0.0119,
+    -0.0601,
+    1.1492
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior wall of stomach.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Anterior wall of stomach.t/Anterior wall of stomach.j",
+   "parent": "Anterior wall of stomach.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0593,
+    -0.1162,
+    1.1748
+   ],
+   "bbox_max": [
+    0.0598,
+    -0.0838,
+    1.1753
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Body of stomach.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Body of stomach.t/Body of stomach.j",
+   "parent": "Body of stomach.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0856,
+    -0.0862,
+    1.1578
+   ],
+   "bbox_max": [
+    0.1041,
+    -0.0734,
+    1.1584
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cardia.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Cardia.t/Cardia.j",
+   "parent": "Cardia.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0111,
+    -0.0403,
+    1.1971
+   ],
+   "bbox_max": [
+    0.0116,
+    -0.027,
+    1.1976
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cardiac notch.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Cardiac notch.t/Cardiac notch.j",
+   "parent": "Cardiac notch.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0145,
+    -0.0273,
+    1.2021
+   ],
+   "bbox_max": [
+    0.015,
+    -0.0268,
+    1.2115
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fundus of stomach.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Fundus of stomach.t/Fundus of stomach.j",
+   "parent": "Fundus of stomach.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0539,
+    -0.069,
+    1.2272
+   ],
+   "bbox_max": [
+    0.0544,
+    -0.0338,
+    1.2278
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Greater curvature of stomach.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Greater curvature of stomach.t/Greater curvature of stomach.j",
+   "parent": "Greater curvature of stomach.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0917,
+    -0.0493,
+    1.1332
+   ],
+   "bbox_max": [
+    0.1319,
+    -0.0488,
+    1.1337
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lesser curvature of stomach.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Lesser curvature of stomach.t/Lesser curvature of stomach.j",
+   "parent": "Lesser curvature of stomach.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0097,
+    -0.0701,
+    1.1643
+   ],
+   "bbox_max": [
+    0.0232,
+    -0.0696,
+    1.165
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior wall of stomach.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Posterior wall of stomach.t/Posterior wall of stomach.j",
+   "parent": "Posterior wall of stomach.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0566,
+    -0.0004,
+    1.1465
+   ],
+   "bbox_max": [
+    0.0571,
+    0.0318,
+    1.147
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pyloric antrum.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Pyloric antrum.t/Pyloric antrum.j",
+   "parent": "Pyloric antrum.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0188,
+    -0.0997,
+    1.128
+   ],
+   "bbox_max": [
+    -0.0069,
+    -0.0843,
+    1.1285
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pyloric part.j",
+   "path": "Digestive system.g/Digestive canal.g/Stomach/Pyloric part.t/Pyloric part.j",
+   "parent": "Pyloric part.t",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0163,
+    -0.0721,
+    1.1099
+   ],
+   "bbox_max": [
+    -0.0158,
+    -0.0716,
+    1.1188
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Stomach",
+   "path": "Digestive system.g/Digestive canal.g/Stomach",
+   "parent": "Digestive canal.g",
+   "verts": 4803,
+   "tris": 9468,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0288,
+    -0.0888,
+    1.1037
+   ],
+   "bbox_max": [
+    0.1054,
+    0.0165,
+    1.2291
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Digestive canal.j",
+   "path": "Digestive system.g/Digestive canal.g/Digestive canal.j",
+   "parent": "Digestive canal.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.0008,
+    0.0092,
+    1.2371
+   ],
+   "bbox_max": [
+    0.0012,
+    0.1629,
+    1.2409
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Duodenum",
+   "path": "Digestive system.g/Digestive canal.g/Small intestine.g/Duodenum",
+   "parent": "Small intestine.g",
+   "verts": 887,
+   "tris": 1750,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0656,
+    -0.0574,
+    1.0449
+   ],
+   "bbox_max": [
+    0.0323,
+    -0.0057,
+    1.1433
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Jejunum",
+   "path": "Digestive system.g/Digestive canal.g/Small intestine.g/Jejunum",
+   "parent": "Small intestine.g",
+   "verts": 13836,
+   "tris": 27648,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0826,
+    -0.081,
+    0.8811
+   ],
+   "bbox_max": [
+    0.1004,
+    -0.0189,
+    1.0898
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Small intestine.j",
+   "path": "Digestive system.g/Digestive canal.g/Small intestine.g/Small intestine.j",
+   "parent": "Small intestine.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0036,
+    -0.1499,
+    0.9732
+   ],
+   "bbox_max": [
+    0.0056,
+    -0.0707,
+    0.9752
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Large intestine.j",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Large intestine.j",
+   "parent": "Large intestine.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1721,
+    -0.0128,
+    1.0339
+   ],
+   "bbox_max": [
+    -0.1047,
+    -0.0108,
+    1.036
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Vermiform appendix",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Vermiform appendix",
+   "parent": "Colon.g",
+   "verts": 223,
+   "tris": 442,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0884,
+    -0.0226,
+    0.9404
+   ],
+   "bbox_max": [
+    -0.0189,
+    0.0164,
+    0.9584
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sigmoid colon",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Sigmoid colon",
+   "parent": "Colon.g",
+   "verts": 1716,
+   "tris": 3432,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0262,
+    0.0224,
+    0.8037
+   ],
+   "bbox_max": [
+    0.0354,
+    0.0718,
+    0.9264
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Colon.j",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Colon.j",
+   "parent": "Colon.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.1603,
+    -0.0133,
+    1.0147
+   ],
+   "bbox_max": [
+    -0.1073,
+    -0.0118,
+    1.0162
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ascending colon",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Ascending colon",
+   "parent": "Colon.g",
+   "verts": 8758,
+   "tris": 17512,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.1138,
+    -0.043,
+    0.9221
+   ],
+   "bbox_max": [
+    -0.0623,
+    0.0131,
+    1.1145
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Descending colon",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Descending colon",
+   "parent": "Colon.g",
+   "verts": 12372,
+   "tris": 24744,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0182,
+    -0.0357,
+    0.8712
+   ],
+   "bbox_max": [
+    0.1143,
+    0.058,
+    1.1345
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Transverse colon",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Transverse colon",
+   "parent": "Colon.g",
+   "verts": 8308,
+   "tris": 16616,
+   "materials": [
+    "Intestine"
+   ],
+   "bbox_min": [
+    -0.0873,
+    -0.0813,
+    1.0668
+   ],
+   "bbox_max": [
+    0.0991,
+    -0.006,
+    1.1351
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Free taenia",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Free taenia",
+   "parent": "Taeniae coli.g",
+   "verts": 3358,
+   "tris": 6712,
+   "materials": [
+    "Ligament"
+   ],
+   "bbox_min": [
+    -0.0736,
+    -0.0527,
+    0.9182
+   ],
+   "bbox_max": [
+    0.0776,
+    0.0412,
+    1.1202
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mesocolic taenia",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Mesocolic taenia",
+   "parent": "Taeniae coli.g",
+   "verts": 3398,
+   "tris": 6792,
+   "materials": [
+    "Ligament"
+   ],
+   "bbox_min": [
+    -0.1149,
+    -0.0823,
+    0.8847
+   ],
+   "bbox_max": [
+    0.1104,
+    0.055,
+    1.1323
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Omental taenia",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Omental taenia",
+   "parent": "Taeniae coli.g",
+   "verts": 3118,
+   "tris": 6232,
+   "materials": [
+    "Ligament"
+   ],
+   "bbox_min": [
+    -0.082,
+    -0.0597,
+    0.8806
+   ],
+   "bbox_max": [
+    0.0983,
+    0.0199,
+    1.0844
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Taeniae coli.j",
+   "path": "Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Taeniae coli.j",
+   "parent": "Taeniae coli.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    -0.15,
+    -0.0018,
+    0.9894
+   ],
+   "bbox_max": [
+    -0.1099,
+    -0.0008,
+    0.9904
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Abdominopelvic cavity.j",
+   "path": "Abdominopelvic cavity.g/Abdominopelvic cavity.j",
+   "parent": "Abdominopelvic cavity.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0003,
+    -0.1903,
+    1.0498
+   ],
+   "bbox_max": [
+    0.0028,
+    -0.0328,
+    1.0525
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Visceral fasciae of abdominopelvic cavity.j",
+   "path": "Abdominopelvic cavity.g/Visceral fasciae of abdominopelvic cavity.g/Visceral fasciae of abdominopelvic cavity.j",
+   "parent": "Visceral fasciae of abdominopelvic cavity.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0044,
+    -0.2107,
+    1.0018
+   ],
+   "bbox_max": [
+    0.0059,
+    -0.0781,
+    1.0036
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Peritoneum.j",
+   "path": "Abdominopelvic cavity.g/Peritoneum.g/Peritoneum.j",
+   "parent": "Peritoneum.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.005,
+    -0.1349,
+    1.026
+   ],
+   "bbox_max": [
+    0.0065,
+    -0.0822,
+    1.0277
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Peritoneal structures.j",
+   "path": "Abdominopelvic cavity.g/Peritoneal structures.g/Peritoneal structures.j",
+   "parent": "Peritoneal structures.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0046,
+    -0.1586,
+    1.0143
+   ],
+   "bbox_max": [
+    0.0061,
+    -0.0804,
+    1.0159
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Meso-appendix",
+   "path": "Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon/Meso-appendix",
+   "parent": "Mesocolon",
+   "verts": 236,
+   "tris": 468,
+   "materials": [
+    "Ligament"
+   ],
+   "bbox_min": [
+    -0.072,
+    -0.02,
+    0.9467
+   ],
+   "bbox_max": [
+    -0.0225,
+    0.0129,
+    0.9907
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mesocolon",
+   "path": "Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon",
+   "parent": "Peritoneal structures.g",
+   "verts": 7886,
+   "tris": 15768,
+   "materials": [
+    "Peritoneum"
+   ],
+   "bbox_min": [
+    -0.0315,
+    -0.0868,
+    1.1002
+   ],
+   "bbox_max": [
+    0.0999,
+    0.001,
+    1.1472
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Greater omentum",
+   "path": "Abdominopelvic cavity.g/Peritoneal structures.g/Greater omentum",
+   "parent": "Peritoneal structures.g",
+   "verts": 38986,
+   "tris": 77968,
+   "materials": [
+    "Peritoneum"
+   ],
+   "bbox_min": [
+    -0.1026,
+    -0.0881,
+    0.8795
+   ],
+   "bbox_max": [
+    0.1093,
+    -0.0186,
+    1.1628
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lesser omentum",
+   "path": "Abdominopelvic cavity.g/Peritoneal structures.g/Lesser omentum",
+   "parent": "Peritoneal structures.g",
+   "verts": 2382,
+   "tris": 4760,
+   "materials": [
+    "Peritoneum"
+   ],
+   "bbox_min": [
+    -0.0346,
+    -0.0807,
+    1.142
+   ],
+   "bbox_max": [
+    0.0254,
+    -0.0167,
+    1.2
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Peritoneal cavity.j",
+   "path": "Abdominopelvic cavity.g/Peritoneal cavity.g/Peritoneal cavity.j",
+   "parent": "Peritoneal cavity.g",
+   "verts": 8,
+   "tris": 12,
+   "materials": [],
+   "bbox_min": [
+    0.0051,
+    -0.1536,
+    1.0385
+   ],
+   "bbox_max": [
+    0.0066,
+    -0.0829,
+    1.0401
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section X",
+   "path": "Cross Section X",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    0.4,
+    -0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Z",
+   "path": "Cross Section Z",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4007,
+    -0.2163,
+    1.79
+   ],
+   "bbox_max": [
+    0.4007,
+    0.2163,
+    1.79
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Y",
+   "path": "Cross Section Y",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4,
+    0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

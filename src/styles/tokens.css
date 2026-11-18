@@ -1,0 +1,89 @@
+:root {
+  color-scheme: dark;
+
+  /* Medical / Clinical Sterile Dark Navy Background Palette */
+  --bg-void: #050a12;
+  --bg-deep: #08101c;
+  --bg-surface: #0c1726;
+  --bg-elevated: #112136;
+  --bg-navy-elevated: #112136;
+
+  /* Clinical Glassmorphism UI Variables (Emerald-Teal Tinted) */
+  --glass-bg: rgba(9, 19, 32, 0.72);
+  --glass-bg-strong: rgba(7, 15, 26, 0.88);
+  --glass-bg-subtle: rgba(14, 29, 46, 0.48);
+  --glass-border: rgba(45, 212, 191, 0.16);
+  --glass-border-strong: rgba(45, 212, 191, 0.44);
+  --glass-shadow: 0 20px 48px -16px rgba(2, 8, 16, 0.78);
+  --glass-blur: blur(20px);
+
+  /* Text Hierarchy */
+  --text-primary: #f0fdfa;
+  --text-secondary: #9fb8c8;
+  --text-muted: #688396;
+  --text-inverse: #041014;
+
+  /* Primary Medical / Clinical Emerald-Teal Accents */
+  --accent-primary: #14b8a6;
+  --accent-hover: #0d9488;
+  --accent-light: #2dd4bf;
+  --accent-soft: rgba(20, 184, 166, 0.16);
+  --accent-cyan: #14b8a6;
+  --accent-cyan-soft: rgba(20, 184, 166, 0.16);
+  --accent-blue: #0d9488;
+  --accent-blue-soft: rgba(13, 148, 136, 0.18);
+  --accent-glow: 0 0 24px rgba(20, 184, 166, 0.28);
+
+  /* Anatomical System Accents */
+  --sys-rangka: #e8dfd1;
+  --sys-rangka-soft: rgba(232, 223, 209, 0.14);
+  --sys-peredaran: #fb7185;
+  --sys-peredaran-soft: rgba(251, 113, 133, 0.15);
+  --sys-pernapasan: #14b8a6;
+  --sys-pernapasan-soft: rgba(20, 184, 166, 0.16);
+  --sys-wilayah: #5eead4;
+  --sys-wilayah-soft: rgba(94, 234, 212, 0.15);
+
+  /* Scientific Accuracy Badges */
+  --status-anatomis: #34d399;
+  --status-anatomis-bg: rgba(52, 211, 153, 0.15);
+  --status-skematis: #fbbf24;
+  --status-skematis-bg: rgba(251, 191, 36, 0.15);
+  --status-danger: #f87171;
+
+  /* Typography */
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Sora', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace;
+
+  /* Layout & Geometry */
+  --navbar-height: 64px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+
+  /* Z-Index Scale */
+  --z-canvas: 0;
+  --z-hud: 10;
+  --z-page: 15;
+  --z-navbar: 30;
+  --z-modal: 50;
+
+  /* Motion */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 160ms;
+  --duration-normal: 280ms;
+}
+
+[data-reduced-motion='true'] {
+  --duration-fast: 0ms;
+  --duration-normal: 0ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 0ms;
+    --duration-normal: 0ms;
+  }
+}

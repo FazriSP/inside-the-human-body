@@ -1,0 +1,27 @@
+{
+  "name": "INSIDE THE HUMAN BODY — Laboratorium Anatomi 3D SMA/SMK Indonesia",
+  "short_name": "Anatomi 3D",
+  "description": "Platform pembelajaran interaktif anatomi manusia 3D sinematik untuk siswa SMA dan SMK di Indonesia (Kurikulum Merdeka Fase F).",
+  "lang": "id",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060a14",
+  "theme_color": "#060a14",
+  "categories": ["education", "medical", "science"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

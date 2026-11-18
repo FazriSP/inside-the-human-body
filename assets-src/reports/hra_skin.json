@@ -1,0 +1,62 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\hubmap-hra\\glb\\3d-vh-m-skin.glb",
+ "import_seconds": 2.16,
+ "mesh_count": 1,
+ "total_tris": 829184,
+ "total_verts": 414594,
+ "non_mesh_objects": {},
+ "scene_bbox_min": [
+  -0.5245,
+  -0.1578,
+  -0.9131
+ ],
+ "scene_bbox_max": [
+  0.5187,
+  0.1679,
+  0.9112
+ ],
+ "naming": {
+  "dup_suffix_count": 0,
+  "side_tag_count": 0,
+  "non_ascii_count": 0,
+  "unique_names": 1
+ },
+ "top_level_groups": {
+  "VH_M_skin": 1
+ },
+ "second_level_groups": {},
+ "heaviest_meshes": [
+  {
+   "name": "VH_M_skin",
+   "tris": 829184
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "VH_M_skin",
+   "path": "VH_M_skin",
+   "parent": null,
+   "verts": 414594,
+   "tris": 829184,
+   "materials": [
+    "VH_M_United_041725_new_attribute_new_organs_only:pasted__Skin_M"
+   ],
+   "bbox_min": [
+    -0.5245,
+    -0.1578,
+    -0.9131
+   ],
+   "bbox_max": [
+    0.5187,
+    0.1679,
+    0.9112
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

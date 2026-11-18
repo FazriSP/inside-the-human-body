@@ -1,0 +1,82 @@
+[
+  {
+    "id": "za-skeletal-full",
+    "label": "Z-Anatomy — Sistem Rangka Utuh (277 Tulang & Rawan)",
+    "input": "c:/Projects/antigravity/assets-src/z-anatomy/glb-clean/za-skeletal-full.glb",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "za-cardiovascular-core",
+    "label": "Z-Anatomy — Sistem Peredaran Darah Inti (Jantung & Pembuluh Utama)",
+    "input": "c:/Projects/antigravity/assets-src/z-anatomy/glb-clean/za-cardiovascular-core.glb",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "za-respiratory",
+    "label": "Z-Anatomy — Sistem Pernapasan Utuh (Hidung, Laring, Trakea, Bronkus, Paru)",
+    "input": "c:/Projects/antigravity/assets-src/z-anatomy/glb-clean/za-respiratory.glb",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "za-regions-skin",
+    "label": "Z-Anatomy — Permukaan & Wilayah Tubuh (Jelajah Wilayah)",
+    "input": "c:/Projects/antigravity/assets-src/z-anatomy/glb-clean/za-regions-skin.glb",
+    "source": "Z-Anatomy (LluisV / BodyParts3D)",
+    "license": "CC BY-SA 4.0 / CC BY-SA 2.1 JP",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "hra-heart",
+    "label": "HuBMAP HRA — Detail Organ Jantung (Ruang, Katup, Otot Papilaris)",
+    "input": "c:/Projects/antigravity/assets-src/hubmap-hra/glb/3d-vh-m-heart.glb",
+    "source": "HuBMAP Human Reference Atlas v1.3 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "hra-lung",
+    "label": "HuBMAP HRA — Detail Organ Paru-paru & Percabangan Bronkus",
+    "input": "c:/Projects/antigravity/assets-src/hubmap-hra/glb/3d-vh-m-lung.glb",
+    "source": "HuBMAP Human Reference Atlas v1.4 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "hra-trachea",
+    "label": "HuBMAP HRA — Detail Organ Trakea & Karina",
+    "input": "c:/Projects/antigravity/assets-src/hubmap-hra/glb/3d-vh-m-trachea.glb",
+    "source": "HuBMAP Human Reference Atlas v1.1 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  },
+  {
+    "id": "hra-larynx",
+    "label": "HuBMAP HRA — Detail Organ Laring (Kartilago Tiroid, Krikoid, Epiglotis)",
+    "input": "c:/Projects/antigravity/assets-src/hubmap-hra/glb/3d-vh-m-larynx.glb",
+    "source": "HuBMAP Human Reference Atlas v1.1 (Visible Human Male)",
+    "license": "CC BY 4.0",
+    "accuracy": "anatomis",
+    "simplifyRatio": 0.45,
+    "simplifyError": 0.002
+  }
+]

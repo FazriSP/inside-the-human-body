@@ -1,0 +1,1487 @@
+{
+ "input": "c:\\Projects\\antigravity\\assets-src\\z-anatomy\\fbx\\References100.fbx",
+ "import_seconds": 1.51,
+ "mesh_count": 54,
+ "total_tris": 7958,
+ "total_verts": 6097,
+ "non_mesh_objects": {
+  "EMPTY": 2
+ },
+ "scene_bbox_min": [
+  -0.4007,
+  -0.3418,
+  -0.0894
+ ],
+ "scene_bbox_max": [
+  0.4007,
+  0.3418,
+  1.79
+ ],
+ "naming": {
+  "dup_suffix_count": 3,
+  "side_tag_count": 16,
+  "non_ascii_count": 0,
+  "unique_names": 54
+ },
+ "top_level_groups": {
+  "Longitudinal planes.g": 3,
+  "Distal": 1,
+  "Dorsal": 1,
+  "Fibular": 1,
+  "Plantar": 1,
+  "Proximal": 1,
+  "Radial": 1,
+  "Tibial": 1,
+  "Ulnar": 1,
+  "Ventral": 1,
+  "Transverse planes": 1,
+  "Mamillary line.r": 1,
+  "Midclavicular line.r": 1,
+  "Parasternal line.r": 1,
+  "Sternal line.r": 1,
+  "Mamillary line.l": 1,
+  "Midclavicular line.l": 1,
+  "Parasternal line.l": 1,
+  "Sternal line.l": 1,
+  "Abduction": 1,
+  "Adduction": 1,
+  "Circumduction": 1,
+  "Lateral rotation": 1,
+  "Medial rotation": 1,
+  "Anterior median line": 1,
+  "Posterior median line": 1,
+  "Paravertebral line.r": 1,
+  "Paravertebral line.l": 1,
+  "Scapular line.r": 1,
+  "Scapular line.l": 1,
+  "Anterior axillary line.l": 1,
+  "Posterior axillary line.l": 1,
+  "Posterior axillary line.r": 1,
+  "Anterior axillary line.r": 1,
+  "Frontal": 1,
+  "Occipital": 1,
+  "Cranial": 1,
+  "Caudal": 1,
+  "Supination": 1,
+  "Pronation": 1
+ },
+ "second_level_groups": {
+  "Longitudinal planes.g/Sagittal planes.g": 2,
+  "Longitudinal planes.g/Coronal planes": 1
+ },
+ "heaviest_meshes": [
+  {
+   "name": "Adduction",
+   "tris": 1104
+  },
+  {
+   "name": "Midclavicular line.r",
+   "tris": 928
+  },
+  {
+   "name": "Midclavicular line.l",
+   "tris": 928
+  },
+  {
+   "name": "Parasternal line.r",
+   "tris": 496
+  },
+  {
+   "name": "Parasternal line.l",
+   "tris": 496
+  },
+  {
+   "name": "Posterior median line",
+   "tris": 400
+  },
+  {
+   "name": "Mamillary line.r",
+   "tris": 384
+  },
+  {
+   "name": "Mamillary line.l",
+   "tris": 384
+  },
+  {
+   "name": "Anterior median line",
+   "tris": 360
+  },
+  {
+   "name": "Paravertebral line.r",
+   "tris": 280
+  },
+  {
+   "name": "Paravertebral line.l",
+   "tris": 280
+  },
+  {
+   "name": "Posterior axillary line.l",
+   "tris": 256
+  },
+  {
+   "name": "Sternal line.r",
+   "tris": 176
+  },
+  {
+   "name": "Sternal line.l",
+   "tris": 176
+  },
+  {
+   "name": "Scapular line.r",
+   "tris": 168
+  },
+  {
+   "name": "Scapular line.l",
+   "tris": 168
+  },
+  {
+   "name": "Anterior axillary line.l",
+   "tris": 160
+  },
+  {
+   "name": "Anterior axillary line.r",
+   "tris": 160
+  },
+  {
+   "name": "Dorsal",
+   "tris": 63
+  },
+  {
+   "name": "Circumduction",
+   "tris": 54
+  },
+  {
+   "name": "Abduction",
+   "tris": 46
+  },
+  {
+   "name": "Distal",
+   "tris": 42
+  },
+  {
+   "name": "Proximal",
+   "tris": 42
+  },
+  {
+   "name": "Lateral rotation",
+   "tris": 23
+  },
+  {
+   "name": "Medial rotation",
+   "tris": 23
+  }
+ ],
+ "export": null,
+ "meshes": [
+  {
+   "name": "Distal",
+   "path": "Distal",
+   "parent": null,
+   "verts": 46,
+   "tris": 42,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.2684,
+    -0.0593,
+    0.1637
+   ],
+   "bbox_max": [
+    -0.0808,
+    -0.0314,
+    0.9581
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsal",
+   "path": "Dorsal",
+   "parent": null,
+   "verts": 69,
+   "tris": 63,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.2648,
+    -0.0441,
+    0.0794
+   ],
+   "bbox_max": [
+    -0.0005,
+    0.2687,
+    1.017
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Fibular",
+   "path": "Fibular",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.1768,
+    0.0329,
+    0.1261
+   ],
+   "bbox_max": [
+    -0.1295,
+    0.0329,
+    0.1548
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Plantar",
+   "path": "Plantar",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0911,
+    -0.013,
+    -0.0393
+   ],
+   "bbox_max": [
+    -0.0911,
+    0.0151,
+    0.0075
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Proximal",
+   "path": "Proximal",
+   "parent": null,
+   "verts": 46,
+   "tris": 42,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.2261,
+    -0.0876,
+    0.4423
+   ],
+   "bbox_max": [
+    -0.08,
+    -0.0211,
+    1.2682
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Radial",
+   "path": "Radial",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.3289,
+    0.0329,
+    0.9663
+   ],
+   "bbox_max": [
+    -0.2816,
+    0.0329,
+    0.995
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Tibial",
+   "path": "Tibial",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0485,
+    0.0329,
+    0.1288
+   ],
+   "bbox_max": [
+    -0.0012,
+    0.0329,
+    0.1575
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ulnar",
+   "path": "Ulnar",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.2006,
+    0.0329,
+    0.9691
+   ],
+   "bbox_max": [
+    -0.1533,
+    0.0329,
+    0.9978
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Ventral",
+   "path": "Ventral",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0005,
+    -0.2929,
+    0.9943
+   ],
+   "bbox_max": [
+    -0.0005,
+    -0.1561,
+    1.0084
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Transverse planes",
+   "path": "Transverse planes",
+   "parent": null,
+   "verts": 20,
+   "tris": 10,
+   "materials": [
+    "Planes.001"
+   ],
+   "bbox_min": [
+    -0.1709,
+    -0.1709,
+    0.0028
+   ],
+   "bbox_max": [
+    0.2882,
+    0.1709,
+    1.4602
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mamillary line.r",
+   "path": "Mamillary line.r",
+   "parent": null,
+   "verts": 291,
+   "tris": 384,
+   "materials": [],
+   "bbox_min": [
+    -0.1101,
+    -0.1216,
+    1.2329
+   ],
+   "bbox_max": [
+    -0.1091,
+    -0.0557,
+    1.3821
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Midclavicular line.r",
+   "path": "Midclavicular line.r",
+   "parent": null,
+   "verts": 699,
+   "tris": 928,
+   "materials": [],
+   "bbox_min": [
+    -0.0844,
+    -0.1289,
+    0.9671
+   ],
+   "bbox_max": [
+    -0.0834,
+    -0.052,
+    1.3979
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parasternal line.r",
+   "path": "Parasternal line.r",
+   "parent": null,
+   "verts": 375,
+   "tris": 496,
+   "materials": [],
+   "bbox_min": [
+    -0.0507,
+    -0.133,
+    1.1697
+   ],
+   "bbox_max": [
+    -0.0497,
+    -0.0687,
+    1.3898
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sternal line.r",
+   "path": "Sternal line.r",
+   "parent": null,
+   "verts": 135,
+   "tris": 176,
+   "materials": [],
+   "bbox_min": [
+    -0.0233,
+    -0.1245,
+    1.2896
+   ],
+   "bbox_max": [
+    -0.0223,
+    -0.0749,
+    1.384
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Mamillary line.l",
+   "path": "Mamillary line.l",
+   "parent": null,
+   "verts": 291,
+   "tris": 384,
+   "materials": [],
+   "bbox_min": [
+    0.1091,
+    -0.1216,
+    1.2329
+   ],
+   "bbox_max": [
+    0.1101,
+    -0.0557,
+    1.3821
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Midclavicular line.l",
+   "path": "Midclavicular line.l",
+   "parent": null,
+   "verts": 699,
+   "tris": 928,
+   "materials": [],
+   "bbox_min": [
+    0.0834,
+    -0.1289,
+    0.9671
+   ],
+   "bbox_max": [
+    0.0844,
+    -0.052,
+    1.3979
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Parasternal line.l",
+   "path": "Parasternal line.l",
+   "parent": null,
+   "verts": 375,
+   "tris": 496,
+   "materials": [],
+   "bbox_min": [
+    0.0497,
+    -0.133,
+    1.1697
+   ],
+   "bbox_max": [
+    0.0507,
+    -0.0687,
+    1.3898
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Sternal line.l",
+   "path": "Sternal line.l",
+   "parent": null,
+   "verts": 135,
+   "tris": 176,
+   "materials": [],
+   "bbox_min": [
+    0.0223,
+    -0.1245,
+    1.2896
+   ],
+   "bbox_max": [
+    0.0233,
+    -0.0749,
+    1.384
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Abduction",
+   "path": "Abduction",
+   "parent": null,
+   "verts": 50,
+   "tris": 46,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    -0.2432,
+    -0.0274,
+    0.7781
+   ],
+   "bbox_max": [
+    0.1402,
+    0.0351,
+    1.4728
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Adduction",
+   "path": "Adduction",
+   "parent": null,
+   "verts": 654,
+   "tris": 1104,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.1209,
+    -0.0274,
+    0.8025
+   ],
+   "bbox_max": [
+    0.2416,
+    0.0351,
+    1.4737
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Circumduction",
+   "path": "Circumduction",
+   "parent": null,
+   "verts": 60,
+   "tris": 54,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    -0.1968,
+    -0.0567,
+    1.3124
+   ],
+   "bbox_max": [
+    -0.1192,
+    0.1018,
+    1.4741
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Lateral rotation",
+   "path": "Lateral rotation",
+   "parent": null,
+   "verts": 25,
+   "tris": 23,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.1402,
+    -0.0601,
+    1.3792
+   ],
+   "bbox_max": [
+    0.2416,
+    0.0218,
+    1.4073
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Medial rotation",
+   "path": "Medial rotation",
+   "parent": null,
+   "verts": 25,
+   "tris": 23,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.1402,
+    0.0203,
+    1.3792
+   ],
+   "bbox_max": [
+    0.2416,
+    0.1023,
+    1.4073
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior median line",
+   "path": "Anterior median line",
+   "parent": null,
+   "verts": 273,
+   "tris": 360,
+   "materials": [],
+   "bbox_min": [
+    0.0,
+    -0.1312,
+    0.8381
+   ],
+   "bbox_max": [
+    0.001,
+    -0.0587,
+    1.4023
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior median line",
+   "path": "Posterior median line",
+   "parent": null,
+   "verts": 303,
+   "tris": 400,
+   "materials": [],
+   "bbox_min": [
+    -0.0,
+    0.0675,
+    0.8936
+   ],
+   "bbox_max": [
+    0.001,
+    0.1237,
+    1.5179
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Paravertebral line.r",
+   "path": "Paravertebral line.r",
+   "parent": null,
+   "verts": 213,
+   "tris": 280,
+   "materials": [],
+   "bbox_min": [
+    -0.0289,
+    0.0951,
+    0.9726
+   ],
+   "bbox_max": [
+    -0.0279,
+    0.1342,
+    1.4354
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Paravertebral line.l",
+   "path": "Paravertebral line.l",
+   "parent": null,
+   "verts": 213,
+   "tris": 280,
+   "materials": [],
+   "bbox_min": [
+    0.0279,
+    0.0951,
+    0.9726
+   ],
+   "bbox_max": [
+    0.0289,
+    0.1342,
+    1.4354
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Scapular line.r",
+   "path": "Scapular line.r",
+   "parent": null,
+   "verts": 129,
+   "tris": 168,
+   "materials": [],
+   "bbox_min": [
+    -0.0955,
+    0.1023,
+    1.2519
+   ],
+   "bbox_max": [
+    -0.0945,
+    0.1355,
+    1.4358
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Scapular line.l",
+   "path": "Scapular line.l",
+   "parent": null,
+   "verts": 129,
+   "tris": 168,
+   "materials": [],
+   "bbox_min": [
+    0.0945,
+    0.1023,
+    1.2519
+   ],
+   "bbox_max": [
+    0.0955,
+    0.1355,
+    1.4358
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior axillary line.l",
+   "path": "Anterior axillary line.l",
+   "parent": null,
+   "verts": 105,
+   "tris": 160,
+   "materials": [
+    "Lines.001"
+   ],
+   "bbox_min": [
+    0.1603,
+    -0.0003,
+    1.2531
+   ],
+   "bbox_max": [
+    0.168,
+    0.0065,
+    1.274
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior axillary line.l",
+   "path": "Posterior axillary line.l",
+   "parent": null,
+   "verts": 165,
+   "tris": 256,
+   "materials": [
+    "Skin-2.003",
+    "Skin-in.003"
+   ],
+   "bbox_min": [
+    0.163,
+    0.0577,
+    1.22
+   ],
+   "bbox_max": [
+    0.1657,
+    0.0635,
+    1.2591
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Posterior axillary line.r",
+   "path": "Posterior axillary line.r",
+   "parent": null,
+   "verts": 18,
+   "tris": 16,
+   "materials": [
+    "Skin-2.003",
+    "Skin-in.003"
+   ],
+   "bbox_min": [
+    -0.1658,
+    0.0577,
+    1.22
+   ],
+   "bbox_max": [
+    -0.1629,
+    0.0635,
+    1.2591
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Anterior axillary line.r",
+   "path": "Anterior axillary line.r",
+   "parent": null,
+   "verts": 105,
+   "tris": 160,
+   "materials": [
+    "Lines.001"
+   ],
+   "bbox_min": [
+    -0.168,
+    -0.0003,
+    1.2531
+   ],
+   "bbox_max": [
+    -0.1603,
+    0.0065,
+    1.274
+   ],
+   "dup_suffix": false,
+   "has_side": true,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Frontal",
+   "path": "Frontal",
+   "parent": null,
+   "verts": 17,
+   "tris": 15,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0005,
+    -0.1605,
+    1.6311
+   ],
+   "bbox_max": [
+    -0.0005,
+    -0.0998,
+    1.6449
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Occipital",
+   "path": "Occipital",
+   "parent": null,
+   "verts": 17,
+   "tris": 15,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0006,
+    0.1282,
+    1.6311
+   ],
+   "bbox_max": [
+    -0.0004,
+    0.1888,
+    1.6449
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cranial",
+   "path": "Cranial",
+   "parent": null,
+   "verts": 17,
+   "tris": 15,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0986,
+    0.0074,
+    1.686
+   ],
+   "bbox_max": [
+    -0.0986,
+    0.0212,
+    1.7467
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Caudal",
+   "path": "Caudal",
+   "parent": null,
+   "verts": 17,
+   "tris": 15,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.0986,
+    0.0074,
+    1.5252
+   ],
+   "bbox_max": [
+    -0.0986,
+    0.0212,
+    1.5859
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Supination",
+   "path": "Supination",
+   "parent": null,
+   "verts": 25,
+   "tris": 23,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.227,
+    -0.0559,
+    0.8875
+   ],
+   "bbox_max": [
+    0.2855,
+    0.001,
+    0.9147
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Pronation",
+   "path": "Pronation",
+   "parent": null,
+   "verts": 25,
+   "tris": 23,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.2282,
+    -0.0599,
+    0.8708
+   ],
+   "bbox_max": [
+    0.2867,
+    -0.003,
+    0.898
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Palmar",
+   "path": "Palmar",
+   "parent": null,
+   "verts": 23,
+   "tris": 21,
+   "materials": [
+    "Directions.001"
+   ],
+   "bbox_min": [
+    -0.2648,
+    -0.1219,
+    0.8057
+   ],
+   "bbox_max": [
+    -0.2648,
+    -0.0774,
+    0.824
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Inversion",
+   "path": "Inversion",
+   "parent": null,
+   "verts": 25,
+   "tris": 23,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.0538,
+    -0.031,
+    0.0563
+   ],
+   "bbox_max": [
+    0.1123,
+    0.0063,
+    0.1117
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Eversion",
+   "path": "Eversion",
+   "parent": null,
+   "verts": 25,
+   "tris": 23,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.055,
+    -0.0457,
+    0.0476
+   ],
+   "bbox_max": [
+    0.1135,
+    -0.0085,
+    0.103
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Plantar flexion",
+   "path": "Plantar flexion",
+   "parent": null,
+   "verts": 15,
+   "tris": 13,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.0864,
+    -0.0785,
+    -0.0361
+   ],
+   "bbox_max": [
+    0.131,
+    -0.0133,
+    0.0172
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Dorsiflexion",
+   "path": "Dorsiflexion",
+   "parent": null,
+   "verts": 17,
+   "tris": 15,
+   "materials": [
+    "Movement.001"
+   ],
+   "bbox_min": [
+    0.0629,
+    -0.1102,
+    0.0235
+   ],
+   "bbox_max": [
+    0.1511,
+    -0.0613,
+    0.1189
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Coronal planes",
+   "path": "Longitudinal planes.g/Coronal planes",
+   "parent": "Longitudinal planes.g",
+   "verts": 8,
+   "tris": 4,
+   "materials": [
+    "Planes.001"
+   ],
+   "bbox_min": [
+    -0.3418,
+    -0.0,
+    -0.0042
+   ],
+   "bbox_max": [
+    0.3418,
+    0.0797,
+    1.7367
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Paramedian plane",
+   "path": "Longitudinal planes.g/Sagittal planes.g/Paramedian plane",
+   "parent": "Sagittal planes.g",
+   "verts": 4,
+   "tris": 2,
+   "materials": [
+    "Planes.001"
+   ],
+   "bbox_min": [
+    -0.1177,
+    -0.3418,
+    -0.0042
+   ],
+   "bbox_max": [
+    -0.1177,
+    0.3418,
+    1.7367
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Median plane",
+   "path": "Longitudinal planes.g/Sagittal planes.g/Median plane",
+   "parent": "Sagittal planes.g",
+   "verts": 4,
+   "tris": 2,
+   "materials": [
+    "Planes.001"
+   ],
+   "bbox_min": [
+    -0.0,
+    -0.3418,
+    -0.0042
+   ],
+   "bbox_max": [
+    0.0,
+    0.3418,
+    1.7367
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Oesophagus-profile",
+   "path": "Oesophagus-profile",
+   "parent": null,
+   "verts": 48,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.009,
+    -0.0049,
+    -0.0
+   ],
+   "bbox_max": [
+    0.009,
+    0.0033,
+    0.0
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section X",
+   "path": "Cross Section X",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    0.4,
+    -0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Z",
+   "path": "Cross Section Z",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4007,
+    -0.2163,
+    1.79
+   ],
+   "bbox_max": [
+    0.4007,
+    0.2163,
+    1.79
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Y",
+   "path": "Cross Section Y",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4,
+    0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": false,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section X.001",
+   "path": "Cross Section X.001",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    0.4,
+    -0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": true,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Z.001",
+   "path": "Cross Section Z.001",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4007,
+    -0.2163,
+    1.79
+   ],
+   "bbox_max": [
+    0.4007,
+    0.2163,
+    1.79
+   ],
+   "dup_suffix": true,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  },
+  {
+   "name": "Cross Section Y.001",
+   "path": "Cross Section Y.001",
+   "parent": null,
+   "verts": 4,
+   "tris": 0,
+   "materials": [],
+   "bbox_min": [
+    -0.4,
+    0.22,
+    -0.0894
+   ],
+   "bbox_max": [
+    0.4,
+    0.22,
+    1.7894
+   ],
+   "dup_suffix": true,
+   "has_side": false,
+   "non_ascii": false,
+   "modifiers": [],
+   "shared_mesh_users": 1
+  }
+ ]
+}

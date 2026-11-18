@@ -1,0 +1,31 @@
+{
+  "name": "ithb-asset-spike-viewer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Phase 0 asset spike: loads candidate anatomy GLBs and measures size, triangles, draw calls, picking and frame time. Not the product app.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "optimize": "node ../../tools/asset-pipeline/optimize.mjs",
+    "bench": "node ./bench/run-bench.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.0",
+    "@react-three/fiber": "^9.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@gltf-transform/cli": "^4.1.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.170.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "playwright": "^1.49.0",
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0"
+  }
+}
